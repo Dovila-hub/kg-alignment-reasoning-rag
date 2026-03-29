@@ -7,7 +7,7 @@
 
 ## About this project
 
-Honestly, when I first looked at the project requirements, it felt overwhelming. Four lab sessions worth of content combined into one full pipeline — crawling, knowledge graphs, reasoning, embeddings, and a RAG system — all from scratch. I didn't know where to start.
+Honestly, when I first looked at the project requirements, it felt overwhelming. Four lab sessions worth of content combined into one full pipeline which was crawling, knowledge graphs, reasoning, embeddings, and a RAG system all from scratch. I didn't know where to start.
 
 But I figured it out step by step. The idea was to build a complete knowledge graph pipeline around a domain of my choice. I went with **video games** because i do love it and  it's a domain with rich, structured data and clear relationships between entities like games, developers, publishers, platforms and genres.
 
@@ -127,7 +127,7 @@ kg-alignment-reasoning-rag/
 │   ├── samples/     # Cleaned, NER-annotated, evaluation data
 │   └── kge/         # train/valid/test triple splits
 ├── kg_artifacts/    # Ontology, RDF graph, alignment, schema summary
-├── reports/         # Final report PDF
+
 ├── requirements.txt
 └── README.md
 ```
