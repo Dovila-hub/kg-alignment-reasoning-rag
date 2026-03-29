@@ -1,0 +1,3432 @@
+[
+  {
+    "title": "Tetris",
+    "platforms": "Multi-platform",
+    "developer": "Various",
+    "publisher": "Various",
+    "genre": "",
+    "year": "1988",
+    "sales_millions": "520",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "Tetris, developed by Various, published by Various, on Multi-platform, in 1988.",
+    "entities": [
+      {
+        "text": "Tetris",
+        "label": "ORG"
+      },
+      {
+        "text": "1988",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "350",
+    "platforms": "2011",
+    "developer": "Mojang Studios",
+    "publisher": "",
+    "genre": "",
+    "year": "",
+    "sales_millions": "Minecraft",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "350, developed by Mojang Studios, on 2011.",
+    "entities": [
+      {
+        "text": "350",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Mojang Studios",
+        "label": "ORG"
+      },
+      {
+        "text": "2011",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Grand Theft Auto V",
+    "platforms": "Multi-platform",
+    "developer": "Rockstar North",
+    "publisher": "Rockstar Games",
+    "genre": "",
+    "year": "2013",
+    "sales_millions": "225",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "Grand Theft Auto V, developed by Rockstar North, published by Rockstar Games, on Multi-platform, in 2013.",
+    "entities": [
+      {
+        "text": "Rockstar North",
+        "label": "PERSON"
+      },
+      {
+        "text": "Rockstar Games",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "2013",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Wii Sports",
+    "platforms": "Wii",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "genre": "",
+    "year": "2006",
+    "sales_millions": "82.9",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "Wii Sports, developed by Nintendo EAD, published by Nintendo, on Wii, in 2006.",
+    "entities": [
+      {
+        "text": "Wii Sports",
+        "label": "ORG"
+      },
+      {
+        "text": "Nintendo EAD",
+        "label": "PERSON"
+      },
+      {
+        "text": "Nintendo",
+        "label": "ORG"
+      },
+      {
+        "text": "Wii",
+        "label": "GPE"
+      },
+      {
+        "text": "2006",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Red Dead Redemption 2",
+    "platforms": "Multi-platform",
+    "developer": "Rockstar Games",
+    "publisher": "Rockstar Games",
+    "genre": "",
+    "year": "2018",
+    "sales_millions": "82",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "Red Dead Redemption 2, developed by Rockstar Games, published by Rockstar Games, on Multi-platform, in 2018.",
+    "entities": [
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Rockstar Games",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Rockstar Games",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "2018",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Mario Kart 8/Deluxe",
+    "platforms": "Wii U/Switch",
+    "developer": "Nintendo EAD/Nintendo EPD(Deluxe)",
+    "publisher": "Nintendo",
+    "genre": "",
+    "year": "2014",
+    "sales_millions": "79.05",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "Mario Kart 8/Deluxe, developed by Nintendo EAD/Nintendo EPD(Deluxe), published by Nintendo, on Wii U/Switch, in 2014.",
+    "entities": [
+      {
+        "text": "Mario Kart 8",
+        "label": "PERSON"
+      },
+      {
+        "text": "Nintendo EAD/Nintendo",
+        "label": "ORG"
+      },
+      {
+        "text": "Nintendo",
+        "label": "ORG"
+      },
+      {
+        "text": "Wii U/Switch",
+        "label": "PERSON"
+      },
+      {
+        "text": "2014",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "PUBG: Battlegrounds",
+    "platforms": "Multi-platform",
+    "developer": "PUBG Studios",
+    "publisher": "Krafton",
+    "genre": "",
+    "year": "2017",
+    "sales_millions": "75",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "PUBG: Battlegrounds, developed by PUBG Studios, published by Krafton, on Multi-platform, in 2017.",
+    "entities": [
+      {
+        "text": "PUBG Studios",
+        "label": "ORG"
+      },
+      {
+        "text": "Krafton",
+        "label": "GPE"
+      },
+      {
+        "text": "2017",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Terraria",
+    "platforms": "Multi-platform",
+    "developer": "Re-Logic",
+    "publisher": "Re-Logic/505 Games",
+    "genre": "",
+    "year": "2011",
+    "sales_millions": "64",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "Terraria, developed by Re-Logic, published by Re-Logic/505 Games, on Multi-platform, in 2011.",
+    "entities": [
+      {
+        "text": "Re-Logic",
+        "label": "ORG"
+      },
+      {
+        "text": "2011",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "The Witcher 3: Wild Hunt",
+    "platforms": "Multi-platform",
+    "developer": "CD Projekt Red",
+    "publisher": "CD Projekt",
+    "genre": "",
+    "year": "2015",
+    "sales_millions": "60",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "The Witcher 3: Wild Hunt, developed by CD Projekt Red, published by CD Projekt, on Multi-platform, in 2015.",
+    "entities": [
+      {
+        "text": "3",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Projekt Red",
+        "label": "ORG"
+      },
+      {
+        "text": "Projekt",
+        "label": "GPE"
+      },
+      {
+        "text": "2015",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Super Mario Bros.",
+    "platforms": "Multi-platform",
+    "developer": "Nintendo R&D4",
+    "publisher": "Nintendo",
+    "genre": "",
+    "year": "1985",
+    "sales_millions": "58",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "Super Mario Bros., developed by Nintendo R&D4, published by Nintendo, on Multi-platform, in 1985.",
+    "entities": [
+      {
+        "text": "Super Mario Bros.",
+        "label": "ORG"
+      },
+      {
+        "text": "Nintendo R&D4",
+        "label": "PERSON"
+      },
+      {
+        "text": "Nintendo",
+        "label": "ORG"
+      },
+      {
+        "text": "1985",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Human: Fall Flat",
+    "platforms": "Multi-platform",
+    "developer": "No Brakes Games",
+    "publisher": "Curve Digital",
+    "genre": "",
+    "year": "2016",
+    "sales_millions": "55",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "Human: Fall Flat, developed by No Brakes Games, published by Curve Digital, on Multi-platform, in 2016.",
+    "entities": [
+      {
+        "text": "Fall Flat",
+        "label": "ORG"
+      },
+      {
+        "text": "No Brakes Games",
+        "label": "EVENT"
+      },
+      {
+        "text": "Curve Digital",
+        "label": "ORG"
+      },
+      {
+        "text": "2016",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Overwatch",
+    "platforms": "Multi-platform",
+    "developer": "Blizzard Entertainment",
+    "publisher": "Blizzard Entertainment",
+    "genre": "",
+    "year": "2016",
+    "sales_millions": "50",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "Overwatch, developed by Blizzard Entertainment, published by Blizzard Entertainment, on Multi-platform, in 2016.",
+    "entities": [
+      {
+        "text": "Blizzard Entertainment",
+        "label": "ORG"
+      },
+      {
+        "text": "Blizzard Entertainment",
+        "label": "ORG"
+      },
+      {
+        "text": "2016",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "50",
+    "platforms": "2000",
+    "developer": "Electronic Arts",
+    "publisher": "",
+    "genre": "",
+    "year": "",
+    "sales_millions": "The Sims",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "50, developed by Electronic Arts, on 2000.",
+    "entities": [
+      {
+        "text": "50",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Electronic Arts",
+        "label": "PERSON"
+      },
+      {
+        "text": "2000",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Animal Crossing: New Horizons",
+    "platforms": "Nintendo Switch",
+    "developer": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "genre": "",
+    "year": "2020",
+    "sales_millions": "49.32",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "Animal Crossing: New Horizons, developed by Nintendo EPD, published by Nintendo, on Nintendo Switch, in 2020.",
+    "entities": [
+      {
+        "text": "Nintendo EPD",
+        "label": "PERSON"
+      },
+      {
+        "text": "Nintendo",
+        "label": "ORG"
+      },
+      {
+        "text": "Nintendo Switch",
+        "label": "PERSON"
+      },
+      {
+        "text": "2020",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Pokémon Red/Blue/Yellow",
+    "platforms": "Multi-platform",
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "genre": "",
+    "year": "1996",
+    "sales_millions": "47.44",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "Pokémon Red/Blue/Yellow, developed by Game Freak, published by Nintendo, on Multi-platform, in 1996.",
+    "entities": [
+      {
+        "text": "Pokémon Red/Blue/Yellow",
+        "label": "ORG"
+      },
+      {
+        "text": "Game Freak",
+        "label": "FAC"
+      },
+      {
+        "text": "Nintendo",
+        "label": "ORG"
+      },
+      {
+        "text": "1996",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Wii Fit/Plus",
+    "platforms": "Wii",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "genre": "",
+    "year": "2007",
+    "sales_millions": "43.8",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "Wii Fit/Plus, developed by Nintendo EAD, published by Nintendo, on Wii, in 2007.",
+    "entities": [
+      {
+        "text": "Wii Fit/Plus",
+        "label": "ORG"
+      },
+      {
+        "text": "Nintendo EAD",
+        "label": "PERSON"
+      },
+      {
+        "text": "Nintendo",
+        "label": "ORG"
+      },
+      {
+        "text": "Wii",
+        "label": "GPE"
+      },
+      {
+        "text": "2007",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Call of Duty: Black Ops III",
+    "platforms": "Multi-platform",
+    "developer": "Treyarch",
+    "publisher": "Activision",
+    "genre": "",
+    "year": "2015",
+    "sales_millions": "43",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "Call of Duty: Black Ops III, developed by Treyarch, published by Activision, on Multi-platform, in 2015.",
+    "entities": [
+      {
+        "text": "Treyarch",
+        "label": "ORG"
+      },
+      {
+        "text": "Activision",
+        "label": "ORG"
+      },
+      {
+        "text": "2015",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Call of Duty: Modern Warfare",
+    "platforms": "Multi-platform",
+    "developer": "Infinity Ward",
+    "publisher": "Activision",
+    "genre": "",
+    "year": "2019",
+    "sales_millions": "41",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "Call of Duty: Modern Warfare, developed by Infinity Ward, published by Activision, on Multi-platform, in 2019.",
+    "entities": [
+      {
+        "text": "Infinity Ward",
+        "label": "ORG"
+      },
+      {
+        "text": "Activision",
+        "label": "ORG"
+      },
+      {
+        "text": "2019",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Hogwarts Legacy",
+    "platforms": "Multi-platform",
+    "developer": "Avalanche Software",
+    "publisher": "Warner Bros. Games",
+    "genre": "",
+    "year": "2023",
+    "sales_millions": "40",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "Hogwarts Legacy, developed by Avalanche Software, published by Warner Bros. Games, on Multi-platform, in 2023.",
+    "entities": [
+      {
+        "text": "Hogwarts Legacy",
+        "label": "PERSON"
+      },
+      {
+        "text": "Avalanche Software",
+        "label": "ORG"
+      },
+      {
+        "text": "Warner Bros. Games",
+        "label": "ORG"
+      },
+      {
+        "text": "2023",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "40",
+    "platforms": "2013",
+    "developer": "505 Games",
+    "publisher": "",
+    "genre": "",
+    "year": "",
+    "sales_millions": "Payday",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "40, developed by 505 Games, on 2013.",
+    "entities": [
+      {
+        "text": "40",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "505 Games",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "2013",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Super Smash Bros. Ultimate",
+    "platforms": "Nintendo Switch",
+    "developer": "Bandai Namco Studios/Sora Ltd.",
+    "publisher": "Nintendo",
+    "genre": "",
+    "year": "2018",
+    "sales_millions": "37.44",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "Super Smash Bros. Ultimate, developed by Bandai Namco Studios/Sora Ltd., published by Nintendo, on Nintendo Switch, in 2018.",
+    "entities": [
+      {
+        "text": "Super Smash Bros. Ultimate",
+        "label": "ORG"
+      },
+      {
+        "text": "Bandai Namco Studios/Sora Ltd.",
+        "label": "ORG"
+      },
+      {
+        "text": "Nintendo",
+        "label": "ORG"
+      },
+      {
+        "text": "Nintendo Switch",
+        "label": "PERSON"
+      },
+      {
+        "text": "2018",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Mario Kart Wii",
+    "platforms": "Wii",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "genre": "",
+    "year": "2008",
+    "sales_millions": "37.38",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "Mario Kart Wii, developed by Nintendo EAD, published by Nintendo, on Wii, in 2008.",
+    "entities": [
+      {
+        "text": "Mario Kart Wii",
+        "label": "PERSON"
+      },
+      {
+        "text": "Nintendo EAD",
+        "label": "PERSON"
+      },
+      {
+        "text": "Nintendo",
+        "label": "ORG"
+      },
+      {
+        "text": "Wii",
+        "label": "GPE"
+      },
+      {
+        "text": "2008",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "platforms": "Multi-platform",
+    "developer": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "genre": "",
+    "year": "2017",
+    "sales_millions": "35.34",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "The Legend of Zelda: Breath of the Wild, developed by Nintendo EPD, published by Nintendo, on Multi-platform, in 2017.",
+    "entities": [
+      {
+        "text": "The Legend of Zelda: Breath of the Wild",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "Nintendo EPD",
+        "label": "PERSON"
+      },
+      {
+        "text": "Nintendo",
+        "label": "ORG"
+      },
+      {
+        "text": "2017",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Cyberpunk 2077",
+    "platforms": "Multi-platform",
+    "developer": "CD Projekt Red",
+    "publisher": "CD Projekt",
+    "genre": "",
+    "year": "2020",
+    "sales_millions": "35",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "Cyberpunk 2077, developed by CD Projekt Red, published by CD Projekt, on Multi-platform, in 2020.",
+    "entities": [
+      {
+        "text": "2077",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Projekt Red",
+        "label": "ORG"
+      },
+      {
+        "text": "Projekt",
+        "label": "GPE"
+      },
+      {
+        "text": "2020",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Wii Sports Resort",
+    "platforms": "Wii",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "genre": "",
+    "year": "2009",
+    "sales_millions": "33.14",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "Wii Sports Resort, developed by Nintendo EAD, published by Nintendo, on Wii, in 2009.",
+    "entities": [
+      {
+        "text": "Wii Sports Resort",
+        "label": "ORG"
+      },
+      {
+        "text": "Nintendo EAD",
+        "label": "PERSON"
+      },
+      {
+        "text": "Nintendo",
+        "label": "ORG"
+      },
+      {
+        "text": "Wii",
+        "label": "GPE"
+      },
+      {
+        "text": "2009",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "New Super Mario Bros.",
+    "platforms": "Nintendo DS",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "genre": "",
+    "year": "2006",
+    "sales_millions": "30.8",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "New Super Mario Bros., developed by Nintendo EAD, published by Nintendo, on Nintendo DS, in 2006.",
+    "entities": [
+      {
+        "text": "New Super Mario Bros.",
+        "label": "ORG"
+      },
+      {
+        "text": "Nintendo EAD",
+        "label": "PERSON"
+      },
+      {
+        "text": "Nintendo",
+        "label": "ORG"
+      },
+      {
+        "text": "Nintendo",
+        "label": "ORG"
+      },
+      {
+        "text": "2006",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "New Super Mario Bros. Wii",
+    "platforms": "Wii",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "genre": "",
+    "year": "2009",
+    "sales_millions": "30.32",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "New Super Mario Bros. Wii, developed by Nintendo EAD, published by Nintendo, on Wii, in 2009.",
+    "entities": [
+      {
+        "text": "New Super Mario Bros. Wii",
+        "label": "ORG"
+      },
+      {
+        "text": "Nintendo EAD",
+        "label": "PERSON"
+      },
+      {
+        "text": "Nintendo",
+        "label": "ORG"
+      },
+      {
+        "text": "Wii",
+        "label": "GPE"
+      },
+      {
+        "text": "2009",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Super Mario Odyssey",
+    "platforms": "Nintendo Switch",
+    "developer": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "genre": "",
+    "year": "2017",
+    "sales_millions": "30.27",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "Super Mario Odyssey, developed by Nintendo EPD, published by Nintendo, on Nintendo Switch, in 2017.",
+    "entities": [
+      {
+        "text": "Mario Odyssey",
+        "label": "PERSON"
+      },
+      {
+        "text": "Nintendo EPD",
+        "label": "PERSON"
+      },
+      {
+        "text": "Nintendo",
+        "label": "ORG"
+      },
+      {
+        "text": "Nintendo Switch",
+        "label": "PERSON"
+      },
+      {
+        "text": "2017",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Pokémon Gold/Silver/Crystal",
+    "platforms": "Game Boy Color",
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "genre": "",
+    "year": "1999",
+    "sales_millions": "30.12",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "Pokémon Gold/Silver/Crystal, developed by Game Freak, published by Nintendo, on Game Boy Color, in 1999.",
+    "entities": [
+      {
+        "text": "Pokémon Gold/Silver/Crystal",
+        "label": "PERSON"
+      },
+      {
+        "text": "Game Freak",
+        "label": "FAC"
+      },
+      {
+        "text": "Nintendo",
+        "label": "ORG"
+      },
+      {
+        "text": "Game Boy Color",
+        "label": "FAC"
+      },
+      {
+        "text": "1999",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Elden Ring",
+    "platforms": "Multi-platform",
+    "developer": "FromSoftware",
+    "publisher": "Bandai Namco",
+    "genre": "",
+    "year": "2022",
+    "sales_millions": "30",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "Elden Ring, developed by FromSoftware, published by Bandai Namco, on Multi-platform, in 2022.",
+    "entities": [
+      {
+        "text": "Elden Ring",
+        "label": "PERSON"
+      },
+      {
+        "text": "FromSoftware",
+        "label": "ORG"
+      },
+      {
+        "text": "Bandai Namco",
+        "label": "ORG"
+      },
+      {
+        "text": "2022",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "30",
+    "platforms": "2012",
+    "developer": "2K Games",
+    "publisher": "",
+    "genre": "",
+    "year": "",
+    "sales_millions": "Borderlands",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "30, developed by 2K Games, on 2012.",
+    "entities": [
+      {
+        "text": "30",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2K Games",
+        "label": "MONEY"
+      },
+      {
+        "text": "2012",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Monster Hunter: World",
+    "platforms": "Multi-platform",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "",
+    "year": "2018",
+    "sales_millions": "29.1",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "Monster Hunter: World, developed by Capcom, published by Capcom, on Multi-platform, in 2018.",
+    "entities": [
+      {
+        "text": "Capcom",
+        "label": "ORG"
+      },
+      {
+        "text": "Capcom",
+        "label": "ORG"
+      },
+      {
+        "text": "2018",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Duck Hunt",
+    "platforms": "Famicom / NES",
+    "developer": "Nintendo R&D1",
+    "publisher": "Nintendo",
+    "genre": "",
+    "year": "1984",
+    "sales_millions": "28.3",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "Duck Hunt, developed by Nintendo R&D1, published by Nintendo, on Famicom / NES, in 1984.",
+    "entities": [
+      {
+        "text": "Duck Hunt",
+        "label": "PERSON"
+      },
+      {
+        "text": "Nintendo",
+        "label": "ORG"
+      },
+      {
+        "text": "Nintendo",
+        "label": "ORG"
+      },
+      {
+        "text": "Famicom / NES",
+        "label": "ORG"
+      },
+      {
+        "text": "1984",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Pokémon Scarlet/Violet",
+    "platforms": "Nintendo Switch",
+    "developer": "Game Freak",
+    "publisher": "Nintendo/The Pokémon Company",
+    "genre": "",
+    "year": "2022",
+    "sales_millions": "28.08",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "Pokémon Scarlet/Violet, developed by Game Freak, published by Nintendo/The Pokémon Company, on Nintendo Switch, in 2022.",
+    "entities": [
+      {
+        "text": "Pokémon Scarlet/Violet",
+        "label": "PERSON"
+      },
+      {
+        "text": "Game Freak",
+        "label": "FAC"
+      },
+      {
+        "text": "Nintendo/The Pokémon Company",
+        "label": "ORG"
+      },
+      {
+        "text": "Nintendo Switch",
+        "label": "PERSON"
+      },
+      {
+        "text": "2022",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Wii Play",
+    "platforms": "Wii",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "genre": "",
+    "year": "2006",
+    "sales_millions": "28.02",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "Wii Play, developed by Nintendo EAD, published by Nintendo, on Wii, in 2006.",
+    "entities": [
+      {
+        "text": "Wii Play",
+        "label": "PERSON"
+      },
+      {
+        "text": "Nintendo EAD",
+        "label": "PERSON"
+      },
+      {
+        "text": "Nintendo",
+        "label": "ORG"
+      },
+      {
+        "text": "Wii",
+        "label": "GPE"
+      },
+      {
+        "text": "2006",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Black Myth: Wukong",
+    "platforms": "Multi-platform",
+    "developer": "Game Science",
+    "publisher": "Game Science",
+    "genre": "",
+    "year": "2024",
+    "sales_millions": "28",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "Black Myth: Wukong, developed by Game Science, published by Game Science, on Multi-platform, in 2024.",
+    "entities": [
+      {
+        "text": "Game Science",
+        "label": "ORG"
+      },
+      {
+        "text": "Game Science",
+        "label": "ORG"
+      },
+      {
+        "text": "2024",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Grand Theft Auto: San Andreas",
+    "platforms": "Multi-platform",
+    "developer": "Rockstar North",
+    "publisher": "Rockstar Games",
+    "genre": "",
+    "year": "2004",
+    "sales_millions": "27.5",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "Grand Theft Auto: San Andreas, developed by Rockstar North, published by Rockstar Games, on Multi-platform, in 2004.",
+    "entities": [
+      {
+        "text": "Rockstar North",
+        "label": "PERSON"
+      },
+      {
+        "text": "Rockstar Games",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "2004",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Pokémon Sword/Shield",
+    "platforms": "Nintendo Switch",
+    "developer": "Game Freak",
+    "publisher": "Nintendo/The Pokémon Company",
+    "genre": "",
+    "year": "2019",
+    "sales_millions": "27.08",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "Pokémon Sword/Shield, developed by Game Freak, published by Nintendo/The Pokémon Company, on Nintendo Switch, in 2019.",
+    "entities": [
+      {
+        "text": "Pokémon Sword/Shield",
+        "label": "PERSON"
+      },
+      {
+        "text": "Game Freak",
+        "label": "FAC"
+      },
+      {
+        "text": "Nintendo/The Pokémon Company",
+        "label": "ORG"
+      },
+      {
+        "text": "Nintendo Switch",
+        "label": "PERSON"
+      },
+      {
+        "text": "2019",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "It Takes Two",
+    "platforms": "Multi-platform",
+    "developer": "Hazelight Studios",
+    "publisher": "Electronic Arts",
+    "genre": "",
+    "year": "2021",
+    "sales_millions": "27",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "It Takes Two, developed by Hazelight Studios, published by Electronic Arts, on Multi-platform, in 2021.",
+    "entities": [
+      {
+        "text": "Two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Hazelight Studios",
+        "label": "ORG"
+      },
+      {
+        "text": "Electronic Arts",
+        "label": "PERSON"
+      },
+      {
+        "text": "2021",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "The Last of Us/Remastered",
+    "platforms": "PS3/PS4",
+    "developer": "Naughty Dog",
+    "publisher": "Sony Computer Entertainment",
+    "genre": "",
+    "year": "2013",
+    "sales_millions": "26.6",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "The Last of Us/Remastered, developed by Naughty Dog, published by Sony Computer Entertainment, on PS3/PS4, in 2013.",
+    "entities": [
+      {
+        "text": "Naughty Dog",
+        "label": "PERSON"
+      },
+      {
+        "text": "Sony Computer Entertainment",
+        "label": "ORG"
+      },
+      {
+        "text": "2013",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Call of Duty: Modern Warfare 3",
+    "platforms": "Multi-platform",
+    "developer": "Infinity Ward/Sledgehammer",
+    "publisher": "Activision",
+    "genre": "",
+    "year": "2011",
+    "sales_millions": "26.5",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "Call of Duty: Modern Warfare 3, developed by Infinity Ward/Sledgehammer, published by Activision, on Multi-platform, in 2011.",
+    "entities": [
+      {
+        "text": "3",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Infinity Ward/Sledgehammer",
+        "label": "ORG"
+      },
+      {
+        "text": "Activision",
+        "label": "ORG"
+      },
+      {
+        "text": "2011",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Call of Duty: Black Ops",
+    "platforms": "Multi-platform",
+    "developer": "Treyarch",
+    "publisher": "Activision",
+    "genre": "",
+    "year": "2010",
+    "sales_millions": "26.2",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "Call of Duty: Black Ops, developed by Treyarch, published by Activision, on Multi-platform, in 2010.",
+    "entities": [
+      {
+        "text": "Treyarch",
+        "label": "ORG"
+      },
+      {
+        "text": "Activision",
+        "label": "ORG"
+      },
+      {
+        "text": "2010",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Marvel's Spider-Man/Remastered",
+    "platforms": "Multi-Platform",
+    "developer": "Insomniac Games",
+    "publisher": "Sony Interactive Entertainment",
+    "genre": "",
+    "year": "2018",
+    "sales_millions": "26.1",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "Marvel's Spider-Man/Remastered, developed by Insomniac Games, published by Sony Interactive Entertainment, on Multi-Platform, in 2018.",
+    "entities": [
+      {
+        "text": "Spider-Man/Remastered",
+        "label": "ORG"
+      },
+      {
+        "text": "Insomniac Games",
+        "label": "ORG"
+      },
+      {
+        "text": "Sony Interactive Entertainment",
+        "label": "ORG"
+      },
+      {
+        "text": "Multi-Platform",
+        "label": "FAC"
+      },
+      {
+        "text": "2018",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Pokémon Sun/Moon/Ultra Sun/Ultra Moon",
+    "platforms": "Nintendo 3DS",
+    "developer": "Game Freak",
+    "publisher": "Nintendo/The Pokémon Company",
+    "genre": "",
+    "year": "2016",
+    "sales_millions": "25.59",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "Pokémon Sun/Moon/Ultra Sun/Ultra Moon, developed by Game Freak, published by Nintendo/The Pokémon Company, on Nintendo 3DS, in 2016.",
+    "entities": [
+      {
+        "text": "Pokémon Sun/Moon",
+        "label": "PERSON"
+      },
+      {
+        "text": "Game Freak",
+        "label": "FAC"
+      },
+      {
+        "text": "Nintendo/The Pokémon Company",
+        "label": "ORG"
+      },
+      {
+        "text": "Nintendo 3DS",
+        "label": "ORG"
+      },
+      {
+        "text": "2016",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Garry's Mod",
+    "platforms": "PC",
+    "developer": "Facepunch Studios",
+    "publisher": "Valve",
+    "genre": "",
+    "year": "2006",
+    "sales_millions": "25.56",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "Garry's Mod, developed by Facepunch Studios, published by Valve, on PC, in 2006.",
+    "entities": [
+      {
+        "text": "Garry's",
+        "label": "PERSON"
+      },
+      {
+        "text": "Mod",
+        "label": "PERSON"
+      },
+      {
+        "text": "Facepunch Studios",
+        "label": "ORG"
+      },
+      {
+        "text": "Valve",
+        "label": "NORP"
+      },
+      {
+        "text": "2006",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Pokémon Diamond/Pearl/Platinum",
+    "platforms": "Nintendo DS",
+    "developer": "Game Freak",
+    "publisher": "Nintendo/The Pokémon Company",
+    "genre": "",
+    "year": "2006",
+    "sales_millions": "25.5",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "Pokémon Diamond/Pearl/Platinum, developed by Game Freak, published by Nintendo/The Pokémon Company, on Nintendo DS, in 2006.",
+    "entities": [
+      {
+        "text": "Pokémon Diamond/Pearl/Platinum",
+        "label": "PERSON"
+      },
+      {
+        "text": "Game Freak",
+        "label": "FAC"
+      },
+      {
+        "text": "Nintendo/The Pokémon Company",
+        "label": "ORG"
+      },
+      {
+        "text": "Nintendo",
+        "label": "ORG"
+      },
+      {
+        "text": "2006",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Phasmophobia",
+    "platforms": "Multi-platform",
+    "developer": "Kinetic Games",
+    "publisher": "Kinetic Games",
+    "genre": "",
+    "year": "2024",
+    "sales_millions": "25",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "Phasmophobia, developed by Kinetic Games, published by Kinetic Games, on Multi-platform, in 2024.",
+    "entities": [
+      {
+        "text": "Phasmophobia",
+        "label": "GPE"
+      },
+      {
+        "text": "Kinetic Games",
+        "label": "ORG"
+      },
+      {
+        "text": "Kinetic Games",
+        "label": "ORG"
+      },
+      {
+        "text": "2024",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "25",
+    "platforms": "2008",
+    "developer": "Rockstar Games",
+    "publisher": "",
+    "genre": "",
+    "year": "",
+    "sales_millions": "Grand Theft Auto",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games",
+    "ner_input": "25, developed by Rockstar Games, on 2008.",
+    "entities": [
+      {
+        "text": "25",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Rockstar Games",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "2008",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "The Oregon Trail",
+    "platforms": "HP 2100",
+    "developer": "Don Rawitsch, Bill Heinemann, and Paul Dillenberger",
+    "publisher": "MECC",
+    "genre": "Strategy",
+    "year": "1971",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "The Oregon Trail, developed by Don Rawitsch, Bill Heinemann, and Paul Dillenberger, published by MECC, on HP 2100, in 1971.",
+    "entities": [
+      {
+        "text": "The Oregon Trail",
+        "label": "ORG"
+      },
+      {
+        "text": "Don Rawitsch",
+        "label": "PERSON"
+      },
+      {
+        "text": "Bill Heinemann",
+        "label": "PERSON"
+      },
+      {
+        "text": "Paul Dillenberger",
+        "label": "PERSON"
+      },
+      {
+        "text": "MECC",
+        "label": "ORG"
+      },
+      {
+        "text": "HP 2100",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "1971",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Pong",
+    "platforms": "",
+    "developer": "Atari, Inc.",
+    "publisher": "Arcade",
+    "genre": "Sports",
+    "year": "1972",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Pong, developed by Atari, Inc., published by Arcade, in 1972.",
+    "entities": [
+      {
+        "text": "Atari, Inc.",
+        "label": "ORG"
+      },
+      {
+        "text": "Arcade",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "1972",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Combat",
+    "platforms": "",
+    "developer": "Atari, Inc.",
+    "publisher": "Atari 2600",
+    "genre": "Top-down shooter",
+    "year": "1977",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Combat, developed by Atari, Inc., published by Atari 2600, in 1977.",
+    "entities": [
+      {
+        "text": "Atari, Inc.",
+        "label": "ORG"
+      },
+      {
+        "text": "Atari 2600",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "1977",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Adventure",
+    "platforms": "",
+    "developer": "PDP-10",
+    "publisher": "",
+    "genre": "Infocom",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Adventure, developed by PDP-10.",
+    "entities": []
+  },
+  {
+    "title": "Space Invaders",
+    "platforms": "",
+    "developer": "Taito",
+    "publisher": "Arcade",
+    "genre": "Shoot 'em up",
+    "year": "1978",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Space Invaders, developed by Taito, published by Arcade, in 1978.",
+    "entities": [
+      {
+        "text": "Taito",
+        "label": "GPE"
+      },
+      {
+        "text": "Arcade",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "1978",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Asteroids",
+    "platforms": "",
+    "developer": "Atari, Inc.",
+    "publisher": "Arcade",
+    "genre": "Shoot 'em up",
+    "year": "1979",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Asteroids, developed by Atari, Inc., published by Arcade, in 1979.",
+    "entities": [
+      {
+        "text": "Atari, Inc.",
+        "label": "ORG"
+      },
+      {
+        "text": "Arcade",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "1979",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Vehicle simulation",
+    "platforms": "",
+    "developer": "Arcade",
+    "publisher": "",
+    "genre": "Atari, Inc.",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Vehicle simulation, developed by Arcade.",
+    "entities": [
+      {
+        "text": "Arcade",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "title": "Shoot 'em up",
+    "platforms": "",
+    "developer": "Arcade",
+    "publisher": "",
+    "genre": "Atari, Inc.",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Shoot 'em up, developed by Arcade.",
+    "entities": [
+      {
+        "text": "Arcade",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "title": "Maze",
+    "platforms": "",
+    "developer": "Arcade",
+    "publisher": "",
+    "genre": "Namco",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Maze, developed by Arcade.",
+    "entities": [
+      {
+        "text": "Arcade",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "title": "Centipede",
+    "platforms": "",
+    "developer": "Atari, Inc.",
+    "publisher": "Arcade",
+    "genre": "Shoot 'em up",
+    "year": "1981",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Centipede, developed by Atari, Inc., published by Arcade, in 1981.",
+    "entities": [
+      {
+        "text": "Atari, Inc.",
+        "label": "ORG"
+      },
+      {
+        "text": "Arcade",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "1981",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Platform",
+    "platforms": "",
+    "developer": "Nintendo",
+    "publisher": "Arcade",
+    "genre": "Nintendo R&D1",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Platform, developed by Nintendo, published by Arcade.",
+    "entities": [
+      {
+        "text": "Nintendo",
+        "label": "ORG"
+      },
+      {
+        "text": "Arcade",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "title": "Action",
+    "platforms": "",
+    "developer": "Konami,Sega",
+    "publisher": "Arcade",
+    "genre": "Konami",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Action, developed by Konami,Sega, published by Arcade.",
+    "entities": [
+      {
+        "text": "Konami",
+        "label": "PERSON"
+      },
+      {
+        "text": "Sega",
+        "label": "PERSON"
+      },
+      {
+        "text": "Arcade",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "title": "Role-playing",
+    "platforms": "",
+    "developer": "Apple II",
+    "publisher": "",
+    "genre": "Sir-Tech",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Role-playing, developed by Apple II.",
+    "entities": [
+      {
+        "text": "Apple II",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "title": "Joust",
+    "platforms": "",
+    "developer": "Williams Electronics",
+    "publisher": "Arcade",
+    "genre": "Action",
+    "year": "1982",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Joust, developed by Williams Electronics, published by Arcade, in 1982.",
+    "entities": [
+      {
+        "text": "Williams Electronics",
+        "label": "ORG"
+      },
+      {
+        "text": "Arcade",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "1982",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Top-down shooter",
+    "platforms": "",
+    "developer": "Williams Electronics",
+    "publisher": "Arcade",
+    "genre": "Vid Kidz",
+    "year": "2084",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Top-down shooter, developed by Williams Electronics, published by Arcade, in 2084.",
+    "entities": [
+      {
+        "text": "Williams Electronics",
+        "label": "ORG"
+      },
+      {
+        "text": "Arcade",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "2084",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Archon: The Light and the Dark",
+    "platforms": "Atari 8-bit",
+    "developer": "Free Fall Associates",
+    "publisher": "Electronic Arts",
+    "genre": "Strategy",
+    "year": "1983",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Archon: The Light and the Dark, developed by Free Fall Associates, published by Electronic Arts, on Atari 8-bit, in 1983.",
+    "entities": [
+      {
+        "text": "Free Fall Associates",
+        "label": "ORG"
+      },
+      {
+        "text": "Electronic Arts",
+        "label": "PERSON"
+      },
+      {
+        "text": "Atari 8-bit",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "1983",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Business simulation",
+    "platforms": "",
+    "developer": "Electronic Arts",
+    "publisher": "Atari 8-bit,Commodore 64",
+    "genre": "Ozark Softscape",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Business simulation, developed by Electronic Arts, published by Atari 8-bit,Commodore 64.",
+    "entities": [
+      {
+        "text": "Electronic Arts",
+        "label": "PERSON"
+      },
+      {
+        "text": "Atari 8-bit",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "64",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "title": "Rail shooter",
+    "platforms": "",
+    "developer": "Arcade",
+    "publisher": "",
+    "genre": "Atari, Inc.",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Rail shooter, developed by Arcade.",
+    "entities": [
+      {
+        "text": "Arcade",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "title": "Elite",
+    "platforms": "BBC Micro",
+    "developer": "David BrabenandIan Bell",
+    "publisher": "Acornsoft",
+    "genre": "Space flight simulator",
+    "year": "1984",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Elite, developed by David BrabenandIan Bell, published by Acornsoft, on BBC Micro, in 1984.",
+    "entities": [
+      {
+        "text": "David BrabenandIan Bell",
+        "label": "PERSON"
+      },
+      {
+        "text": "Acornsoft",
+        "label": "GPE"
+      },
+      {
+        "text": "BBC Micro",
+        "label": "ORG"
+      },
+      {
+        "text": "1984",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Gauntlet",
+    "platforms": "",
+    "developer": "Atari Games",
+    "publisher": "Arcade",
+    "genre": "Hack and slash",
+    "year": "1985",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Gauntlet, developed by Atari Games, published by Arcade, in 1985.",
+    "entities": [
+      {
+        "text": "Gauntlet",
+        "label": "ORG"
+      },
+      {
+        "text": "Atari Games",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Arcade",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "1985",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Puzzle",
+    "platforms": "",
+    "developer": "Elorg",
+    "publisher": "Electronika 60",
+    "genre": "Alexey Pajitnov",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Puzzle, developed by Elorg, published by Electronika 60.",
+    "entities": [
+      {
+        "text": "Elorg",
+        "label": "ORG"
+      },
+      {
+        "text": "60",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "title": "Arkanoid",
+    "platforms": "",
+    "developer": "Taito",
+    "publisher": "Arcade",
+    "genre": "Block breaker",
+    "year": "1986",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Arkanoid, developed by Taito, published by Arcade, in 1986.",
+    "entities": [
+      {
+        "text": "Arkanoid",
+        "label": "ORG"
+      },
+      {
+        "text": "Taito",
+        "label": "GPE"
+      },
+      {
+        "text": "Arcade",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "1986",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Action-adventure",
+    "platforms": "",
+    "developer": "Nintendo",
+    "publisher": "NES",
+    "genre": "Nintendo R&D4",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Action-adventure, developed by Nintendo, published by NES.",
+    "entities": [
+      {
+        "text": "Nintendo",
+        "label": "ORG"
+      },
+      {
+        "text": "NES",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "title": "Racing",
+    "platforms": "",
+    "developer": "Arcade",
+    "publisher": "",
+    "genre": "Sega",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Racing, developed by Arcade.",
+    "entities": [
+      {
+        "text": "Arcade",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "title": "Contra",
+    "platforms": "",
+    "developer": "Konami",
+    "publisher": "Arcade",
+    "genre": "Run and gun",
+    "year": "1987",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Contra, developed by Konami, published by Arcade, in 1987.",
+    "entities": [
+      {
+        "text": "Contra",
+        "label": "ORG"
+      },
+      {
+        "text": "Konami",
+        "label": "PERSON"
+      },
+      {
+        "text": "Arcade",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "1987",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Beat 'em up",
+    "platforms": "",
+    "developer": "Taito",
+    "publisher": "Arcade",
+    "genre": "Technōs Japan",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Beat 'em up, developed by Taito, published by Arcade.",
+    "entities": [
+      {
+        "text": "Taito",
+        "label": "GPE"
+      },
+      {
+        "text": "Arcade",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "title": "Sports",
+    "platforms": "",
+    "developer": "Nintendo",
+    "publisher": "NES",
+    "genre": "Nintendo R&D3",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Sports, developed by Nintendo, published by NES.",
+    "entities": [
+      {
+        "text": "Nintendo",
+        "label": "ORG"
+      },
+      {
+        "text": "NES",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "title": "Mega Man 2",
+    "platforms": "",
+    "developer": "Capcom",
+    "publisher": "NES",
+    "genre": "Platform",
+    "year": "1988",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Mega Man 2, developed by Capcom, published by NES, in 1988.",
+    "entities": [
+      {
+        "text": "Mega Man 2",
+        "label": "PERSON"
+      },
+      {
+        "text": "Capcom",
+        "label": "ORG"
+      },
+      {
+        "text": "NES",
+        "label": "ORG"
+      },
+      {
+        "text": "1988",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Final Fight",
+    "platforms": "",
+    "developer": "Capcom",
+    "publisher": "Arcade",
+    "genre": "Beat 'em up",
+    "year": "1989",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Final Fight, developed by Capcom, published by Arcade, in 1989.",
+    "entities": [
+      {
+        "text": "Final Fight",
+        "label": "ORG"
+      },
+      {
+        "text": "Capcom",
+        "label": "ORG"
+      },
+      {
+        "text": "Arcade",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "1989",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "God game",
+    "platforms": "",
+    "developer": "Electronic Arts",
+    "publisher": "Amiga",
+    "genre": "Bullfrog Productions",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "God game, developed by Electronic Arts, published by Amiga.",
+    "entities": [
+      {
+        "text": "Electronic Arts",
+        "label": "PERSON"
+      },
+      {
+        "text": "Amiga",
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "title": "City-building",
+    "platforms": "",
+    "developer": "Amiga,Mac",
+    "publisher": "",
+    "genre": "Maxis",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "City-building, developed by Amiga,Mac.",
+    "entities": [
+      {
+        "text": "Amiga,Mac",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "title": "The Secret of Monkey Island",
+    "platforms": "",
+    "developer": "Lucasfilm Games",
+    "publisher": "PC",
+    "genre": "Adventure",
+    "year": "1990",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "The Secret of Monkey Island, developed by Lucasfilm Games, published by PC, in 1990.",
+    "entities": [
+      {
+        "text": "The Secret of Monkey Island",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "Lucasfilm Games",
+        "label": "ORG"
+      },
+      {
+        "text": "1990",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Space flight simulator",
+    "platforms": "",
+    "developer": "PC",
+    "publisher": "",
+    "genre": "Origin Systems",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Space flight simulator, developed by PC.",
+    "entities": []
+  },
+  {
+    "title": "Another World",
+    "platforms": "",
+    "developer": "Delphine Software",
+    "publisher": "Amiga,Atari ST",
+    "genre": "Platform",
+    "year": "1991",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Another World, developed by Delphine Software, published by Amiga,Atari ST, in 1991.",
+    "entities": [
+      {
+        "text": "Delphine Software",
+        "label": "PERSON"
+      },
+      {
+        "text": "Amiga",
+        "label": "PERSON"
+      },
+      {
+        "text": "Atari ST",
+        "label": "ORG"
+      },
+      {
+        "text": "1991",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Turn-based strategy",
+    "platforms": "",
+    "developer": "PC",
+    "publisher": "",
+    "genre": "MicroProse",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Turn-based strategy, developed by PC.",
+    "entities": []
+  },
+  {
+    "title": "Fighting",
+    "platforms": "",
+    "developer": "Arcade",
+    "publisher": "",
+    "genre": "Capcom",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Fighting, developed by Arcade.",
+    "entities": [
+      {
+        "text": "Arcade",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "title": "Alone in the Dark",
+    "platforms": "",
+    "developer": "Infogrames",
+    "publisher": "PC",
+    "genre": "Survival horror",
+    "year": "1992",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Alone in the Dark, developed by Infogrames, published by PC, in 1992.",
+    "entities": [
+      {
+        "text": "1992",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Run and gun",
+    "platforms": "",
+    "developer": "Super NES",
+    "publisher": "",
+    "genre": "Konami",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Run and gun, developed by Super NES.",
+    "entities": [
+      {
+        "text": "Super NES",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "title": "Real-time strategy",
+    "platforms": "",
+    "developer": "Virgin Games",
+    "publisher": "PC",
+    "genre": "Westwood Studios",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Real-time strategy, developed by Virgin Games, published by PC.",
+    "entities": [
+      {
+        "text": "Virgin Games",
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "title": "Kart racing",
+    "platforms": "",
+    "developer": "Nintendo",
+    "publisher": "Super NES",
+    "genre": "Nintendo EAD",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Kart racing, developed by Nintendo, published by Super NES.",
+    "entities": [
+      {
+        "text": "Nintendo",
+        "label": "ORG"
+      },
+      {
+        "text": "Super NES",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "title": "First-person shooter",
+    "platforms": "",
+    "developer": "Apogee Software",
+    "publisher": "PC",
+    "genre": "id Software",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "First-person shooter, developed by Apogee Software, published by PC.",
+    "entities": [
+      {
+        "text": "First",
+        "label": "ORDINAL"
+      },
+      {
+        "text": "Apogee Software",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "title": "Day of the Tentacle",
+    "platforms": "",
+    "developer": "LucasArts",
+    "publisher": "PC",
+    "genre": "Adventure",
+    "year": "1993",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Day of the Tentacle, developed by LucasArts, published by PC, in 1993.",
+    "entities": [
+      {
+        "text": "Tentacle",
+        "label": "FAC"
+      },
+      {
+        "text": "LucasArts",
+        "label": "ORG"
+      },
+      {
+        "text": "1993",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Action role-playing",
+    "platforms": "",
+    "developer": "Super NES",
+    "publisher": "",
+    "genre": "Square",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Action role-playing, developed by Super NES.",
+    "entities": [
+      {
+        "text": "Super NES",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "title": "Real-time tactics",
+    "platforms": "",
+    "developer": "Electronic Arts",
+    "publisher": "Amiga,PC",
+    "genre": "Bullfrog Productions",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Real-time tactics, developed by Electronic Arts, published by Amiga,PC.",
+    "entities": [
+      {
+        "text": "Electronic Arts",
+        "label": "PERSON"
+      },
+      {
+        "text": "Amiga",
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "title": "Daytona USA",
+    "platforms": "Arcade",
+    "developer": "Sega AM2",
+    "publisher": "Sega",
+    "genre": "Racing",
+    "year": "1994",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Daytona USA, developed by Sega AM2, published by Sega, on Arcade, in 1994.",
+    "entities": [
+      {
+        "text": "Daytona USA",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "Sega AM2",
+        "label": "PERSON"
+      },
+      {
+        "text": "Sega",
+        "label": "PERSON"
+      },
+      {
+        "text": "Arcade",
+        "label": "GPE"
+      },
+      {
+        "text": "1994",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Chrono Trigger",
+    "platforms": "",
+    "developer": "Square",
+    "publisher": "Super NES",
+    "genre": "Role-playing",
+    "year": "1995",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Chrono Trigger, developed by Square, published by Super NES, in 1995.",
+    "entities": [
+      {
+        "text": "Chrono Trigger",
+        "label": "PERSON"
+      },
+      {
+        "text": "Square",
+        "label": "PERSON"
+      },
+      {
+        "text": "Super NES",
+        "label": "ORG"
+      },
+      {
+        "text": "1995",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Artillery",
+    "platforms": "",
+    "developer": "Ocean Software",
+    "publisher": "Amiga",
+    "genre": "Team17",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Artillery, developed by Ocean Software, published by Amiga.",
+    "entities": [
+      {
+        "text": "Ocean Software",
+        "label": "ORG"
+      },
+      {
+        "text": "Amiga",
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "title": "Civilization II",
+    "platforms": "",
+    "developer": "MicroProse",
+    "publisher": "PC",
+    "genre": "Turn-based strategy",
+    "year": "1996",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Civilization II, developed by MicroProse, published by PC, in 1996.",
+    "entities": [
+      {
+        "text": "MicroProse",
+        "label": "ORG"
+      },
+      {
+        "text": "1996",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Rhythm",
+    "platforms": "",
+    "developer": "Sony Computer Entertainment",
+    "publisher": "PlayStation",
+    "genre": "NanaOn-Sha",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Rhythm, developed by Sony Computer Entertainment, published by PlayStation.",
+    "entities": [
+      {
+        "text": "Rhythm",
+        "label": "PERSON"
+      },
+      {
+        "text": "Sony Computer Entertainment",
+        "label": "ORG"
+      },
+      {
+        "text": "PlayStation",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "title": "Survival horror",
+    "platforms": "",
+    "developer": "PlayStation",
+    "publisher": "",
+    "genre": "Capcom",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Survival horror, developed by PlayStation.",
+    "entities": [
+      {
+        "text": "PlayStation",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "title": "Age of Empires",
+    "platforms": "PC",
+    "developer": "Ensemble Studios",
+    "publisher": "Microsoft",
+    "genre": "Real-time strategy",
+    "year": "1997",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Age of Empires, developed by Ensemble Studios, published by Microsoft, on PC, in 1997.",
+    "entities": [
+      {
+        "text": "Ensemble Studios",
+        "label": "ORG"
+      },
+      {
+        "text": "Microsoft",
+        "label": "ORG"
+      },
+      {
+        "text": "1997",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Tactical role-playing",
+    "platforms": "",
+    "developer": "PlayStation",
+    "publisher": "",
+    "genre": "Square",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Tactical role-playing, developed by PlayStation.",
+    "entities": [
+      {
+        "text": "PlayStation",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "title": "MMORPG",
+    "platforms": "",
+    "developer": "Electronic Arts",
+    "publisher": "PC,Linux",
+    "genre": "Origin Systems",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "MMORPG, developed by Electronic Arts, published by PC,Linux.",
+    "entities": [
+      {
+        "text": "Electronic Arts",
+        "label": "PERSON"
+      },
+      {
+        "text": "Linux",
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "title": "Baldur's Gate",
+    "platforms": "PC",
+    "developer": "BioWare",
+    "publisher": "Black Isle Studios,Interplay Entertainment",
+    "genre": "Role-playing",
+    "year": "1998",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Baldur's Gate, developed by BioWare, published by Black Isle Studios,Interplay Entertainment, on PC, in 1998.",
+    "entities": [
+      {
+        "text": "Baldur",
+        "label": "ORG"
+      },
+      {
+        "text": "BioWare",
+        "label": "ORG"
+      },
+      {
+        "text": "Black Isle Studios",
+        "label": "ORG"
+      },
+      {
+        "text": "Interplay Entertainment",
+        "label": "ORG"
+      },
+      {
+        "text": "1998",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Stealth",
+    "platforms": "",
+    "developer": "Konami",
+    "publisher": "PlayStation",
+    "genre": "Konami Computer Entertainment Japan",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Stealth, developed by Konami, published by PlayStation.",
+    "entities": [
+      {
+        "text": "Konami",
+        "label": "PERSON"
+      },
+      {
+        "text": "PlayStation",
+        "label": "PRODUCT"
+      }
+    ]
+  },
+  {
+    "title": "Age of Empires II",
+    "platforms": "PC",
+    "developer": "Ensemble Studios",
+    "publisher": "Microsoft",
+    "genre": "Real-time strategy",
+    "year": "1999",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Age of Empires II, developed by Ensemble Studios, published by Microsoft, on PC, in 1999.",
+    "entities": [
+      {
+        "text": "Ensemble Studios",
+        "label": "ORG"
+      },
+      {
+        "text": "Microsoft",
+        "label": "ORG"
+      },
+      {
+        "text": "1999",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Baldur's Gate II: Shadows of Amn",
+    "platforms": "PC",
+    "developer": "BioWare",
+    "publisher": "Black Isle Studios,Interplay Entertainment",
+    "genre": "Role-playing",
+    "year": "2000",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Baldur's Gate II: Shadows of Amn, developed by BioWare, published by Black Isle Studios,Interplay Entertainment, on PC, in 2000.",
+    "entities": [
+      {
+        "text": "Baldur",
+        "label": "ORG"
+      },
+      {
+        "text": "Amn",
+        "label": "PERSON"
+      },
+      {
+        "text": "BioWare",
+        "label": "ORG"
+      },
+      {
+        "text": "Black Isle Studios",
+        "label": "ORG"
+      },
+      {
+        "text": "Interplay Entertainment",
+        "label": "ORG"
+      },
+      {
+        "text": "2000",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Life simulation",
+    "platforms": "",
+    "developer": "Electronic Arts",
+    "publisher": "PC",
+    "genre": "Maxis",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Life simulation, developed by Electronic Arts, published by PC.",
+    "entities": [
+      {
+        "text": "Electronic Arts",
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "title": "Advance Wars",
+    "platforms": "Game Boy Advance",
+    "developer": "Intelligent Systems",
+    "publisher": "Nintendo",
+    "genre": "Turn-based strategy",
+    "year": "2001",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Advance Wars, developed by Intelligent Systems, published by Nintendo, on Game Boy Advance, in 2001.",
+    "entities": [
+      {
+        "text": "Intelligent Systems",
+        "label": "ORG"
+      },
+      {
+        "text": "Nintendo",
+        "label": "ORG"
+      },
+      {
+        "text": "Game Boy Advance",
+        "label": "FAC"
+      },
+      {
+        "text": "2001",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Third-person shooter",
+    "platforms": "",
+    "developer": "Gathering of Developers",
+    "publisher": "PC",
+    "genre": "Remedy Entertainment",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Third-person shooter, developed by Gathering of Developers, published by PC.",
+    "entities": [
+      {
+        "text": "Third",
+        "label": "ORDINAL"
+      }
+    ]
+  },
+  {
+    "title": "Battlefield 1942",
+    "platforms": "PC",
+    "developer": "Digital Illusions CE",
+    "publisher": "Electronic Arts",
+    "genre": "First-person shooter",
+    "year": "2002",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Battlefield 1942, developed by Digital Illusions CE, published by Electronic Arts, on PC, in 2002.",
+    "entities": [
+      {
+        "text": "1942",
+        "label": "DATE"
+      },
+      {
+        "text": "Digital Illusions CE",
+        "label": "ORG"
+      },
+      {
+        "text": "Electronic Arts",
+        "label": "PERSON"
+      },
+      {
+        "text": "2002",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Beyond Good & Evil",
+    "platforms": "PS2",
+    "developer": "Ubisoft Pictures,Ubisoft Milan",
+    "publisher": "Ubisoft",
+    "genre": "Action-adventure",
+    "year": "2003",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Beyond Good & Evil, developed by Ubisoft Pictures,Ubisoft Milan, published by Ubisoft, on PS2, in 2003.",
+    "entities": [
+      {
+        "text": "Beyond Good & Evil",
+        "label": "ORG"
+      },
+      {
+        "text": "Ubisoft Pictures",
+        "label": "ORG"
+      },
+      {
+        "text": "Ubisoft Milan",
+        "label": "ORG"
+      },
+      {
+        "text": "Ubisoft",
+        "label": "GPE"
+      },
+      {
+        "text": "PS2",
+        "label": "ORG"
+      },
+      {
+        "text": "2003",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Burnout 3: Takedown",
+    "platforms": "PS2,Xbox",
+    "developer": "Criterion Games",
+    "publisher": "Electronic Arts",
+    "genre": "Racing",
+    "year": "2004",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Burnout 3: Takedown, developed by Criterion Games, published by Electronic Arts, on PS2,Xbox, in 2004.",
+    "entities": [
+      {
+        "text": "Criterion Games",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "Electronic Arts",
+        "label": "PERSON"
+      },
+      {
+        "text": "2004",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Strategy",
+    "platforms": "",
+    "developer": "Activision",
+    "publisher": "PC",
+    "genre": "Creative Assembly",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Strategy, developed by Activision, published by PC.",
+    "entities": [
+      {
+        "text": "Activision",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "title": "Battlefield 2",
+    "platforms": "PC",
+    "developer": "Digital Illusions CE",
+    "publisher": "Electronic Arts",
+    "genre": "First-person shooter",
+    "year": "2005",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Battlefield 2, developed by Digital Illusions CE, published by Electronic Arts, on PC, in 2005.",
+    "entities": [
+      {
+        "text": "Battlefield 2",
+        "label": "PERSON"
+      },
+      {
+        "text": "Digital Illusions CE",
+        "label": "ORG"
+      },
+      {
+        "text": "Electronic Arts",
+        "label": "PERSON"
+      },
+      {
+        "text": "2005",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Company of Heroes",
+    "platforms": "PC",
+    "developer": "Relic Entertainment",
+    "publisher": "THQ",
+    "genre": "Real-time strategy",
+    "year": "2006",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Company of Heroes, developed by Relic Entertainment, published by THQ, on PC, in 2006.",
+    "entities": [
+      {
+        "text": "Relic Entertainment",
+        "label": "ORG"
+      },
+      {
+        "text": "THQ",
+        "label": "ORG"
+      },
+      {
+        "text": "2006",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "BioShock",
+    "platforms": "PC,Xbox 360",
+    "developer": "2K Boston,2K Australia",
+    "publisher": "2K Games",
+    "genre": "First-person shooter",
+    "year": "2007",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "BioShock, developed by 2K Boston,2K Australia, published by 2K Games, on PC,Xbox 360, in 2007.",
+    "entities": [
+      {
+        "text": "BioShock",
+        "label": "ORG"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "Australia",
+        "label": "GPE"
+      },
+      {
+        "text": "2K Games",
+        "label": "MONEY"
+      },
+      {
+        "text": "2007",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Puzzle-platform",
+    "platforms": "",
+    "developer": "PC,Xbox 360",
+    "publisher": "",
+    "genre": "Valve Corporation",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Puzzle-platform, developed by PC,Xbox 360.",
+    "entities": []
+  },
+  {
+    "title": "Braid",
+    "platforms": "Xbox 360",
+    "developer": "Number None",
+    "publisher": "Microsoft Game Studios",
+    "genre": "Puzzle-platform",
+    "year": "2008",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Braid, developed by Number None, published by Microsoft Game Studios, on Xbox 360, in 2008.",
+    "entities": [
+      {
+        "text": "Braid",
+        "label": "ORG"
+      },
+      {
+        "text": "Microsoft Game Studios",
+        "label": "ORG"
+      },
+      {
+        "text": "Xbox 360",
+        "label": "ORG"
+      },
+      {
+        "text": "2008",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Angry Birds",
+    "platforms": "",
+    "developer": "Rovio Entertainment",
+    "publisher": "Maemo,iOS",
+    "genre": "Puzzle",
+    "year": "2009",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Angry Birds, developed by Rovio Entertainment, published by Maemo,iOS, in 2009.",
+    "entities": [
+      {
+        "text": "Rovio Entertainment",
+        "label": "ORG"
+      },
+      {
+        "text": "Maemo",
+        "label": "ORG"
+      },
+      {
+        "text": "2009",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "MOBA",
+    "platforms": "",
+    "developer": "PC",
+    "publisher": "",
+    "genre": "Riot Games",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "MOBA, developed by PC.",
+    "entities": []
+  },
+  {
+    "title": "Tower defense",
+    "platforms": "",
+    "developer": "PC,Mac",
+    "publisher": "",
+    "genre": "PopCap Games",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Tower defense, developed by PC,Mac.",
+    "entities": [
+      {
+        "text": "Mac",
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "title": "Civilization V",
+    "platforms": "PC",
+    "developer": "Firaxis Games",
+    "publisher": "2K Games",
+    "genre": "Turn-based strategy",
+    "year": "2010",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Civilization V, developed by Firaxis Games, published by 2K Games, on PC, in 2010.",
+    "entities": [
+      {
+        "text": "Firaxis Games",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "2K Games",
+        "label": "MONEY"
+      },
+      {
+        "text": "2010",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Batman: Arkham City",
+    "platforms": "PS3,Xbox 360",
+    "developer": "Rocksteady Studios",
+    "publisher": "Warner Bros.",
+    "genre": "Action-adventure",
+    "year": "2011",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Batman: Arkham City, developed by Rocksteady Studios, published by Warner Bros., on PS3,Xbox 360, in 2011.",
+    "entities": [
+      {
+        "text": "Arkham City",
+        "label": "GPE"
+      },
+      {
+        "text": "Rocksteady Studios",
+        "label": "ORG"
+      },
+      {
+        "text": "Warner Bros.",
+        "label": "ORG"
+      },
+      {
+        "text": "PS3,Xbox 360",
+        "label": "LAW"
+      },
+      {
+        "text": "2011",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Sandbox",
+    "platforms": "",
+    "developer": "PC,Mac,Linux",
+    "publisher": "",
+    "genre": "Mojang Studios",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Sandbox, developed by PC,Mac,Linux.",
+    "entities": [
+      {
+        "text": "Sandbox",
+        "label": "ORG"
+      },
+      {
+        "text": "Mac",
+        "label": "PERSON"
+      },
+      {
+        "text": "Linux",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "title": "Borderlands 2",
+    "platforms": "PC,PS3,Xbox 360",
+    "developer": "Gearbox Software",
+    "publisher": "2K Games",
+    "genre": "Action role-playing",
+    "year": "2012",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Borderlands 2, developed by Gearbox Software, published by 2K Games, on PC,PS3,Xbox 360, in 2012.",
+    "entities": [
+      {
+        "text": "Gearbox Software",
+        "label": "PERSON"
+      },
+      {
+        "text": "2K Games",
+        "label": "MONEY"
+      },
+      {
+        "text": "2012",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Assassin's Creed IV: Black Flag",
+    "platforms": "PC,PS3,PS4,Wii U,Xbox 360,Xbox One",
+    "developer": "Ubisoft Montreal",
+    "publisher": "Ubisoft",
+    "genre": "Action-adventure",
+    "year": "2013",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Assassin's Creed IV: Black Flag, developed by Ubisoft Montreal, published by Ubisoft, on PC,PS3,PS4,Wii U,Xbox 360,Xbox One, in 2013.",
+    "entities": [
+      {
+        "text": "Assassin",
+        "label": "ORG"
+      },
+      {
+        "text": "Ubisoft Montreal",
+        "label": "ORG"
+      },
+      {
+        "text": "Ubisoft",
+        "label": "GPE"
+      },
+      {
+        "text": "2013",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Alien: Isolation",
+    "platforms": "PC,PS3,PS4,Xbox 360,Xbox One",
+    "developer": "Creative Assembly",
+    "publisher": "Sega",
+    "genre": "Survival horror",
+    "year": "2014",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Alien: Isolation, developed by Creative Assembly, published by Sega, on PC,PS3,PS4,Xbox 360,Xbox One, in 2014.",
+    "entities": [
+      {
+        "text": "Creative Assembly",
+        "label": "ORG"
+      },
+      {
+        "text": "Sega",
+        "label": "PERSON"
+      },
+      {
+        "text": "360,Xbox One",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2014",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Digital collectible card",
+    "platforms": "",
+    "developer": "PC,Mac",
+    "publisher": "",
+    "genre": "Blizzard Entertainment",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Digital collectible card, developed by PC,Mac.",
+    "entities": [
+      {
+        "text": "Digital",
+        "label": "ORG"
+      },
+      {
+        "text": "Mac",
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "title": "Bloodborne",
+    "platforms": "PS4",
+    "developer": "FromSoftware",
+    "publisher": "Sony Computer Entertainment",
+    "genre": "Action role-playing",
+    "year": "2015",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Bloodborne, developed by FromSoftware, published by Sony Computer Entertainment, on PS4, in 2015.",
+    "entities": [
+      {
+        "text": "Bloodborne",
+        "label": "PERSON"
+      },
+      {
+        "text": "FromSoftware",
+        "label": "ORG"
+      },
+      {
+        "text": "Sony Computer Entertainment",
+        "label": "ORG"
+      },
+      {
+        "text": "2015",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Dishonored 2",
+    "platforms": "PC,PS4,Xbox One",
+    "developer": "Arkane Lyon",
+    "publisher": "Bethesda Softworks",
+    "genre": "Stealth",
+    "year": "2016",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Dishonored 2, developed by Arkane Lyon, published by Bethesda Softworks, on PC,PS4,Xbox One, in 2016.",
+    "entities": [
+      {
+        "text": "Dishonored 2",
+        "label": "PERSON"
+      },
+      {
+        "text": "Arkane Lyon",
+        "label": "PERSON"
+      },
+      {
+        "text": "Bethesda Softworks",
+        "label": "PERSON"
+      },
+      {
+        "text": "2016",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Farm life simulation",
+    "platforms": "",
+    "developer": "Chucklefish",
+    "publisher": "PC",
+    "genre": "ConcernedApe",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Farm life simulation, developed by Chucklefish, published by PC.",
+    "entities": [
+      {
+        "text": "Chucklefish",
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "title": "Fortnite",
+    "platforms": "",
+    "developer": "Epic Games",
+    "publisher": "PC,Mac,PS4,Xbox One",
+    "genre": "Third-person shooter",
+    "year": "2017",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Fortnite, developed by Epic Games, published by PC,Mac,PS4,Xbox One, in 2017.",
+    "entities": [
+      {
+        "text": "Epic Games",
+        "label": "ORG"
+      },
+      {
+        "text": "Mac",
+        "label": "PERSON"
+      },
+      {
+        "text": "2017",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Celeste",
+    "platforms": "",
+    "developer": "Maddy Makes Games",
+    "publisher": "Linux,Mac,Nintendo Switch,PC,PS4",
+    "genre": "Platform",
+    "year": "2018",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Celeste, developed by Maddy Makes Games, published by Linux,Mac,Nintendo Switch,PC,PS4, in 2018.",
+    "entities": [
+      {
+        "text": "Maddy Makes Games",
+        "label": "ORG"
+      },
+      {
+        "text": "Linux,Mac",
+        "label": "ORG"
+      },
+      {
+        "text": "Nintendo Switch",
+        "label": "PERSON"
+      },
+      {
+        "text": "2018",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Disco Elysium",
+    "platforms": "",
+    "developer": "ZA/UM",
+    "publisher": "PC",
+    "genre": "Role-playing",
+    "year": "2019",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Disco Elysium, developed by ZA/UM, published by PC, in 2019.",
+    "entities": [
+      {
+        "text": "Disco Elysium",
+        "label": "PERSON"
+      },
+      {
+        "text": "ZA/UM",
+        "label": "ORG"
+      },
+      {
+        "text": "2019",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "title": "Roguelike",
+    "platforms": "",
+    "developer": "PC,Mac,Nintendo Switch",
+    "publisher": "",
+    "genre": "Supergiant Games",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Roguelike, developed by PC,Mac,Nintendo Switch.",
+    "entities": [
+      {
+        "text": "Mac",
+        "label": "PERSON"
+      },
+      {
+        "text": "Nintendo Switch",
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "title": "Baldur's Gate 3",
+    "platforms": "",
+    "developer": "Larian Studios",
+    "publisher": "PC",
+    "genre": "Role-playing",
+    "year": "2023",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best",
+    "ner_input": "Baldur's Gate 3, developed by Larian Studios, published by PC, in 2023.",
+    "entities": [
+      {
+        "text": "Baldur",
+        "label": "ORG"
+      },
+      {
+        "text": "Larian Studios",
+        "label": "ORG"
+      },
+      {
+        "text": "2023",
+        "label": "DATE"
+      }
+    ]
+  }
+]

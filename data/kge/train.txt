@@ -1,0 +1,452 @@
+Artillery	ontology#hasTitle	Artillery
+New_Super_Mario_Bros	ontology#hasDeveloper	Nintendo_EAD
+Assassins_Creed_IV_Black_Flag	ontology#hasPlatform	PS3
+It_Takes_Two	ontology#hasPublisher	Electronic_Arts
+Final_Fight	ontology#releaseYear	1989
+Borderlands_2	ontology#hasPlatform	PC
+Fortnite	ontology#hasTitle	Fortnite
+Pokémon_SwordShield	ontology#hasTitle	Pokémon Sword/Shield
+The_Witcher_3_Wild_Hunt	ontology#hasDeveloper	CD_Projekt_Red
+Baldurs_Gate	ontology#hasPlatform	PC
+Realtime_tactics	ontology#hasTitle	Real-time tactics
+Mario_Kart_8Deluxe	ontology#hasPublisher	Nintendo
+Garrys_Mod	ontology#hasPublisher	Valve
+Baldurs_Gate_3	ontology#hasGenre	Roleplaying
+BioShock	ontology#hasTitle	BioShock
+Stealth	ontology#hasDeveloper	Konami
+Elden_Ring	ontology#hasDeveloper	FromSoftware
+Pokémon_ScarletViolet	ontology#hasDeveloper	Game_Freak
+Age_of_Empires	ontology#hasGenre	Realtime_strategy
+Call_of_Duty_Modern_Warfare_3	ontology#releaseYear	2011
+Farm_life_simulation	ontology#hasTitle	Farm life simulation
+Animal_Crossing_New_Horizons	ontology#hasPublisher	Nintendo
+PUBG_Battlegrounds	ontology#releaseYear	2017
+Combat	ontology#hasTitle	Combat
+Another_World	ontology#hasGenre	Platform
+Wii_FitPlus	ontology#releaseYear	2007
+Kart_racing	ontology#hasPublisher	Super_NES
+It_Takes_Two	ontology#hasDeveloper	Hazelight_Studios
+Elden_Ring	ontology#salesMillions	30.0
+Human_Fall_Flat	ontology#hasDeveloper	No_Brakes_Games
+PUBG_Battlegrounds	ontology#hasDeveloper	PUBG_Studios
+Pokémon_GoldSilverCrystal	ontology#hasTitle	Pokémon Gold/Silver/Crystal
+Firstperson_shooter	ontology#hasDeveloper	Apogee_Software
+Thirdperson_shooter	ontology#hasDeveloper	Gathering_of_Developers
+Another_World	ontology#hasPublisher	AmigaAtari_ST
+Celeste	ontology#hasTitle	Celeste
+Call_of_Duty_Black_Ops_III	ontology#releaseYear	2015
+Age_of_Empires_II	ontology#hasPlatform	PC
+Overwatch	ontology#salesMillions	50.0
+Human_Fall_Flat	ontology#hasPublisher	Curve_Digital
+Dishonored_2	ontology#hasPlatform	PC
+Bloodborne	ontology#hasTitle	Bloodborne
+Fighting	ontology#hasGenre	Capcom
+Chrono_Trigger	ontology#hasDeveloper	Square
+Battlefield_1942	ontology#hasGenre	Firstperson_shooter
+Tactical_roleplaying	ontology#hasDeveloper	PlayStation
+Firstperson_shooter	ontology#hasGenre	id_Software
+Garrys_Mod	ontology#salesMillions	25.56
+Action_roleplaying	ontology#hasGenre	Square
+Phasmophobia	ontology#hasPublisher	Kinetic_Games
+Beat_em_up	ontology#hasGenre	Technōs_Japan
+Terraria	ontology#hasDeveloper	ReLogic
+Dishonored_2	ontology#hasTitle	Dishonored 2
+Pokémon_GoldSilverCrystal	ontology#hasPlatform	Game_Boy_Color
+Advance_Wars	ontology#releaseYear	2001
+Survival_horror	ontology#hasDeveloper	PlayStation
+Burnout_3_Takedown	ontology#hasTitle	Burnout 3: Takedown
+Beyond_Good__Evil	ontology#hasPlatform	PS2
+The_Legend_of_Zelda_Breath_of_the_Wild	ontology#salesMillions	35.34
+Sports	ontology#hasTitle	Sports
+Elite	ontology#hasTitle	Elite
+Pokémon_SunMoonUltra_SunUltra_Moon	ontology#salesMillions	25.59
+Gauntlet	ontology#releaseYear	1985
+Super_Mario_Odyssey	ontology#releaseYear	2017
+BioShock	ontology#hasGenre	Firstperson_shooter
+Angry_Birds	ontology#releaseYear	2009
+Run_and_gun	ontology#hasGenre	Konami
+Super_Mario_Bros	ontology#salesMillions	58.0
+Civilization_II	ontology#hasTitle	Civilization II
+Battlefield_1942	ontology#hasPlatform	PC
+Thirdperson_shooter	ontology#hasGenre	Remedy_Entertainment
+Realtime_strategy	ontology#hasDeveloper	Virgin_Games
+Wii_Sports	ontology#hasDeveloper	Nintendo_EAD
+Pokémon_SwordShield	ontology#releaseYear	2019
+Pokémon_GoldSilverCrystal	ontology#salesMillions	30.12
+PUBG_Battlegrounds	ontology#hasPublisher	Krafton
+Braid	ontology#hasGenre	Puzzleplatform
+Bloodborne	ontology#releaseYear	2015
+Action_roleplaying	ontology#hasTitle	Action role-playing
+Platform	ontology#hasTitle	Platform
+Shoot_em_up	ontology#hasTitle	Shoot 'em up
+Bloodborne	ontology#hasDeveloper	FromSoftware
+Disco_Elysium	ontology#hasDeveloper	ZAUM
+Hogwarts_Legacy	ontology#hasTitle	Hogwarts Legacy
+Cyberpunk_2077	ontology#releaseYear	2020
+Alone_in_the_Dark	ontology#hasDeveloper	Infogrames
+Maze	ontology#hasTitle	Maze
+Company_of_Heroes	ontology#hasPublisher	THQ
+Alien_Isolation	ontology#releaseYear	2014
+Battlefield_1942	ontology#hasPublisher	Electronic_Arts
+The_Last_of_UsRemastered	ontology#hasDeveloper	Naughty_Dog
+Age_of_Empires_II	ontology#hasPublisher	Microsoft
+The_Legend_of_Zelda_Breath_of_the_Wild	ontology#hasPublisher	Nintendo
+Assassins_Creed_IV_Black_Flag	ontology#hasPlatform	PS4
+The_Secret_of_Monkey_Island	ontology#hasDeveloper	Lucasfilm_Games
+Sandbox	ontology#hasGenre	Mojang_Studios
+Turnbased_strategy	ontology#hasTitle	Turn-based strategy
+Wii_Play	ontology#hasTitle	Wii Play
+Citybuilding	ontology#hasGenre	Maxis
+Sports	ontology#hasPublisher	NES
+Cyberpunk_2077	ontology#hasDeveloper	CD_Projekt_Red
+Batman_Arkham_City	ontology#hasPublisher	Warner_Bros
+Archon_The_Light_and_the_Dark	ontology#releaseYear	1983
+Overwatch	ontology#hasDeveloper	Blizzard_Entertainment
+Actionadventure	ontology#hasPublisher	NES
+Pokémon_DiamondPearlPlatinum	ontology#hasDeveloper	Game_Freak
+Advance_Wars	ontology#hasPlatform	Game_Boy_Advance
+Archon_The_Light_and_the_Dark	ontology#hasTitle	Archon: The Light and the Dark
+Asteroids	ontology#hasGenre	Shoot_em_up
+MMORPG	ontology#hasPublisher	PCLinux
+Pokémon_SunMoonUltra_SunUltra_Moon	ontology#releaseYear	2016
+Contra	ontology#hasDeveloper	Konami
+Fortnite	ontology#hasPublisher	PCMacPS4Xbox_One
+Grand_Theft_Auto_San_Andreas	ontology#hasTitle	Grand Theft Auto: San Andreas
+Topdown_shooter	ontology#hasPublisher	Arcade
+Human_Fall_Flat	ontology#releaseYear	2016
+Business_simulation	ontology#hasDeveloper	Electronic_Arts
+Wii_FitPlus	ontology#hasDeveloper	Nintendo_EAD
+Chrono_Trigger	ontology#hasPublisher	Super_NES
+Civilization_II	ontology#hasPublisher	PC
+Batman_Arkham_City	ontology#hasDeveloper	Rocksteady_Studios
+Civilization_V	ontology#hasPublisher	2K_Games
+Monster_Hunter_World	ontology#hasTitle	Monster Hunter: World
+Pokémon_SwordShield	ontology#salesMillions	27.08
+Baldurs_Gate	ontology#hasPublisher	Black_Isle_StudiosInterplay_Entertainment
+The_Oregon_Trail	ontology#hasPublisher	MECC
+Pokémon_ScarletViolet	ontology#salesMillions	28.08
+Life_simulation	ontology#hasGenre	Maxis
+It_Takes_Two	ontology#salesMillions	27.0
+Kart_racing	ontology#hasDeveloper	Nintendo
+Artillery	ontology#hasDeveloper	Ocean_Software
+Baldurs_Gate_II_Shadows_of_Amn	ontology#hasDeveloper	BioWare
+Braid	ontology#hasPublisher	Microsoft_Game_Studios
+Cyberpunk_2077	ontology#hasTitle	Cyberpunk 2077
+Civilization_II	ontology#hasDeveloper	MicroProse
+Farm_life_simulation	ontology#hasGenre	ConcernedApe
+Wii_FitPlus	ontology#salesMillions	43.8
+Artillery	ontology#hasPublisher	Amiga
+Wii_Play	ontology#releaseYear	2006
+Celeste	ontology#hasDeveloper	Maddy_Makes_Games
+Super_Smash_Bros_Ultimate	ontology#salesMillions	37.44
+Topdown_shooter	ontology#hasGenre	Vid_Kidz
+Disco_Elysium	ontology#hasPublisher	PC
+Racing	ontology#hasGenre	Sega
+Thirdperson_shooter	ontology#hasTitle	Third-person shooter
+Grand_Theft_Auto_San_Andreas	ontology#hasPublisher	Rockstar_Games
+Space_flight_simulator	ontology#hasTitle	Space flight simulator
+The_Witcher_3_Wild_Hunt	ontology#salesMillions	60.0
+Overwatch	ontology#hasPublisher	Blizzard_Entertainment
+Angry_Birds	ontology#hasTitle	Angry Birds
+Firstperson_shooter	ontology#hasPublisher	PC
+Assassins_Creed_IV_Black_Flag	ontology#hasTitle	Assassin's Creed IV: Black Flag
+Braid	ontology#releaseYear	2008
+Grand_Theft_Auto_V	ontology#releaseYear	2013
+Business_simulation	ontology#hasTitle	Business simulation
+Puzzle	ontology#hasPublisher	Electronika_60
+Beyond_Good__Evil	ontology#hasDeveloper	Ubisoft_PicturesUbisoft_Milan
+Call_of_Duty_Modern_Warfare	ontology#hasDeveloper	Infinity_Ward
+Roguelike	ontology#hasDeveloper	PCMacNintendo_Switch
+Pokémon_SwordShield	ontology#hasPublisher	NintendoThe_Pokémon_Company
+Battlefield_2	ontology#hasTitle	Battlefield 2
+Call_of_Duty_Black_Ops	ontology#salesMillions	26.2
+Wii_Sports_Resort	ontology#hasPlatform	Wii
+Tetris	ontology#hasTitle	Tetris
+Monster_Hunter_World	ontology#hasPublisher	Capcom
+Tactical_roleplaying	ontology#hasTitle	Tactical role-playing
+Maze	ontology#hasDeveloper	Arcade
+Red_Dead_Redemption2	ontology#hasTitle	Red Dead Redemption 2
+Call_of_Duty_Black_Ops_III	ontology#hasPublisher	Activision
+Duck_Hunt	ontology#hasPublisher	Nintendo
+Arkanoid	ontology#hasTitle	Arkanoid
+Super_Mario_Bros	ontology#hasDeveloper	Nintendo_RD4
+Vehicle_simulation	ontology#hasTitle	Vehicle simulation
+Space_Invaders	ontology#hasTitle	Space Invaders
+Baldurs_Gate_II_Shadows_of_Amn	ontology#hasGenre	Roleplaying
+Combat	ontology#hasDeveloper	Atari_Inc
+Assassins_Creed_IV_Black_Flag	ontology#hasPlatform	Xbox_360
+Roguelike	ontology#hasGenre	Supergiant_Games
+Realtime_tactics	ontology#hasPublisher	AmigaPC
+Call_of_Duty_Black_Ops	ontology#hasTitle	Call of Duty: Black Ops
+Advance_Wars	ontology#hasGenre	Turnbased_strategy
+Action	ontology#hasGenre	Konami
+Wii_Sports_Resort	ontology#salesMillions	33.14
+Call_of_Duty_Modern_Warfare_3	ontology#salesMillions	26.5
+The_Secret_of_Monkey_Island	ontology#hasTitle	The Secret of Monkey Island
+The_Legend_of_Zelda_Breath_of_the_Wild	ontology#releaseYear	2017
+Centipede	ontology#hasTitle	Centipede
+Advance_Wars	ontology#hasPublisher	Nintendo
+Alien_Isolation	ontology#hasPlatform	PC
+Business_simulation	ontology#hasPublisher	Atari_8bitCommodore_64
+Baldurs_Gate	ontology#hasTitle	Baldur's Gate
+Run_and_gun	ontology#hasTitle	Run and gun
+Pokémon_GoldSilverCrystal	ontology#releaseYear	1999
+Daytona_USA	ontology#hasTitle	Daytona USA
+Super_Mario_Odyssey	ontology#hasPublisher	Nintendo
+Strategy	ontology#hasGenre	Creative_Assembly
+Elden_Ring	ontology#hasTitle	Elden Ring
+Call_of_Duty_Black_Ops_III	ontology#salesMillions	43.0
+Hogwarts_Legacy	ontology#salesMillions	40.0
+Grand_Theft_Auto_San_Andreas	ontology#hasDeveloper	Rockstar_North
+Call_of_Duty_Modern_Warfare	ontology#salesMillions	41.0
+Roleplaying	ontology#hasTitle	Role-playing
+Gauntlet	ontology#hasDeveloper	Atari_Games
+Puzzleplatform	ontology#hasGenre	Valve_Corporation
+New_Super_Mario_Bros_Wii	ontology#hasTitle	New Super Mario Bros. Wii
+Survival_horror	ontology#hasGenre	Capcom
+Arkanoid	ontology#hasDeveloper	Taito
+It_Takes_Two	ontology#hasTitle	It Takes Two
+Sandbox	ontology#hasDeveloper	PCMacLinux
+The_Oregon_Trail	ontology#hasGenre	Strategy
+Duck_Hunt	ontology#salesMillions	28.3
+Borderlands_2	ontology#hasTitle	Borderlands 2
+Shoot_em_up	ontology#hasGenre	Inc
+New_Super_Mario_Bros	ontology#salesMillions	30.8
+Beyond_Good__Evil	ontology#hasTitle	Beyond Good & Evil
+Braid	ontology#hasDeveloper	Number_None
+Fortnite	ontology#hasGenre	Thirdperson_shooter
+Borderlands_2	ontology#releaseYear	2012
+Garrys_Mod	ontology#releaseYear	2006
+New_Super_Mario_Bros	ontology#hasPublisher	Nintendo
+Wii_Sports	ontology#hasTitle	Wii Sports
+Action	ontology#hasDeveloper	KonamiSega
+Marvels_SpiderManRemastered	ontology#salesMillions	26.1
+Monster_Hunter_World	ontology#hasDeveloper	Capcom
+Super_Mario_Bros	ontology#hasTitle	Super Mario Bros.
+Dishonored_2	ontology#hasPublisher	Bethesda_Softworks
+Monster_Hunter_World	ontology#releaseYear	2018
+Realtime_tactics	ontology#hasDeveloper	Electronic_Arts
+Black_Myth_Wukong	ontology#hasDeveloper	Game_Science
+Batman_Arkham_City	ontology#releaseYear	2011
+Marvels_SpiderManRemastered	ontology#releaseYear	2018
+New_Super_Mario_Bros_Wii	ontology#hasPlatform	Wii
+Garrys_Mod	ontology#hasPlatform	PC
+Tetris	ontology#salesMillions	520.0
+Beat_em_up	ontology#hasDeveloper	Taito
+Mario_Kart_8Deluxe	ontology#hasTitle	Mario Kart 8/Deluxe
+Battlefield_2	ontology#hasPublisher	Electronic_Arts
+Day_of_the_Tentacle	ontology#hasGenre	Adventure
+Racing	ontology#hasDeveloper	Arcade
+Wii_Sports	ontology#salesMillions	82.9
+Grand_Theft_Auto_San_Andreas	ontology#salesMillions	27.5
+The_Witcher_3_Wild_Hunt	ontology#releaseYear	2015
+New_Super_Mario_Bros_Wii	ontology#hasPublisher	Nintendo
+The_Last_of_UsRemastered	ontology#releaseYear	2013
+Burnout_3_Takedown	ontology#releaseYear	2004
+Survival_horror	ontology#hasTitle	Survival horror
+It_Takes_Two	ontology#releaseYear	2021
+Alien_Isolation	ontology#hasTitle	Alien: Isolation
+Overwatch	ontology#releaseYear	2016
+Assassins_Creed_IV_Black_Flag	ontology#hasGenre	Actionadventure
+Batman_Arkham_City	ontology#hasPlatform	PS3
+Rail_shooter	ontology#hasTitle	Rail shooter
+Rail_shooter	ontology#hasDeveloper	Arcade
+Final_Fight	ontology#hasGenre	Beat_em_up
+Baldurs_Gate_II_Shadows_of_Amn	ontology#hasTitle	Baldur's Gate II: Shadows of Amn
+Day_of_the_Tentacle	ontology#hasTitle	Day of the Tentacle
+Stealth	ontology#hasPublisher	PlayStation
+Pokémon_DiamondPearlPlatinum	ontology#hasPublisher	NintendoThe_Pokémon_Company
+Alone_in_the_Dark	ontology#hasTitle	Alone in the Dark
+Baldurs_Gate_II_Shadows_of_Amn	ontology#releaseYear	2000
+Super_Mario_Odyssey	ontology#salesMillions	30.27
+Another_World	ontology#hasTitle	Another World
+MOBA	ontology#hasGenre	Riot_Games
+Mega_Man_2	ontology#releaseYear	1988
+Borderlands_2	ontology#hasPlatform	PS3
+Mario_Kart_Wii	ontology#hasDeveloper	Nintendo_EAD
+Battlefield_2	ontology#releaseYear	2005
+Call_of_Duty_Black_Ops	ontology#hasDeveloper	Treyarch
+Overwatch	ontology#hasTitle	Overwatch
+Burnout_3_Takedown	ontology#hasPublisher	Electronic_Arts
+Elite	ontology#hasDeveloper	David_BrabenandIan_Bell
+Space_flight_simulator	ontology#hasDeveloper	PC
+Civilization_V	ontology#hasGenre	Turnbased_strategy
+Roguelike	ontology#hasTitle	Roguelike
+Braid	ontology#hasPlatform	Xbox_360
+Puzzle	ontology#hasDeveloper	Elorg
+BioShock	ontology#hasPlatform	PC
+Burnout_3_Takedown	ontology#hasPlatform	Xbox
+Black_Myth_Wukong	ontology#releaseYear	2024
+Digital_collectible_card	ontology#hasDeveloper	PCMac
+Super_Smash_Bros_Ultimate	ontology#hasPlatform	Nintendo_Switch
+The_Oregon_Trail	ontology#hasPlatform	HP_2100
+Combat	ontology#hasGenre	Topdown_shooter
+Digital_collectible_card	ontology#hasGenre	Blizzard_Entertainment
+Joust	ontology#releaseYear	1982
+Pokémon_ScarletViolet	ontology#hasTitle	Pokémon Scarlet/Violet
+Another_World	ontology#hasDeveloper	Delphine_Software
+Farm_life_simulation	ontology#hasPublisher	PC
+Hogwarts_Legacy	ontology#releaseYear	2023
+Elden_Ring	ontology#releaseYear	2022
+BioShock	ontology#hasDeveloper	2K_Boston2K_Australia
+Strategy	ontology#hasDeveloper	Activision
+BioShock	ontology#hasPlatform	Xbox_360
+Celeste	ontology#hasGenre	Platform
+Super_Mario_Odyssey	ontology#hasTitle	Super Mario Odyssey
+Celeste	ontology#hasPublisher	LinuxMacNintendo_SwitchPCPS4
+Baldurs_Gate_3	ontology#hasDeveloper	Larian_Studios
+Terraria	ontology#hasTitle	Terraria
+Day_of_the_Tentacle	ontology#releaseYear	1993
+Civilization_V	ontology#hasDeveloper	Firaxis_Games
+Company_of_Heroes	ontology#hasGenre	Realtime_strategy
+The_Witcher_3_Wild_Hunt	ontology#hasPublisher	CD_Projekt
+Centipede	ontology#hasDeveloper	Atari_Inc
+Red_Dead_Redemption2	ontology#releaseYear	2018
+Mario_Kart_Wii	ontology#releaseYear	2008
+Call_of_Duty_Modern_Warfare	ontology#hasPublisher	Activision
+Life_simulation	ontology#hasTitle	Life simulation
+Asteroids	ontology#hasTitle	Asteroids
+Pong	ontology#releaseYear	1972
+Hogwarts_Legacy	ontology#hasPublisher	Warner_Bros_Games
+Assassins_Creed_IV_Black_Flag	ontology#hasDeveloper	Ubisoft_Montreal
+Adventure	ontology#hasTitle	Adventure
+The_Witcher_3_Wild_Hunt	ontology#hasTitle	The Witcher 3: Wild Hunt
+Call_of_Duty_Modern_Warfare_3	ontology#hasTitle	Call of Duty: Modern Warfare 3
+Space_Invaders	ontology#releaseYear	1978
+Centipede	ontology#hasGenre	Shoot_em_up
+Company_of_Heroes	ontology#hasDeveloper	Relic_Entertainment
+Alien_Isolation	ontology#hasDeveloper	Creative_Assembly
+Fortnite	ontology#releaseYear	2017
+Actionadventure	ontology#hasTitle	Action-adventure
+Wii_Play	ontology#hasPublisher	Nintendo
+Pong	ontology#hasGenre	Sports
+Call_of_Duty_Modern_Warfare	ontology#hasTitle	Call of Duty: Modern Warfare
+Wii_Play	ontology#salesMillions	28.02
+Grand_Theft_Auto_V	ontology#salesMillions	225.0
+The_Oregon_Trail	ontology#releaseYear	1971
+Tower_defense	ontology#hasDeveloper	PCMac
+Mario_Kart_8Deluxe	ontology#releaseYear	2014
+Phasmophobia	ontology#hasTitle	Phasmophobia
+Civilization_II	ontology#hasGenre	Turnbased_strategy
+Pokémon_DiamondPearlPlatinum	ontology#hasTitle	Pokémon Diamond/Pearl/Platinum
+Monster_Hunter_World	ontology#salesMillions	29.1
+Phasmophobia	ontology#salesMillions	25.0
+Realtime_strategy	ontology#hasPublisher	PC
+Cyberpunk_2077	ontology#hasPublisher	CD_Projekt
+Wii_FitPlus	ontology#hasPublisher	Nintendo
+Phasmophobia	ontology#releaseYear	2024
+Platform	ontology#hasDeveloper	Nintendo
+Bloodborne	ontology#hasPlatform	PS4
+Baldurs_Gate_II_Shadows_of_Amn	ontology#hasPlatform	PC
+Archon_The_Light_and_the_Dark	ontology#hasPlatform	Atari_8bit
+Age_of_Empires	ontology#hasDeveloper	Ensemble_Studios
+Animal_Crossing_New_Horizons	ontology#salesMillions	49.32
+Thirdperson_shooter	ontology#hasPublisher	PC
+Run_and_gun	ontology#hasDeveloper	Super_NES
+Adventure	ontology#hasGenre	Infocom
+Elden_Ring	ontology#hasPublisher	Bandai_Namco
+Roleplaying	ontology#hasDeveloper	Apple_II
+Beyond_Good__Evil	ontology#releaseYear	2003
+Duck_Hunt	ontology#releaseYear	1984
+Super_Smash_Bros_Ultimate	ontology#hasPublisher	Nintendo
+Age_of_Empires_II	ontology#hasDeveloper	Ensemble_Studios
+Rail_shooter	ontology#hasGenre	Atari
+Mega_Man_2	ontology#hasDeveloper	Capcom
+MOBA	ontology#hasTitle	MOBA
+Age_of_Empires	ontology#releaseYear	1997
+Wii_Sports	ontology#releaseYear	2006
+Rail_shooter	ontology#hasGenre	Inc
+Assassins_Creed_IV_Black_Flag	ontology#hasPublisher	Ubisoft
+Red_Dead_Redemption2	ontology#salesMillions	82.0
+Celeste	ontology#releaseYear	2018
+Actionadventure	ontology#hasDeveloper	Nintendo
+Realtime_strategy	ontology#hasGenre	Westwood_Studios
+Call_of_Duty_Modern_Warfare_3	ontology#hasDeveloper	Infinity_WardSledgehammer
+Borderlands_2	ontology#hasGenre	Action_roleplaying
+Rhythm	ontology#hasDeveloper	Sony_Computer_Entertainment
+Shoot_em_up	ontology#hasGenre	Atari
+Battlefield_2	ontology#hasDeveloper	Digital_Illusions_CE
+Human_Fall_Flat	ontology#salesMillions	55.0
+Disco_Elysium	ontology#releaseYear	2019
+Action	ontology#hasTitle	Action
+Racing	ontology#hasTitle	Racing
+Tactical_roleplaying	ontology#hasGenre	Square
+Combat	ontology#releaseYear	1977
+Company_of_Heroes	ontology#releaseYear	2006
+Action_roleplaying	ontology#hasDeveloper	Super_NES
+Roleplaying	ontology#hasGenre	SirTech
+God_game	ontology#hasDeveloper	Electronic_Arts
+MOBA	ontology#hasDeveloper	PC
+Fortnite	ontology#hasDeveloper	Epic_Games
+Super_Mario_Odyssey	ontology#hasPlatform	Nintendo_Switch
+Age_of_Empires_II	ontology#hasTitle	Age of Empires II
+Duck_Hunt	ontology#hasTitle	Duck Hunt
+The_Last_of_UsRemastered	ontology#hasPublisher	Sony_Computer_Entertainment
+Arkanoid	ontology#hasPublisher	Arcade
+Dishonored_2	ontology#hasPlatform	Xbox_One
+Archon_The_Light_and_the_Dark	ontology#hasPublisher	Electronic_Arts
+Wii_Sports	ontology#hasPublisher	Nintendo
+Kart_racing	ontology#hasTitle	Kart racing
+Battlefield_2	ontology#hasPlatform	PC
+Sandbox	ontology#hasTitle	Sandbox
+New_Super_Mario_Bros	ontology#hasTitle	New Super Mario Bros.
+Fighting	ontology#hasDeveloper	Arcade
+Alone_in_the_Dark	ontology#releaseYear	1992
+Tower_defense	ontology#hasTitle	Tower defense
+Elite	ontology#hasPublisher	Acornsoft
+Pokémon_RedBlueYellow	ontology#releaseYear	1996
+Baldurs_Gate	ontology#hasGenre	Roleplaying
+Mega_Man_2	ontology#hasPublisher	NES
+Angry_Birds	ontology#hasDeveloper	Rovio_Entertainment
+Super_Mario_Bros	ontology#hasPublisher	Nintendo
+Animal_Crossing_New_Horizons	ontology#hasPlatform	Nintendo_Switch
+Pokémon_ScarletViolet	ontology#hasPublisher	NintendoThe_Pokémon_Company
+Space_Invaders	ontology#hasGenre	Shoot_em_up
+Call_of_Duty_Black_Ops_III	ontology#hasDeveloper	Treyarch
+God_game	ontology#hasPublisher	Amiga
+New_Super_Mario_Bros	ontology#hasPlatform	Nintendo_DS
+Rhythm	ontology#hasGenre	NanaOnSha
+Wii_Play	ontology#hasDeveloper	Nintendo_EAD
+Beyond_Good__Evil	ontology#hasPublisher	Ubisoft
+Braid	ontology#hasTitle	Braid
+Wii_Sports_Resort	ontology#hasTitle	Wii Sports Resort
+Pokémon_RedBlueYellow	ontology#hasDeveloper	Game_Freak
+Marvels_SpiderManRemastered	ontology#hasPublisher	Sony_Interactive_Entertainment
+Joust	ontology#hasDeveloper	Williams_Electronics
+Realtime_tactics	ontology#hasGenre	Bullfrog_Productions
+Cyberpunk_2077	ontology#salesMillions	35.0
+Borderlands_2	ontology#hasPublisher	2K_Games
+PUBG_Battlegrounds	ontology#hasTitle	PUBG: Battlegrounds
+Assassins_Creed_IV_Black_Flag	ontology#hasPlatform	Wii_U
+Borderlands_2	ontology#hasPlatform	Xbox_360
+Burnout_3_Takedown	ontology#hasGenre	Racing
+The_Legend_of_Zelda_Breath_of_the_Wild	ontology#hasTitle	The Legend of Zelda: Breath of the Wild
+Pokémon_DiamondPearlPlatinum	ontology#releaseYear	2006
+Sports	ontology#hasDeveloper	Nintendo
+Age_of_Empires	ontology#hasPlatform	PC
+New_Super_Mario_Bros_Wii	ontology#releaseYear	2009
+Joust	ontology#hasGenre	Action
+Animal_Crossing_New_Horizons	ontology#hasTitle	Animal Crossing: New Horizons
+Archon_The_Light_and_the_Dark	ontology#hasGenre	Strategy
+Duck_Hunt	ontology#hasPlatform	Famicom__NES
+Pong	ontology#hasDeveloper	Atari_Inc
+Baldurs_Gate	ontology#releaseYear	1998
+Battlefield_2	ontology#hasGenre	Firstperson_shooter
+Farm_life_simulation	ontology#hasDeveloper	Chucklefish
+Vehicle_simulation	ontology#hasGenre	Atari
+Company_of_Heroes	ontology#hasTitle	Company of Heroes
+Archon_The_Light_and_the_Dark	ontology#hasDeveloper	Free_Fall_Associates
+Space_flight_simulator	ontology#hasGenre	Origin_Systems
+Asteroids	ontology#hasDeveloper	Atari_Inc
+Mario_Kart_Wii	ontology#hasTitle	Mario Kart Wii
+Pokémon_SwordShield	ontology#hasPlatform	Nintendo_Switch
+Black_Myth_Wukong	ontology#hasTitle	Black Myth: Wukong
+Wii_Sports	ontology#hasPlatform	Wii
+Alien_Isolation	ontology#hasPlatform	Xbox_One
+Gauntlet	ontology#hasTitle	Gauntlet
+BioShock	ontology#hasPublisher	2K_Games
+Red_Dead_Redemption2	ontology#hasDeveloper	Rockstar_Games
+Shoot_em_up	ontology#hasDeveloper	Arcade
+Mario_Kart_8Deluxe	ontology#hasDeveloper	Nintendo_EADNintendo_EPDDeluxe
+Mega_Man_2	ontology#hasTitle	Mega Man 2
+Vehicle_simulation	ontology#hasGenre	Inc

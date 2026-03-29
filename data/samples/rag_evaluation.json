@@ -1,0 +1,37 @@
+[
+  {
+    "question": "Which games were published by Nintendo?",
+    "baseline": "Unknown \u2014 no system available",
+    "rag_answer": "  \u2022 Advance Wars\n  \u2022 Animal Crossing: New Horizons\n  \u2022 Duck Hunt\n  \u2022 Mario Kart 8/Deluxe\n  \u2022 Mario Kart Wii\n  \u2022 New Super Mario Bros.\n  \u2022 New Super Mario Bros. Wii\n  \u2022 Pok\u00e9mon Gold/Silver/Crystal\n  \u2022 Pok\u00e9mon Red/Blue/Yellow\n  \u2022 Super Mario Bros.\n  ... and 7 more",
+    "sparql": "PREFIX vg: <http://videogame-kg.org/ontology#>\nPREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\n\nSELECT ?title WHERE {\n    ?game vg:hasTitle ?title .\n    ?game vg:hasPublisher ?pub .\n    ?pub rdfs:label ?pubLabel .\n    FILTER(LCASE(STR(?pubLabel)) = \"nintendo\")\n}\nLIMIT 20",
+    "repaired": false
+  },
+  {
+    "question": "Which games have sold more than 100 million copies?",
+    "baseline": "Unknown \u2014 no system available",
+    "rag_answer": "  \u2022 Tetris | 520.0\n  \u2022 Grand Theft Auto V | 225.0",
+    "sparql": "PREFIX vg: <http://videogame-kg.org/ontology#>\nSELECT ?title ?sales WHERE {\n    ?game vg:hasTitle ?title .\n    ?game vg:salesMillions ?sales .\n    FILTER(?sales > 100)\n}\nORDER BY DESC(?sales)\nLIMIT 20",
+    "repaired": false
+  },
+  {
+    "question": "What games were self-published by their developer?",
+    "baseline": "Unknown \u2014 no system available",
+    "rag_answer": "  \u2022 Advance Wars\n  \u2022 Age of Empires\n  \u2022 Age of Empires II\n  \u2022 Alien: Isolation\n  \u2022 Alone in the Dark\n  \u2022 Angry Birds\n  \u2022 Animal Crossing: New Horizons\n  \u2022 Super Mario Odyssey\n  \u2022 The Legend of Zelda: Breath of the Wild\n  \u2022 Another World\n  ... and 10 more",
+    "sparql": "PREFIX vg: <http://videogame-kg.org/ontology#>\nPREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\n\nSELECT ?title WHERE {\n    ?game vg:hasTitle ?title .\n    ?game vg:hasDeveloper ?dev .\n    ?dev rdfs:label ?devLabel .\n    FILTER(LCASE(STR(?devLabel)) != \"nintendo\")\n}\nLIMIT 20",
+    "repaired": false
+  },
+  {
+    "question": "Which games were released after 2010?",
+    "baseline": "Unknown \u2014 no system available",
+    "rag_answer": "No data found",
+    "sparql": "PREFIX vg: <http://videogame-kg.org/ontology#>\nPREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\nSELECT ?title ?releaseYear WHERE {\n    ?game vg:hasTitle ?title .\n    ?game vg:releaseYear ?releaseYear .\n    FILTER(?releaseYear > \"2010\")\n}\nORDER BY DESC(?releaseYear)\nLIMIT 20",
+    "repaired": false
+  },
+  {
+    "question": "How many games does each publisher have?",
+    "baseline": "Unknown \u2014 no system available",
+    "rag_answer": "  \u2022 http://www.w3.org/2000/01/rdf-schema#label | None",
+    "sparql": "PREFIX vg: <http://videogame-kg.org/ontology#>\nPREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\n\nSELECT (rdfs:label AS ?devLabel) (COUNT(DISTINCT ?game) AS ?count)\nWHERE {\n    ?publisher vg:hasPublisher ?p .\n    ?p rdfs:label ?devLabel .\n    ?game vg:hasDeveloper ?dev .\n    FILTER(LCASE(STR(?dev)) = LCase(str(?devLabel)))\n}\nGROUP BY ?devLabel\nORDER BY DESC(?count)",
+    "repaired": false
+  }
+]

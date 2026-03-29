@@ -1,0 +1,1512 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix vg: <http://videogame-kg.org/ontology#> .
+@prefix vgr: <http://videogame-kg.org/resource/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://videogame-kg.org/ontology> a owl:Ontology ;
+    rdfs:label "Video Game Knowledge Graph Ontology" .
+
+vg:developedBy owl:inverseOf vg:hasDeveloper .
+
+vg:hasGenre a owl:ObjectProperty ;
+    rdfs:domain vg:Game ;
+    rdfs:range vg:Genre .
+
+vg:hasPlatform a owl:ObjectProperty ;
+    rdfs:domain vg:Game ;
+    rdfs:range vg:Platform .
+
+vg:hasTitle a owl:DatatypeProperty ;
+    rdfs:domain vg:Game ;
+    rdfs:range xsd:string .
+
+vg:publishedBy owl:inverseOf vg:hasPublisher .
+
+vg:releaseYear a owl:DatatypeProperty ;
+    rdfs:domain vg:Game ;
+    rdfs:range xsd:gYear .
+
+vg:salesMillions a owl:DatatypeProperty ;
+    rdfs:domain vg:Game ;
+    rdfs:range xsd:float .
+
+vgr:Advance_Wars a vg:Game ;
+    vg:hasDeveloper vgr:Intelligent_Systems ;
+    vg:hasGenre vgr:Turnbased_strategy ;
+    vg:hasPlatform vgr:Game_Boy_Advance ;
+    vg:hasPublisher vgr:Nintendo ;
+    vg:hasTitle "Advance Wars"^^xsd:string ;
+    vg:releaseYear "2001"^^xsd:gYear .
+
+vgr:Age_of_Empires a vg:Game ;
+    vg:hasDeveloper vgr:Ensemble_Studios ;
+    vg:hasGenre vgr:Realtime_strategy ;
+    vg:hasPlatform vgr:PC ;
+    vg:hasPublisher vgr:Microsoft ;
+    vg:hasTitle "Age of Empires"^^xsd:string ;
+    vg:releaseYear "1997"^^xsd:gYear .
+
+vgr:Age_of_Empires_II a vg:Game ;
+    vg:hasDeveloper vgr:Ensemble_Studios ;
+    vg:hasGenre vgr:Realtime_strategy ;
+    vg:hasPlatform vgr:PC ;
+    vg:hasPublisher vgr:Microsoft ;
+    vg:hasTitle "Age of Empires II"^^xsd:string ;
+    vg:releaseYear "1999"^^xsd:gYear .
+
+vgr:Alien_Isolation a vg:Game ;
+    vg:hasDeveloper vgr:Creative_Assembly ;
+    vg:hasGenre vgr:Survival_horror ;
+    vg:hasPlatform vgr:PC,
+        vgr:PS3,
+        vgr:PS4,
+        vgr:Xbox_360,
+        vgr:Xbox_One ;
+    vg:hasPublisher vgr:Sega ;
+    vg:hasTitle "Alien: Isolation"^^xsd:string ;
+    vg:releaseYear "2014"^^xsd:gYear .
+
+vgr:Alone_in_the_Dark a vg:Game ;
+    vg:hasDeveloper vgr:Infogrames ;
+    vg:hasGenre vgr:Survival_horror ;
+    vg:hasPublisher vgr:PC ;
+    vg:hasTitle "Alone in the Dark"^^xsd:string ;
+    vg:releaseYear "1992"^^xsd:gYear .
+
+vgr:Angry_Birds a vg:Game ;
+    vg:hasDeveloper vgr:Rovio_Entertainment ;
+    vg:hasGenre vgr:Puzzle ;
+    vg:hasPublisher vgr:MaemoiOS ;
+    vg:hasTitle "Angry Birds"^^xsd:string ;
+    vg:releaseYear "2009"^^xsd:gYear .
+
+vgr:Animal_Crossing_New_Horizons a vg:Game ;
+    vg:hasDeveloper vgr:Nintendo_EPD ;
+    vg:hasPlatform vgr:Nintendo_Switch ;
+    vg:hasPublisher vgr:Nintendo ;
+    vg:hasTitle "Animal Crossing: New Horizons"^^xsd:string ;
+    vg:releaseYear "2020"^^xsd:gYear ;
+    vg:salesMillions "49.32"^^xsd:float .
+
+vgr:Another_World a vg:Game ;
+    vg:hasDeveloper vgr:Delphine_Software ;
+    vg:hasGenre vgr:Platform ;
+    vg:hasPublisher vgr:AmigaAtari_ST ;
+    vg:hasTitle "Another World"^^xsd:string ;
+    vg:releaseYear "1991"^^xsd:gYear .
+
+vgr:Archon_The_Light_and_the_Dark a vg:Game ;
+    vg:hasDeveloper vgr:Free_Fall_Associates ;
+    vg:hasGenre vgr:Strategy ;
+    vg:hasPlatform vgr:Atari_8bit ;
+    vg:hasPublisher vgr:Electronic_Arts ;
+    vg:hasTitle "Archon: The Light and the Dark"^^xsd:string ;
+    vg:releaseYear "1983"^^xsd:gYear .
+
+vgr:Arkanoid a vg:Game ;
+    vg:hasDeveloper vgr:Taito ;
+    vg:hasGenre vgr:Block_breaker ;
+    vg:hasPublisher vgr:Arcade ;
+    vg:hasTitle "Arkanoid"^^xsd:string ;
+    vg:releaseYear "1986"^^xsd:gYear .
+
+vgr:Artillery a vg:Game ;
+    vg:hasDeveloper vgr:Ocean_Software ;
+    vg:hasGenre vgr:Team17 ;
+    vg:hasPublisher vgr:Amiga ;
+    vg:hasTitle "Artillery"^^xsd:string .
+
+vgr:Assassins_Creed_IV_Black_Flag a vg:Game ;
+    vg:hasDeveloper vgr:Ubisoft_Montreal ;
+    vg:hasGenre vgr:Actionadventure ;
+    vg:hasPlatform vgr:PC,
+        vgr:PS3,
+        vgr:PS4,
+        vgr:Wii_U,
+        vgr:Xbox_360,
+        vgr:Xbox_One ;
+    vg:hasPublisher vgr:Ubisoft ;
+    vg:hasTitle "Assassin's Creed IV: Black Flag"^^xsd:string ;
+    vg:releaseYear "2013"^^xsd:gYear .
+
+vgr:Asteroids a vg:Game ;
+    vg:hasDeveloper vgr:Atari_Inc ;
+    vg:hasGenre vgr:Shoot_em_up ;
+    vg:hasPublisher vgr:Arcade ;
+    vg:hasTitle "Asteroids"^^xsd:string ;
+    vg:releaseYear "1979"^^xsd:gYear .
+
+vgr:Baldurs_Gate a vg:Game ;
+    vg:hasDeveloper vgr:BioWare ;
+    vg:hasGenre vgr:Roleplaying ;
+    vg:hasPlatform vgr:PC ;
+    vg:hasPublisher vgr:Black_Isle_StudiosInterplay_Entertainment ;
+    vg:hasTitle "Baldur's Gate"^^xsd:string ;
+    vg:releaseYear "1998"^^xsd:gYear .
+
+vgr:Baldurs_Gate_3 a vg:Game ;
+    vg:hasDeveloper vgr:Larian_Studios ;
+    vg:hasGenre vgr:Roleplaying ;
+    vg:hasPublisher vgr:PC ;
+    vg:hasTitle "Baldur's Gate 3"^^xsd:string ;
+    vg:releaseYear "2023"^^xsd:gYear .
+
+vgr:Baldurs_Gate_II_Shadows_of_Amn a vg:Game ;
+    vg:hasDeveloper vgr:BioWare ;
+    vg:hasGenre vgr:Roleplaying ;
+    vg:hasPlatform vgr:PC ;
+    vg:hasPublisher vgr:Black_Isle_StudiosInterplay_Entertainment ;
+    vg:hasTitle "Baldur's Gate II: Shadows of Amn"^^xsd:string ;
+    vg:releaseYear "2000"^^xsd:gYear .
+
+vgr:Batman_Arkham_City a vg:Game ;
+    vg:hasDeveloper vgr:Rocksteady_Studios ;
+    vg:hasGenre vgr:Actionadventure ;
+    vg:hasPlatform vgr:PS3,
+        vgr:Xbox_360 ;
+    vg:hasPublisher vgr:Warner_Bros ;
+    vg:hasTitle "Batman: Arkham City"^^xsd:string ;
+    vg:releaseYear "2011"^^xsd:gYear .
+
+vgr:Battlefield_1942 a vg:Game ;
+    vg:hasDeveloper vgr:Digital_Illusions_CE ;
+    vg:hasGenre vgr:Firstperson_shooter ;
+    vg:hasPlatform vgr:PC ;
+    vg:hasPublisher vgr:Electronic_Arts ;
+    vg:hasTitle "Battlefield 1942"^^xsd:string ;
+    vg:releaseYear "2002"^^xsd:gYear .
+
+vgr:Battlefield_2 a vg:Game ;
+    vg:hasDeveloper vgr:Digital_Illusions_CE ;
+    vg:hasGenre vgr:Firstperson_shooter ;
+    vg:hasPlatform vgr:PC ;
+    vg:hasPublisher vgr:Electronic_Arts ;
+    vg:hasTitle "Battlefield 2"^^xsd:string ;
+    vg:releaseYear "2005"^^xsd:gYear .
+
+vgr:Beyond_Good__Evil a vg:Game ;
+    vg:hasDeveloper vgr:Ubisoft_PicturesUbisoft_Milan ;
+    vg:hasGenre vgr:Actionadventure ;
+    vg:hasPlatform vgr:PS2 ;
+    vg:hasPublisher vgr:Ubisoft ;
+    vg:hasTitle "Beyond Good & Evil"^^xsd:string ;
+    vg:releaseYear "2003"^^xsd:gYear .
+
+vgr:BioShock a vg:Game ;
+    vg:hasDeveloper vgr:2K_Boston2K_Australia ;
+    vg:hasGenre vgr:Firstperson_shooter ;
+    vg:hasPlatform vgr:PC,
+        vgr:Xbox_360 ;
+    vg:hasPublisher vgr:2K_Games ;
+    vg:hasTitle "BioShock"^^xsd:string ;
+    vg:releaseYear "2007"^^xsd:gYear .
+
+vgr:Black_Myth_Wukong a vg:Game ;
+    vg:hasDeveloper vgr:Game_Science ;
+    vg:hasPublisher vgr:Game_Science ;
+    vg:hasTitle "Black Myth: Wukong"^^xsd:string ;
+    vg:releaseYear "2024"^^xsd:gYear ;
+    vg:salesMillions "28.0"^^xsd:float .
+
+vgr:Bloodborne a vg:Game ;
+    vg:hasDeveloper vgr:FromSoftware ;
+    vg:hasGenre vgr:Action_roleplaying ;
+    vg:hasPlatform vgr:PS4 ;
+    vg:hasPublisher vgr:Sony_Computer_Entertainment ;
+    vg:hasTitle "Bloodborne"^^xsd:string ;
+    vg:releaseYear "2015"^^xsd:gYear .
+
+vgr:Borderlands_2 a vg:Game ;
+    vg:hasDeveloper vgr:Gearbox_Software ;
+    vg:hasGenre vgr:Action_roleplaying ;
+    vg:hasPlatform vgr:PC,
+        vgr:PS3,
+        vgr:Xbox_360 ;
+    vg:hasPublisher vgr:2K_Games ;
+    vg:hasTitle "Borderlands 2"^^xsd:string ;
+    vg:releaseYear "2012"^^xsd:gYear .
+
+vgr:Braid a vg:Game ;
+    vg:hasDeveloper vgr:Number_None ;
+    vg:hasGenre vgr:Puzzleplatform ;
+    vg:hasPlatform vgr:Xbox_360 ;
+    vg:hasPublisher vgr:Microsoft_Game_Studios ;
+    vg:hasTitle "Braid"^^xsd:string ;
+    vg:releaseYear "2008"^^xsd:gYear .
+
+vgr:Burnout_3_Takedown a vg:Game ;
+    vg:hasDeveloper vgr:Criterion_Games ;
+    vg:hasGenre vgr:Racing ;
+    vg:hasPlatform vgr:PS2,
+        vgr:Xbox ;
+    vg:hasPublisher vgr:Electronic_Arts ;
+    vg:hasTitle "Burnout 3: Takedown"^^xsd:string ;
+    vg:releaseYear "2004"^^xsd:gYear .
+
+vgr:Business_simulation a vg:Game ;
+    vg:hasDeveloper vgr:Electronic_Arts ;
+    vg:hasGenre vgr:Ozark_Softscape ;
+    vg:hasPublisher vgr:Atari_8bitCommodore_64 ;
+    vg:hasTitle "Business simulation"^^xsd:string .
+
+vgr:Call_of_Duty_Black_Ops a vg:Game ;
+    vg:hasDeveloper vgr:Treyarch ;
+    vg:hasPublisher vgr:Activision ;
+    vg:hasTitle "Call of Duty: Black Ops"^^xsd:string ;
+    vg:releaseYear "2010"^^xsd:gYear ;
+    vg:salesMillions "26.2"^^xsd:float .
+
+vgr:Call_of_Duty_Black_Ops_III a vg:Game ;
+    vg:hasDeveloper vgr:Treyarch ;
+    vg:hasPublisher vgr:Activision ;
+    vg:hasTitle "Call of Duty: Black Ops III"^^xsd:string ;
+    vg:releaseYear "2015"^^xsd:gYear ;
+    vg:salesMillions "43.0"^^xsd:float .
+
+vgr:Call_of_Duty_Modern_Warfare a vg:Game ;
+    vg:hasDeveloper vgr:Infinity_Ward ;
+    vg:hasPublisher vgr:Activision ;
+    vg:hasTitle "Call of Duty: Modern Warfare"^^xsd:string ;
+    vg:releaseYear "2019"^^xsd:gYear ;
+    vg:salesMillions "41.0"^^xsd:float .
+
+vgr:Call_of_Duty_Modern_Warfare_3 a vg:Game ;
+    vg:hasDeveloper vgr:Infinity_WardSledgehammer ;
+    vg:hasPublisher vgr:Activision ;
+    vg:hasTitle "Call of Duty: Modern Warfare 3"^^xsd:string ;
+    vg:releaseYear "2011"^^xsd:gYear ;
+    vg:salesMillions "26.5"^^xsd:float .
+
+vgr:Celeste a vg:Game ;
+    vg:hasDeveloper vgr:Maddy_Makes_Games ;
+    vg:hasGenre vgr:Platform ;
+    vg:hasPublisher vgr:LinuxMacNintendo_SwitchPCPS4 ;
+    vg:hasTitle "Celeste"^^xsd:string ;
+    vg:releaseYear "2018"^^xsd:gYear .
+
+vgr:Centipede a vg:Game ;
+    vg:hasDeveloper vgr:Atari_Inc ;
+    vg:hasGenre vgr:Shoot_em_up ;
+    vg:hasPublisher vgr:Arcade ;
+    vg:hasTitle "Centipede"^^xsd:string ;
+    vg:releaseYear "1981"^^xsd:gYear .
+
+vgr:Chrono_Trigger a vg:Game ;
+    vg:hasDeveloper vgr:Square ;
+    vg:hasGenre vgr:Roleplaying ;
+    vg:hasPublisher vgr:Super_NES ;
+    vg:hasTitle "Chrono Trigger"^^xsd:string ;
+    vg:releaseYear "1995"^^xsd:gYear .
+
+vgr:Citybuilding a vg:Game ;
+    vg:hasDeveloper vgr:AmigaMac ;
+    vg:hasGenre vgr:Maxis ;
+    vg:hasTitle "City-building"^^xsd:string .
+
+vgr:Civilization_II a vg:Game ;
+    vg:hasDeveloper vgr:MicroProse ;
+    vg:hasGenre vgr:Turnbased_strategy ;
+    vg:hasPublisher vgr:PC ;
+    vg:hasTitle "Civilization II"^^xsd:string ;
+    vg:releaseYear "1996"^^xsd:gYear .
+
+vgr:Civilization_V a vg:Game ;
+    vg:hasDeveloper vgr:Firaxis_Games ;
+    vg:hasGenre vgr:Turnbased_strategy ;
+    vg:hasPlatform vgr:PC ;
+    vg:hasPublisher vgr:2K_Games ;
+    vg:hasTitle "Civilization V"^^xsd:string ;
+    vg:releaseYear "2010"^^xsd:gYear .
+
+vgr:Combat a vg:Game ;
+    vg:hasDeveloper vgr:Atari_Inc ;
+    vg:hasGenre vgr:Topdown_shooter ;
+    vg:hasPublisher vgr:Atari_2600 ;
+    vg:hasTitle "Combat"^^xsd:string ;
+    vg:releaseYear "1977"^^xsd:gYear .
+
+vgr:Company_of_Heroes a vg:Game ;
+    vg:hasDeveloper vgr:Relic_Entertainment ;
+    vg:hasGenre vgr:Realtime_strategy ;
+    vg:hasPlatform vgr:PC ;
+    vg:hasPublisher vgr:THQ ;
+    vg:hasTitle "Company of Heroes"^^xsd:string ;
+    vg:releaseYear "2006"^^xsd:gYear .
+
+vgr:Contra a vg:Game ;
+    vg:hasDeveloper vgr:Konami ;
+    vg:hasGenre vgr:Run_and_gun ;
+    vg:hasPublisher vgr:Arcade ;
+    vg:hasTitle "Contra"^^xsd:string ;
+    vg:releaseYear "1987"^^xsd:gYear .
+
+vgr:Cyberpunk_2077 a vg:Game ;
+    vg:hasDeveloper vgr:CD_Projekt_Red ;
+    vg:hasPublisher vgr:CD_Projekt ;
+    vg:hasTitle "Cyberpunk 2077"^^xsd:string ;
+    vg:releaseYear "2020"^^xsd:gYear ;
+    vg:salesMillions "35.0"^^xsd:float .
+
+vgr:Day_of_the_Tentacle a vg:Game ;
+    vg:hasDeveloper vgr:LucasArts ;
+    vg:hasGenre vgr:Adventure ;
+    vg:hasPublisher vgr:PC ;
+    vg:hasTitle "Day of the Tentacle"^^xsd:string ;
+    vg:releaseYear "1993"^^xsd:gYear .
+
+vgr:Daytona_USA a vg:Game ;
+    vg:hasDeveloper vgr:Sega_AM2 ;
+    vg:hasGenre vgr:Racing ;
+    vg:hasPlatform vgr:Arcade ;
+    vg:hasPublisher vgr:Sega ;
+    vg:hasTitle "Daytona USA"^^xsd:string ;
+    vg:releaseYear "1994"^^xsd:gYear .
+
+vgr:Digital_collectible_card a vg:Game ;
+    vg:hasDeveloper vgr:PCMac ;
+    vg:hasGenre vgr:Blizzard_Entertainment ;
+    vg:hasTitle "Digital collectible card"^^xsd:string .
+
+vgr:Disco_Elysium a vg:Game ;
+    vg:hasDeveloper vgr:ZAUM ;
+    vg:hasGenre vgr:Roleplaying ;
+    vg:hasPublisher vgr:PC ;
+    vg:hasTitle "Disco Elysium"^^xsd:string ;
+    vg:releaseYear "2019"^^xsd:gYear .
+
+vgr:Dishonored_2 a vg:Game ;
+    vg:hasDeveloper vgr:Arkane_Lyon ;
+    vg:hasGenre vgr:Stealth ;
+    vg:hasPlatform vgr:PC,
+        vgr:PS4,
+        vgr:Xbox_One ;
+    vg:hasPublisher vgr:Bethesda_Softworks ;
+    vg:hasTitle "Dishonored 2"^^xsd:string ;
+    vg:releaseYear "2016"^^xsd:gYear .
+
+vgr:Duck_Hunt a vg:Game ;
+    vg:hasDeveloper vgr:Nintendo_RD1 ;
+    vg:hasPlatform vgr:Famicom__NES ;
+    vg:hasPublisher vgr:Nintendo ;
+    vg:hasTitle "Duck Hunt"^^xsd:string ;
+    vg:releaseYear "1984"^^xsd:gYear ;
+    vg:salesMillions "28.3"^^xsd:float .
+
+vgr:Elden_Ring a vg:Game ;
+    vg:hasDeveloper vgr:FromSoftware ;
+    vg:hasPublisher vgr:Bandai_Namco ;
+    vg:hasTitle "Elden Ring"^^xsd:string ;
+    vg:releaseYear "2022"^^xsd:gYear ;
+    vg:salesMillions "30.0"^^xsd:float .
+
+vgr:Elite a vg:Game ;
+    vg:hasDeveloper vgr:David_BrabenandIan_Bell ;
+    vg:hasGenre vgr:Space_flight_simulator ;
+    vg:hasPlatform vgr:BBC_Micro ;
+    vg:hasPublisher vgr:Acornsoft ;
+    vg:hasTitle "Elite"^^xsd:string ;
+    vg:releaseYear "1984"^^xsd:gYear .
+
+vgr:Farm_life_simulation a vg:Game ;
+    vg:hasDeveloper vgr:Chucklefish ;
+    vg:hasGenre vgr:ConcernedApe ;
+    vg:hasPublisher vgr:PC ;
+    vg:hasTitle "Farm life simulation"^^xsd:string .
+
+vgr:Fighting a vg:Game ;
+    vg:hasDeveloper vgr:Arcade ;
+    vg:hasGenre vgr:Capcom ;
+    vg:hasTitle "Fighting"^^xsd:string .
+
+vgr:Final_Fight a vg:Game ;
+    vg:hasDeveloper vgr:Capcom ;
+    vg:hasGenre vgr:Beat_em_up ;
+    vg:hasPublisher vgr:Arcade ;
+    vg:hasTitle "Final Fight"^^xsd:string ;
+    vg:releaseYear "1989"^^xsd:gYear .
+
+vgr:Fortnite a vg:Game ;
+    vg:hasDeveloper vgr:Epic_Games ;
+    vg:hasGenre vgr:Thirdperson_shooter ;
+    vg:hasPublisher vgr:PCMacPS4Xbox_One ;
+    vg:hasTitle "Fortnite"^^xsd:string ;
+    vg:releaseYear "2017"^^xsd:gYear .
+
+vgr:Garrys_Mod a vg:Game ;
+    vg:hasDeveloper vgr:Facepunch_Studios ;
+    vg:hasPlatform vgr:PC ;
+    vg:hasPublisher vgr:Valve ;
+    vg:hasTitle "Garry's Mod"^^xsd:string ;
+    vg:releaseYear "2006"^^xsd:gYear ;
+    vg:salesMillions "25.56"^^xsd:float .
+
+vgr:Gauntlet a vg:Game ;
+    vg:hasDeveloper vgr:Atari_Games ;
+    vg:hasGenre vgr:Hack_and_slash ;
+    vg:hasPublisher vgr:Arcade ;
+    vg:hasTitle "Gauntlet"^^xsd:string ;
+    vg:releaseYear "1985"^^xsd:gYear .
+
+vgr:God_game a vg:Game ;
+    vg:hasDeveloper vgr:Electronic_Arts ;
+    vg:hasGenre vgr:Bullfrog_Productions ;
+    vg:hasPublisher vgr:Amiga ;
+    vg:hasTitle "God game"^^xsd:string .
+
+vgr:Grand_Theft_Auto_San_Andreas a vg:Game ;
+    vg:hasDeveloper vgr:Rockstar_North ;
+    vg:hasPublisher vgr:Rockstar_Games ;
+    vg:hasTitle "Grand Theft Auto: San Andreas"^^xsd:string ;
+    vg:releaseYear "2004"^^xsd:gYear ;
+    vg:salesMillions "27.5"^^xsd:float .
+
+vgr:Grand_Theft_Auto_V a vg:Game ;
+    vg:hasDeveloper vgr:Rockstar_North ;
+    vg:hasPublisher vgr:Rockstar_Games ;
+    vg:hasTitle "Grand Theft Auto V"^^xsd:string ;
+    vg:releaseYear "2013"^^xsd:gYear ;
+    vg:salesMillions "225.0"^^xsd:float .
+
+vgr:Hogwarts_Legacy a vg:Game ;
+    vg:hasDeveloper vgr:Avalanche_Software ;
+    vg:hasPublisher vgr:Warner_Bros_Games ;
+    vg:hasTitle "Hogwarts Legacy"^^xsd:string ;
+    vg:releaseYear "2023"^^xsd:gYear ;
+    vg:salesMillions "40.0"^^xsd:float .
+
+vgr:Human_Fall_Flat a vg:Game ;
+    vg:hasDeveloper vgr:No_Brakes_Games ;
+    vg:hasPublisher vgr:Curve_Digital ;
+    vg:hasTitle "Human: Fall Flat"^^xsd:string ;
+    vg:releaseYear "2016"^^xsd:gYear ;
+    vg:salesMillions "55.0"^^xsd:float .
+
+vgr:It_Takes_Two a vg:Game ;
+    vg:hasDeveloper vgr:Hazelight_Studios ;
+    vg:hasPublisher vgr:Electronic_Arts ;
+    vg:hasTitle "It Takes Two"^^xsd:string ;
+    vg:releaseYear "2021"^^xsd:gYear ;
+    vg:salesMillions "27.0"^^xsd:float .
+
+vgr:Joust a vg:Game ;
+    vg:hasDeveloper vgr:Williams_Electronics ;
+    vg:hasGenre vgr:Action ;
+    vg:hasPublisher vgr:Arcade ;
+    vg:hasTitle "Joust"^^xsd:string ;
+    vg:releaseYear "1982"^^xsd:gYear .
+
+vgr:Kart_racing a vg:Game ;
+    vg:hasDeveloper vgr:Nintendo ;
+    vg:hasGenre vgr:Nintendo_EAD ;
+    vg:hasPublisher vgr:Super_NES ;
+    vg:hasTitle "Kart racing"^^xsd:string .
+
+vgr:Life_simulation a vg:Game ;
+    vg:hasDeveloper vgr:Electronic_Arts ;
+    vg:hasGenre vgr:Maxis ;
+    vg:hasPublisher vgr:PC ;
+    vg:hasTitle "Life simulation"^^xsd:string .
+
+vgr:MMORPG a vg:Game ;
+    vg:hasDeveloper vgr:Electronic_Arts ;
+    vg:hasGenre vgr:Origin_Systems ;
+    vg:hasPublisher vgr:PCLinux ;
+    vg:hasTitle "MMORPG"^^xsd:string .
+
+vgr:MOBA a vg:Game ;
+    vg:hasDeveloper vgr:PC ;
+    vg:hasGenre vgr:Riot_Games ;
+    vg:hasTitle "MOBA"^^xsd:string .
+
+vgr:Mario_Kart_8Deluxe a vg:Game ;
+    vg:hasDeveloper vgr:Nintendo_EADNintendo_EPDDeluxe ;
+    vg:hasPlatform vgr:Wii_USwitch ;
+    vg:hasPublisher vgr:Nintendo ;
+    vg:hasTitle "Mario Kart 8/Deluxe"^^xsd:string ;
+    vg:releaseYear "2014"^^xsd:gYear ;
+    vg:salesMillions "79.05"^^xsd:float .
+
+vgr:Mario_Kart_Wii a vg:Game ;
+    vg:hasDeveloper vgr:Nintendo_EAD ;
+    vg:hasPlatform vgr:Wii ;
+    vg:hasPublisher vgr:Nintendo ;
+    vg:hasTitle "Mario Kart Wii"^^xsd:string ;
+    vg:releaseYear "2008"^^xsd:gYear ;
+    vg:salesMillions "37.38"^^xsd:float .
+
+vgr:Marvels_SpiderManRemastered a vg:Game ;
+    vg:hasDeveloper vgr:Insomniac_Games ;
+    vg:hasPublisher vgr:Sony_Interactive_Entertainment ;
+    vg:hasTitle "Marvel's Spider-Man/Remastered"^^xsd:string ;
+    vg:releaseYear "2018"^^xsd:gYear ;
+    vg:salesMillions "26.1"^^xsd:float .
+
+vgr:Maze a vg:Game ;
+    vg:hasDeveloper vgr:Arcade ;
+    vg:hasGenre vgr:Namco ;
+    vg:hasTitle "Maze"^^xsd:string .
+
+vgr:Mega_Man_2 a vg:Game ;
+    vg:hasDeveloper vgr:Capcom ;
+    vg:hasGenre vgr:Platform ;
+    vg:hasPublisher vgr:NES ;
+    vg:hasTitle "Mega Man 2"^^xsd:string ;
+    vg:releaseYear "1988"^^xsd:gYear .
+
+vgr:Monster_Hunter_World a vg:Game ;
+    vg:hasDeveloper vgr:Capcom ;
+    vg:hasPublisher vgr:Capcom ;
+    vg:hasTitle "Monster Hunter: World"^^xsd:string ;
+    vg:releaseYear "2018"^^xsd:gYear ;
+    vg:salesMillions "29.1"^^xsd:float .
+
+vgr:New_Super_Mario_Bros a vg:Game ;
+    vg:hasDeveloper vgr:Nintendo_EAD ;
+    vg:hasPlatform vgr:Nintendo_DS ;
+    vg:hasPublisher vgr:Nintendo ;
+    vg:hasTitle "New Super Mario Bros."^^xsd:string ;
+    vg:releaseYear "2006"^^xsd:gYear ;
+    vg:salesMillions "30.8"^^xsd:float .
+
+vgr:New_Super_Mario_Bros_Wii a vg:Game ;
+    vg:hasDeveloper vgr:Nintendo_EAD ;
+    vg:hasPlatform vgr:Wii ;
+    vg:hasPublisher vgr:Nintendo ;
+    vg:hasTitle "New Super Mario Bros. Wii"^^xsd:string ;
+    vg:releaseYear "2009"^^xsd:gYear ;
+    vg:salesMillions "30.32"^^xsd:float .
+
+vgr:Overwatch a vg:Game ;
+    vg:hasDeveloper vgr:Blizzard_Entertainment ;
+    vg:hasPublisher vgr:Blizzard_Entertainment ;
+    vg:hasTitle "Overwatch"^^xsd:string ;
+    vg:releaseYear "2016"^^xsd:gYear ;
+    vg:salesMillions "50.0"^^xsd:float .
+
+vgr:PUBG_Battlegrounds a vg:Game ;
+    vg:hasDeveloper vgr:PUBG_Studios ;
+    vg:hasPublisher vgr:Krafton ;
+    vg:hasTitle "PUBG: Battlegrounds"^^xsd:string ;
+    vg:releaseYear "2017"^^xsd:gYear ;
+    vg:salesMillions "75.0"^^xsd:float .
+
+vgr:Phasmophobia a vg:Game ;
+    vg:hasDeveloper vgr:Kinetic_Games ;
+    vg:hasPublisher vgr:Kinetic_Games ;
+    vg:hasTitle "Phasmophobia"^^xsd:string ;
+    vg:releaseYear "2024"^^xsd:gYear ;
+    vg:salesMillions "25.0"^^xsd:float .
+
+vgr:Pokémon_DiamondPearlPlatinum a vg:Game ;
+    vg:hasDeveloper vgr:Game_Freak ;
+    vg:hasPlatform vgr:Nintendo_DS ;
+    vg:hasPublisher vgr:NintendoThe_Pokémon_Company ;
+    vg:hasTitle "Pokémon Diamond/Pearl/Platinum"^^xsd:string ;
+    vg:releaseYear "2006"^^xsd:gYear ;
+    vg:salesMillions "25.5"^^xsd:float .
+
+vgr:Pokémon_GoldSilverCrystal a vg:Game ;
+    vg:hasDeveloper vgr:Game_Freak ;
+    vg:hasPlatform vgr:Game_Boy_Color ;
+    vg:hasPublisher vgr:Nintendo ;
+    vg:hasTitle "Pokémon Gold/Silver/Crystal"^^xsd:string ;
+    vg:releaseYear "1999"^^xsd:gYear ;
+    vg:salesMillions "30.12"^^xsd:float .
+
+vgr:Pokémon_RedBlueYellow a vg:Game ;
+    vg:hasDeveloper vgr:Game_Freak ;
+    vg:hasPublisher vgr:Nintendo ;
+    vg:hasTitle "Pokémon Red/Blue/Yellow"^^xsd:string ;
+    vg:releaseYear "1996"^^xsd:gYear ;
+    vg:salesMillions "47.44"^^xsd:float .
+
+vgr:Pokémon_ScarletViolet a vg:Game ;
+    vg:hasDeveloper vgr:Game_Freak ;
+    vg:hasPlatform vgr:Nintendo_Switch ;
+    vg:hasPublisher vgr:NintendoThe_Pokémon_Company ;
+    vg:hasTitle "Pokémon Scarlet/Violet"^^xsd:string ;
+    vg:releaseYear "2022"^^xsd:gYear ;
+    vg:salesMillions "28.08"^^xsd:float .
+
+vgr:Pokémon_SunMoonUltra_SunUltra_Moon a vg:Game ;
+    vg:hasDeveloper vgr:Game_Freak ;
+    vg:hasPlatform vgr:Nintendo_3DS ;
+    vg:hasPublisher vgr:NintendoThe_Pokémon_Company ;
+    vg:hasTitle "Pokémon Sun/Moon/Ultra Sun/Ultra Moon"^^xsd:string ;
+    vg:releaseYear "2016"^^xsd:gYear ;
+    vg:salesMillions "25.59"^^xsd:float .
+
+vgr:Pokémon_SwordShield a vg:Game ;
+    vg:hasDeveloper vgr:Game_Freak ;
+    vg:hasPlatform vgr:Nintendo_Switch ;
+    vg:hasPublisher vgr:NintendoThe_Pokémon_Company ;
+    vg:hasTitle "Pokémon Sword/Shield"^^xsd:string ;
+    vg:releaseYear "2019"^^xsd:gYear ;
+    vg:salesMillions "27.08"^^xsd:float .
+
+vgr:Pong a vg:Game ;
+    vg:hasDeveloper vgr:Atari_Inc ;
+    vg:hasGenre vgr:Sports ;
+    vg:hasPublisher vgr:Arcade ;
+    vg:hasTitle "Pong"^^xsd:string ;
+    vg:releaseYear "1972"^^xsd:gYear .
+
+vgr:Rail_shooter a vg:Game ;
+    vg:hasDeveloper vgr:Arcade ;
+    vg:hasGenre vgr:Atari,
+        vgr:Inc ;
+    vg:hasTitle "Rail shooter"^^xsd:string .
+
+vgr:Realtime_tactics a vg:Game ;
+    vg:hasDeveloper vgr:Electronic_Arts ;
+    vg:hasGenre vgr:Bullfrog_Productions ;
+    vg:hasPublisher vgr:AmigaPC ;
+    vg:hasTitle "Real-time tactics"^^xsd:string .
+
+vgr:Red_Dead_Redemption2 a vg:Game ;
+    vg:hasDeveloper vgr:Rockstar_Games ;
+    vg:hasPublisher vgr:Rockstar_Games ;
+    vg:hasTitle "Red Dead Redemption 2"^^xsd:string ;
+    vg:releaseYear "2018"^^xsd:gYear ;
+    vg:salesMillions "82.0"^^xsd:float .
+
+vgr:Rhythm a vg:Game ;
+    vg:hasDeveloper vgr:Sony_Computer_Entertainment ;
+    vg:hasGenre vgr:NanaOnSha ;
+    vg:hasPublisher vgr:PlayStation ;
+    vg:hasTitle "Rhythm"^^xsd:string .
+
+vgr:Roguelike a vg:Game ;
+    vg:hasDeveloper vgr:PCMacNintendo_Switch ;
+    vg:hasGenre vgr:Supergiant_Games ;
+    vg:hasTitle "Roguelike"^^xsd:string .
+
+vgr:Sandbox a vg:Game ;
+    vg:hasDeveloper vgr:PCMacLinux ;
+    vg:hasGenre vgr:Mojang_Studios ;
+    vg:hasTitle "Sandbox"^^xsd:string .
+
+vgr:Space_Invaders a vg:Game ;
+    vg:hasDeveloper vgr:Taito ;
+    vg:hasGenre vgr:Shoot_em_up ;
+    vg:hasPublisher vgr:Arcade ;
+    vg:hasTitle "Space Invaders"^^xsd:string ;
+    vg:releaseYear "1978"^^xsd:gYear .
+
+vgr:Super_Mario_Bros a vg:Game ;
+    vg:hasDeveloper vgr:Nintendo_RD4 ;
+    vg:hasPublisher vgr:Nintendo ;
+    vg:hasTitle "Super Mario Bros."^^xsd:string ;
+    vg:releaseYear "1985"^^xsd:gYear ;
+    vg:salesMillions "58.0"^^xsd:float .
+
+vgr:Super_Mario_Odyssey a vg:Game ;
+    vg:hasDeveloper vgr:Nintendo_EPD ;
+    vg:hasPlatform vgr:Nintendo_Switch ;
+    vg:hasPublisher vgr:Nintendo ;
+    vg:hasTitle "Super Mario Odyssey"^^xsd:string ;
+    vg:releaseYear "2017"^^xsd:gYear ;
+    vg:salesMillions "30.27"^^xsd:float .
+
+vgr:Super_Smash_Bros_Ultimate a vg:Game ;
+    vg:hasDeveloper vgr:Bandai_Namco_StudiosSora_Ltd ;
+    vg:hasPlatform vgr:Nintendo_Switch ;
+    vg:hasPublisher vgr:Nintendo ;
+    vg:hasTitle "Super Smash Bros. Ultimate"^^xsd:string ;
+    vg:releaseYear "2018"^^xsd:gYear ;
+    vg:salesMillions "37.44"^^xsd:float .
+
+vgr:Tactical_roleplaying a vg:Game ;
+    vg:hasDeveloper vgr:PlayStation ;
+    vg:hasGenre vgr:Square ;
+    vg:hasTitle "Tactical role-playing"^^xsd:string .
+
+vgr:Terraria a vg:Game ;
+    vg:hasDeveloper vgr:ReLogic ;
+    vg:hasPublisher vgr:ReLogic505_Games ;
+    vg:hasTitle "Terraria"^^xsd:string ;
+    vg:releaseYear "2011"^^xsd:gYear ;
+    vg:salesMillions "64.0"^^xsd:float .
+
+vgr:Tetris a vg:Game ;
+    vg:hasTitle "Tetris"^^xsd:string ;
+    vg:releaseYear "1988"^^xsd:gYear ;
+    vg:salesMillions "520.0"^^xsd:float .
+
+vgr:The_Last_of_UsRemastered a vg:Game ;
+    vg:hasDeveloper vgr:Naughty_Dog ;
+    vg:hasPlatform vgr:PS3PS4 ;
+    vg:hasPublisher vgr:Sony_Computer_Entertainment ;
+    vg:hasTitle "The Last of Us/Remastered"^^xsd:string ;
+    vg:releaseYear "2013"^^xsd:gYear ;
+    vg:salesMillions "26.6"^^xsd:float .
+
+vgr:The_Legend_of_Zelda_Breath_of_the_Wild a vg:Game ;
+    vg:hasDeveloper vgr:Nintendo_EPD ;
+    vg:hasPublisher vgr:Nintendo ;
+    vg:hasTitle "The Legend of Zelda: Breath of the Wild"^^xsd:string ;
+    vg:releaseYear "2017"^^xsd:gYear ;
+    vg:salesMillions "35.34"^^xsd:float .
+
+vgr:The_Oregon_Trail a vg:Game ;
+    vg:hasDeveloper vgr:Don_Rawitsch_Bill_Heinemann_and_Paul_Dillenberger ;
+    vg:hasGenre vgr:Strategy ;
+    vg:hasPlatform vgr:HP_2100 ;
+    vg:hasPublisher vgr:MECC ;
+    vg:hasTitle "The Oregon Trail"^^xsd:string ;
+    vg:releaseYear "1971"^^xsd:gYear .
+
+vgr:The_Secret_of_Monkey_Island a vg:Game ;
+    vg:hasDeveloper vgr:Lucasfilm_Games ;
+    vg:hasGenre vgr:Adventure ;
+    vg:hasPublisher vgr:PC ;
+    vg:hasTitle "The Secret of Monkey Island"^^xsd:string ;
+    vg:releaseYear "1990"^^xsd:gYear .
+
+vgr:The_Witcher_3_Wild_Hunt a vg:Game ;
+    vg:hasDeveloper vgr:CD_Projekt_Red ;
+    vg:hasPublisher vgr:CD_Projekt ;
+    vg:hasTitle "The Witcher 3: Wild Hunt"^^xsd:string ;
+    vg:releaseYear "2015"^^xsd:gYear ;
+    vg:salesMillions "60.0"^^xsd:float .
+
+vgr:Tower_defense a vg:Game ;
+    vg:hasDeveloper vgr:PCMac ;
+    vg:hasGenre vgr:PopCap_Games ;
+    vg:hasTitle "Tower defense"^^xsd:string .
+
+vgr:Vehicle_simulation a vg:Game ;
+    vg:hasDeveloper vgr:Arcade ;
+    vg:hasGenre vgr:Atari,
+        vgr:Inc ;
+    vg:hasTitle "Vehicle simulation"^^xsd:string .
+
+vgr:Wii_FitPlus a vg:Game ;
+    vg:hasDeveloper vgr:Nintendo_EAD ;
+    vg:hasPlatform vgr:Wii ;
+    vg:hasPublisher vgr:Nintendo ;
+    vg:hasTitle "Wii Fit/Plus"^^xsd:string ;
+    vg:releaseYear "2007"^^xsd:gYear ;
+    vg:salesMillions "43.8"^^xsd:float .
+
+vgr:Wii_Play a vg:Game ;
+    vg:hasDeveloper vgr:Nintendo_EAD ;
+    vg:hasPlatform vgr:Wii ;
+    vg:hasPublisher vgr:Nintendo ;
+    vg:hasTitle "Wii Play"^^xsd:string ;
+    vg:releaseYear "2006"^^xsd:gYear ;
+    vg:salesMillions "28.02"^^xsd:float .
+
+vgr:Wii_Sports a vg:Game ;
+    vg:hasDeveloper vgr:Nintendo_EAD ;
+    vg:hasPlatform vgr:Wii ;
+    vg:hasPublisher vgr:Nintendo ;
+    vg:hasTitle "Wii Sports"^^xsd:string ;
+    vg:releaseYear "2006"^^xsd:gYear ;
+    vg:salesMillions "82.9"^^xsd:float .
+
+vgr:Wii_Sports_Resort a vg:Game ;
+    vg:hasDeveloper vgr:Nintendo_EAD ;
+    vg:hasPlatform vgr:Wii ;
+    vg:hasPublisher vgr:Nintendo ;
+    vg:hasTitle "Wii Sports Resort"^^xsd:string ;
+    vg:releaseYear "2009"^^xsd:gYear ;
+    vg:salesMillions "33.14"^^xsd:float .
+
+vg:hasDeveloper a owl:ObjectProperty ;
+    rdfs:domain vg:Game ;
+    rdfs:range vg:Developer .
+
+vg:hasPublisher a owl:ObjectProperty ;
+    rdfs:domain vg:Game ;
+    rdfs:range vg:Publisher .
+
+vgr:2K_Boston2K_Australia a vg:Developer ;
+    rdfs:label "2K Boston,2K Australia"^^xsd:string .
+
+vgr:Acornsoft a vg:Publisher ;
+    rdfs:label "Acornsoft"^^xsd:string .
+
+vgr:Action a vg:Game,
+        vg:Genre ;
+    rdfs:label "Action"^^xsd:string ;
+    vg:hasDeveloper vgr:KonamiSega ;
+    vg:hasGenre vgr:Konami ;
+    vg:hasPublisher vgr:Arcade ;
+    vg:hasTitle "Action"^^xsd:string .
+
+vgr:Alexey_Pajitnov a vg:Genre ;
+    rdfs:label "Alexey Pajitnov"^^xsd:string .
+
+vgr:AmigaAtari_ST a vg:Publisher ;
+    rdfs:label "Amiga,Atari ST"^^xsd:string .
+
+vgr:AmigaMac a vg:Developer ;
+    rdfs:label "Amiga,Mac"^^xsd:string .
+
+vgr:AmigaPC a vg:Publisher ;
+    rdfs:label "Amiga,PC"^^xsd:string .
+
+vgr:Apogee_Software a vg:Developer ;
+    rdfs:label "Apogee Software"^^xsd:string .
+
+vgr:Apple_II a vg:Developer ;
+    rdfs:label "Apple II"^^xsd:string .
+
+vgr:Arkane_Lyon a vg:Developer ;
+    rdfs:label "Arkane Lyon"^^xsd:string .
+
+vgr:Atari_2600 a vg:Publisher ;
+    rdfs:label "Atari 2600"^^xsd:string .
+
+vgr:Atari_8bit a vg:Platform ;
+    rdfs:label "Atari 8-bit"^^xsd:string .
+
+vgr:Atari_8bitCommodore_64 a vg:Publisher ;
+    rdfs:label "Atari 8-bit,Commodore 64"^^xsd:string .
+
+vgr:Atari_Games a vg:Developer ;
+    rdfs:label "Atari Games"^^xsd:string .
+
+vgr:Avalanche_Software a vg:Developer ;
+    rdfs:label "Avalanche Software"^^xsd:string .
+
+vgr:BBC_Micro a vg:Platform ;
+    rdfs:label "BBC Micro"^^xsd:string .
+
+vgr:Bandai_Namco a vg:Publisher ;
+    rdfs:label "Bandai Namco"^^xsd:string .
+
+vgr:Bandai_Namco_StudiosSora_Ltd a vg:Developer ;
+    rdfs:label "Bandai Namco Studios/Sora Ltd."^^xsd:string .
+
+vgr:Beat_em_up a vg:Game,
+        vg:Genre ;
+    rdfs:label "Beat 'em up"^^xsd:string ;
+    vg:hasDeveloper vgr:Taito ;
+    vg:hasGenre vgr:Technōs_Japan ;
+    vg:hasPublisher vgr:Arcade ;
+    vg:hasTitle "Beat 'em up"^^xsd:string .
+
+vgr:Bethesda_Softworks a vg:Publisher ;
+    rdfs:label "Bethesda Softworks"^^xsd:string .
+
+vgr:Block_breaker a vg:Genre ;
+    rdfs:label "Block breaker"^^xsd:string .
+
+vgr:Chucklefish a vg:Developer ;
+    rdfs:label "Chucklefish"^^xsd:string .
+
+vgr:ConcernedApe a vg:Genre ;
+    rdfs:label "ConcernedApe"^^xsd:string .
+
+vgr:Criterion_Games a vg:Developer ;
+    rdfs:label "Criterion Games"^^xsd:string .
+
+vgr:Curve_Digital a vg:Publisher ;
+    rdfs:label "Curve Digital"^^xsd:string .
+
+vgr:David_BrabenandIan_Bell a vg:Developer ;
+    rdfs:label "David BrabenandIan Bell"^^xsd:string .
+
+vgr:Delphine_Software a vg:Developer ;
+    rdfs:label "Delphine Software"^^xsd:string .
+
+vgr:Don_Rawitsch_Bill_Heinemann_and_Paul_Dillenberger a vg:Developer ;
+    rdfs:label "Don Rawitsch, Bill Heinemann, and Paul Dillenberger"^^xsd:string .
+
+vgr:Electronika_60 a vg:Publisher ;
+    rdfs:label "Electronika 60"^^xsd:string .
+
+vgr:Elorg a vg:Developer ;
+    rdfs:label "Elorg"^^xsd:string .
+
+vgr:Epic_Games a vg:Developer ;
+    rdfs:label "Epic Games"^^xsd:string .
+
+vgr:Facepunch_Studios a vg:Developer ;
+    rdfs:label "Facepunch Studios"^^xsd:string .
+
+vgr:Famicom__NES a vg:Platform ;
+    rdfs:label "Famicom / NES"^^xsd:string .
+
+vgr:Firaxis_Games a vg:Developer ;
+    rdfs:label "Firaxis Games"^^xsd:string .
+
+vgr:Free_Fall_Associates a vg:Developer ;
+    rdfs:label "Free Fall Associates"^^xsd:string .
+
+vgr:Game_Boy_Advance a vg:Platform ;
+    rdfs:label "Game Boy Advance"^^xsd:string .
+
+vgr:Game_Boy_Color a vg:Platform ;
+    rdfs:label "Game Boy Color"^^xsd:string .
+
+vgr:Gathering_of_Developers a vg:Developer ;
+    rdfs:label "Gathering of Developers"^^xsd:string .
+
+vgr:Gearbox_Software a vg:Developer ;
+    rdfs:label "Gearbox Software"^^xsd:string .
+
+vgr:HP_2100 a vg:Platform ;
+    rdfs:label "HP 2100"^^xsd:string .
+
+vgr:Hack_and_slash a vg:Genre ;
+    rdfs:label "Hack and slash"^^xsd:string .
+
+vgr:Hazelight_Studios a vg:Developer ;
+    rdfs:label "Hazelight Studios"^^xsd:string .
+
+vgr:Infinity_Ward a vg:Developer ;
+    rdfs:label "Infinity Ward"^^xsd:string .
+
+vgr:Infinity_WardSledgehammer a vg:Developer ;
+    rdfs:label "Infinity Ward/Sledgehammer"^^xsd:string .
+
+vgr:Infocom a vg:Genre ;
+    rdfs:label "Infocom"^^xsd:string .
+
+vgr:Infogrames a vg:Developer ;
+    rdfs:label "Infogrames"^^xsd:string .
+
+vgr:Insomniac_Games a vg:Developer ;
+    rdfs:label "Insomniac Games"^^xsd:string .
+
+vgr:Intelligent_Systems a vg:Developer ;
+    rdfs:label "Intelligent Systems"^^xsd:string .
+
+vgr:KonamiSega a vg:Developer ;
+    rdfs:label "Konami,Sega"^^xsd:string .
+
+vgr:Konami_Computer_Entertainment_Japan a vg:Genre ;
+    rdfs:label "Konami Computer Entertainment Japan"^^xsd:string .
+
+vgr:Krafton a vg:Publisher ;
+    rdfs:label "Krafton"^^xsd:string .
+
+vgr:Larian_Studios a vg:Developer ;
+    rdfs:label "Larian Studios"^^xsd:string .
+
+vgr:LinuxMacNintendo_SwitchPCPS4 a vg:Publisher ;
+    rdfs:label "Linux,Mac,Nintendo Switch,PC,PS4"^^xsd:string .
+
+vgr:LucasArts a vg:Developer ;
+    rdfs:label "LucasArts"^^xsd:string .
+
+vgr:Lucasfilm_Games a vg:Developer ;
+    rdfs:label "Lucasfilm Games"^^xsd:string .
+
+vgr:MECC a vg:Publisher ;
+    rdfs:label "MECC"^^xsd:string .
+
+vgr:Maddy_Makes_Games a vg:Developer ;
+    rdfs:label "Maddy Makes Games"^^xsd:string .
+
+vgr:MaemoiOS a vg:Publisher ;
+    rdfs:label "Maemo,iOS"^^xsd:string .
+
+vgr:Microsoft_Game_Studios a vg:Publisher ;
+    rdfs:label "Microsoft Game Studios"^^xsd:string .
+
+vgr:Mojang_Studios a vg:Genre ;
+    rdfs:label "Mojang Studios"^^xsd:string .
+
+vgr:Namco a vg:Genre ;
+    rdfs:label "Namco"^^xsd:string .
+
+vgr:NanaOnSha a vg:Genre ;
+    rdfs:label "NanaOn-Sha"^^xsd:string .
+
+vgr:Naughty_Dog a vg:Developer ;
+    rdfs:label "Naughty Dog"^^xsd:string .
+
+vgr:Nintendo_3DS a vg:Platform ;
+    rdfs:label "Nintendo 3DS"^^xsd:string .
+
+vgr:Nintendo_EADNintendo_EPDDeluxe a vg:Developer ;
+    rdfs:label "Nintendo EAD/Nintendo EPD(Deluxe)"^^xsd:string .
+
+vgr:Nintendo_RD3 a vg:Genre ;
+    rdfs:label "Nintendo R&D3"^^xsd:string .
+
+vgr:No_Brakes_Games a vg:Developer ;
+    rdfs:label "No Brakes Games"^^xsd:string .
+
+vgr:Number_None a vg:Developer ;
+    rdfs:label "Number None"^^xsd:string .
+
+vgr:Ocean_Software a vg:Developer ;
+    rdfs:label "Ocean Software"^^xsd:string .
+
+vgr:Ozark_Softscape a vg:Genre ;
+    rdfs:label "Ozark Softscape"^^xsd:string .
+
+vgr:PCLinux a vg:Publisher ;
+    rdfs:label "PC,Linux"^^xsd:string .
+
+vgr:PCMacLinux a vg:Developer ;
+    rdfs:label "PC,Mac,Linux"^^xsd:string .
+
+vgr:PCMacNintendo_Switch a vg:Developer ;
+    rdfs:label "PC,Mac,Nintendo Switch"^^xsd:string .
+
+vgr:PCMacPS4Xbox_One a vg:Publisher ;
+    rdfs:label "PC,Mac,PS4,Xbox One"^^xsd:string .
+
+vgr:PCXbox_360 a vg:Developer ;
+    rdfs:label "PC,Xbox 360"^^xsd:string .
+
+vgr:PDP10 a vg:Developer ;
+    rdfs:label "PDP-10"^^xsd:string .
+
+vgr:PS3PS4 a vg:Platform ;
+    rdfs:label "PS3/PS4"^^xsd:string .
+
+vgr:PUBG_Studios a vg:Developer ;
+    rdfs:label "PUBG Studios"^^xsd:string .
+
+vgr:PopCap_Games a vg:Genre ;
+    rdfs:label "PopCap Games"^^xsd:string .
+
+vgr:Puzzle a vg:Game,
+        vg:Genre ;
+    rdfs:label "Puzzle"^^xsd:string ;
+    vg:hasDeveloper vgr:Elorg ;
+    vg:hasGenre vgr:Alexey_Pajitnov ;
+    vg:hasPublisher vgr:Electronika_60 ;
+    vg:hasTitle "Puzzle"^^xsd:string .
+
+vgr:Puzzleplatform a vg:Game,
+        vg:Genre ;
+    rdfs:label "Puzzle-platform"^^xsd:string ;
+    vg:hasDeveloper vgr:PCXbox_360 ;
+    vg:hasGenre vgr:Valve_Corporation ;
+    vg:hasTitle "Puzzle-platform"^^xsd:string .
+
+vgr:ReLogic a vg:Developer ;
+    rdfs:label "Re-Logic"^^xsd:string .
+
+vgr:ReLogic505_Games a vg:Publisher ;
+    rdfs:label "Re-Logic/505 Games"^^xsd:string .
+
+vgr:Relic_Entertainment a vg:Developer ;
+    rdfs:label "Relic Entertainment"^^xsd:string .
+
+vgr:Remedy_Entertainment a vg:Genre ;
+    rdfs:label "Remedy Entertainment"^^xsd:string .
+
+vgr:Riot_Games a vg:Genre ;
+    rdfs:label "Riot Games"^^xsd:string .
+
+vgr:Rocksteady_Studios a vg:Developer ;
+    rdfs:label "Rocksteady Studios"^^xsd:string .
+
+vgr:Rovio_Entertainment a vg:Developer ;
+    rdfs:label "Rovio Entertainment"^^xsd:string .
+
+vgr:Run_and_gun a vg:Game,
+        vg:Genre ;
+    rdfs:label "Run and gun"^^xsd:string ;
+    vg:hasDeveloper vgr:Super_NES ;
+    vg:hasGenre vgr:Konami ;
+    vg:hasTitle "Run and gun"^^xsd:string .
+
+vgr:Sega_AM2 a vg:Developer ;
+    rdfs:label "Sega AM2"^^xsd:string .
+
+vgr:SirTech a vg:Genre ;
+    rdfs:label "Sir-Tech"^^xsd:string .
+
+vgr:Sony_Interactive_Entertainment a vg:Publisher ;
+    rdfs:label "Sony Interactive Entertainment"^^xsd:string .
+
+vgr:Space_flight_simulator a vg:Game,
+        vg:Genre ;
+    rdfs:label "Space flight simulator"^^xsd:string ;
+    vg:hasDeveloper vgr:PC ;
+    vg:hasGenre vgr:Origin_Systems ;
+    vg:hasTitle "Space flight simulator"^^xsd:string .
+
+vgr:Sports a vg:Game,
+        vg:Genre ;
+    rdfs:label "Sports"^^xsd:string ;
+    vg:hasDeveloper vgr:Nintendo ;
+    vg:hasGenre vgr:Nintendo_RD3 ;
+    vg:hasPublisher vgr:NES ;
+    vg:hasTitle "Sports"^^xsd:string .
+
+vgr:Stealth a vg:Game,
+        vg:Genre ;
+    rdfs:label "Stealth"^^xsd:string ;
+    vg:hasDeveloper vgr:Konami ;
+    vg:hasGenre vgr:Konami_Computer_Entertainment_Japan ;
+    vg:hasPublisher vgr:PlayStation ;
+    vg:hasTitle "Stealth"^^xsd:string .
+
+vgr:Supergiant_Games a vg:Genre ;
+    rdfs:label "Supergiant Games"^^xsd:string .
+
+vgr:THQ a vg:Publisher ;
+    rdfs:label "THQ"^^xsd:string .
+
+vgr:Team17 a vg:Genre ;
+    rdfs:label "Team17"^^xsd:string .
+
+vgr:Technōs_Japan a vg:Genre ;
+    rdfs:label "Technōs Japan"^^xsd:string .
+
+vgr:Thirdperson_shooter a vg:Game,
+        vg:Genre ;
+    rdfs:label "Third-person shooter"^^xsd:string ;
+    vg:hasDeveloper vgr:Gathering_of_Developers ;
+    vg:hasGenre vgr:Remedy_Entertainment ;
+    vg:hasPublisher vgr:PC ;
+    vg:hasTitle "Third-person shooter"^^xsd:string .
+
+vgr:Topdown_shooter a vg:Game,
+        vg:Genre ;
+    rdfs:label "Top-down shooter"^^xsd:string ;
+    vg:hasDeveloper vgr:Williams_Electronics ;
+    vg:hasGenre vgr:Vid_Kidz ;
+    vg:hasPublisher vgr:Arcade ;
+    vg:hasTitle "Top-down shooter"^^xsd:string ;
+    vg:releaseYear "2084"^^xsd:gYear .
+
+vgr:Ubisoft_Montreal a vg:Developer ;
+    rdfs:label "Ubisoft Montreal"^^xsd:string .
+
+vgr:Ubisoft_PicturesUbisoft_Milan a vg:Developer ;
+    rdfs:label "Ubisoft Pictures,Ubisoft Milan"^^xsd:string .
+
+vgr:Valve a vg:Publisher ;
+    rdfs:label "Valve"^^xsd:string .
+
+vgr:Valve_Corporation a vg:Genre ;
+    rdfs:label "Valve Corporation"^^xsd:string .
+
+vgr:Vid_Kidz a vg:Genre ;
+    rdfs:label "Vid Kidz"^^xsd:string .
+
+vgr:Virgin_Games a vg:Developer ;
+    rdfs:label "Virgin Games"^^xsd:string .
+
+vgr:Warner_Bros a vg:Publisher ;
+    rdfs:label "Warner Bros."^^xsd:string .
+
+vgr:Warner_Bros_Games a vg:Publisher ;
+    rdfs:label "Warner Bros. Games"^^xsd:string .
+
+vgr:Westwood_Studios a vg:Genre ;
+    rdfs:label "Westwood Studios"^^xsd:string .
+
+vgr:Wii_U a vg:Platform ;
+    rdfs:label "Wii U"^^xsd:string .
+
+vgr:Wii_USwitch a vg:Platform ;
+    rdfs:label "Wii U/Switch"^^xsd:string .
+
+vgr:Xbox a vg:Platform ;
+    rdfs:label "Xbox"^^xsd:string .
+
+vgr:ZAUM a vg:Developer ;
+    rdfs:label "ZA/UM"^^xsd:string .
+
+vgr:id_Software a vg:Genre ;
+    rdfs:label "id Software"^^xsd:string .
+
+vgr:Action_roleplaying a vg:Game,
+        vg:Genre ;
+    rdfs:label "Action role-playing"^^xsd:string ;
+    vg:hasDeveloper vgr:Super_NES ;
+    vg:hasGenre vgr:Square ;
+    vg:hasTitle "Action role-playing"^^xsd:string .
+
+vgr:Adventure a vg:Game,
+        vg:Genre ;
+    rdfs:label "Adventure"^^xsd:string ;
+    vg:hasDeveloper vgr:PDP10 ;
+    vg:hasGenre vgr:Infocom ;
+    vg:hasTitle "Adventure"^^xsd:string .
+
+vgr:Amiga a vg:Publisher ;
+    rdfs:label "Amiga"^^xsd:string .
+
+vgr:BioWare a vg:Developer ;
+    rdfs:label "BioWare"^^xsd:string .
+
+vgr:Black_Isle_StudiosInterplay_Entertainment a vg:Publisher ;
+    rdfs:label "Black Isle Studios,Interplay Entertainment"^^xsd:string .
+
+vgr:Bullfrog_Productions a vg:Genre ;
+    rdfs:label "Bullfrog Productions"^^xsd:string .
+
+vgr:CD_Projekt a vg:Publisher ;
+    rdfs:label "CD Projekt"^^xsd:string .
+
+vgr:CD_Projekt_Red a vg:Developer ;
+    rdfs:label "CD Projekt Red"^^xsd:string .
+
+vgr:Creative_Assembly a vg:Developer,
+        vg:Genre ;
+    rdfs:label "Creative Assembly"^^xsd:string .
+
+vgr:Digital_Illusions_CE a vg:Developer ;
+    rdfs:label "Digital Illusions CE"^^xsd:string .
+
+vgr:Ensemble_Studios a vg:Developer ;
+    rdfs:label "Ensemble Studios"^^xsd:string .
+
+vgr:FromSoftware a vg:Developer ;
+    rdfs:label "FromSoftware"^^xsd:string .
+
+vgr:Game_Science a vg:Developer,
+        vg:Publisher ;
+    rdfs:label "Game Science"^^xsd:string .
+
+vgr:Kinetic_Games a vg:Developer,
+        vg:Publisher ;
+    rdfs:label "Kinetic Games"^^xsd:string .
+
+vgr:Maxis a vg:Genre ;
+    rdfs:label "Maxis"^^xsd:string .
+
+vgr:MicroProse a vg:Developer,
+        vg:Genre ;
+    rdfs:label "MicroProse"^^xsd:string .
+
+vgr:Microsoft a vg:Publisher ;
+    rdfs:label "Microsoft"^^xsd:string .
+
+vgr:Nintendo_DS a vg:Platform ;
+    rdfs:label "Nintendo DS"^^xsd:string .
+
+vgr:Nintendo_RD1 a vg:Developer,
+        vg:Genre ;
+    rdfs:label "Nintendo R&D1"^^xsd:string .
+
+vgr:Nintendo_RD4 a vg:Developer,
+        vg:Genre ;
+    rdfs:label "Nintendo R&D4"^^xsd:string .
+
+vgr:Origin_Systems a vg:Genre ;
+    rdfs:label "Origin Systems"^^xsd:string .
+
+vgr:PCMac a vg:Developer ;
+    rdfs:label "PC,Mac"^^xsd:string .
+
+vgr:PS2 a vg:Platform ;
+    rdfs:label "PS2"^^xsd:string .
+
+vgr:Racing a vg:Game,
+        vg:Genre ;
+    rdfs:label "Racing"^^xsd:string ;
+    vg:hasDeveloper vgr:Arcade ;
+    vg:hasGenre vgr:Sega ;
+    vg:hasTitle "Racing"^^xsd:string .
+
+vgr:Rockstar_North a vg:Developer ;
+    rdfs:label "Rockstar North"^^xsd:string .
+
+vgr:Strategy a vg:Game,
+        vg:Genre ;
+    rdfs:label "Strategy"^^xsd:string ;
+    vg:hasDeveloper vgr:Activision ;
+    vg:hasGenre vgr:Creative_Assembly ;
+    vg:hasPublisher vgr:PC ;
+    vg:hasTitle "Strategy"^^xsd:string .
+
+vgr:Survival_horror a vg:Game,
+        vg:Genre ;
+    rdfs:label "Survival horror"^^xsd:string ;
+    vg:hasDeveloper vgr:PlayStation ;
+    vg:hasGenre vgr:Capcom ;
+    vg:hasTitle "Survival horror"^^xsd:string .
+
+vgr:Treyarch a vg:Developer ;
+    rdfs:label "Treyarch"^^xsd:string .
+
+vgr:Ubisoft a vg:Publisher ;
+    rdfs:label "Ubisoft"^^xsd:string .
+
+vgr:Williams_Electronics a vg:Developer ;
+    rdfs:label "Williams Electronics"^^xsd:string .
+
+vgr:2K_Games a vg:Publisher ;
+    rdfs:label "2K Games"^^xsd:string .
+
+vgr:Actionadventure a vg:Game,
+        vg:Genre ;
+    rdfs:label "Action-adventure"^^xsd:string ;
+    vg:hasDeveloper vgr:Nintendo ;
+    vg:hasGenre vgr:Nintendo_RD4 ;
+    vg:hasPublisher vgr:NES ;
+    vg:hasTitle "Action-adventure"^^xsd:string .
+
+vgr:Atari a vg:Genre ;
+    rdfs:label "Atari"^^xsd:string .
+
+vgr:Blizzard_Entertainment a vg:Developer,
+        vg:Genre,
+        vg:Publisher ;
+    rdfs:label "Blizzard Entertainment"^^xsd:string .
+
+vgr:Firstperson_shooter a vg:Game,
+        vg:Genre ;
+    rdfs:label "First-person shooter"^^xsd:string ;
+    vg:hasDeveloper vgr:Apogee_Software ;
+    vg:hasGenre vgr:id_Software ;
+    vg:hasPublisher vgr:PC ;
+    vg:hasTitle "First-person shooter"^^xsd:string .
+
+vgr:Inc a vg:Genre ;
+    rdfs:label "Inc."^^xsd:string .
+
+vgr:NES a vg:Publisher ;
+    rdfs:label "NES"^^xsd:string .
+
+vgr:Nintendo_EPD a vg:Developer ;
+    rdfs:label "Nintendo EPD"^^xsd:string .
+
+vgr:Platform a vg:Game,
+        vg:Genre ;
+    rdfs:label "Platform"^^xsd:string ;
+    vg:hasDeveloper vgr:Nintendo ;
+    vg:hasGenre vgr:Nintendo_RD1 ;
+    vg:hasPublisher vgr:Arcade ;
+    vg:hasTitle "Platform"^^xsd:string .
+
+vgr:Realtime_strategy a vg:Game,
+        vg:Genre ;
+    rdfs:label "Real-time strategy"^^xsd:string ;
+    vg:hasDeveloper vgr:Virgin_Games ;
+    vg:hasGenre vgr:Westwood_Studios ;
+    vg:hasPublisher vgr:PC ;
+    vg:hasTitle "Real-time strategy"^^xsd:string .
+
+vgr:Sega a vg:Genre,
+        vg:Publisher ;
+    rdfs:label "Sega"^^xsd:string .
+
+vgr:Shoot_em_up a vg:Game,
+        vg:Genre ;
+    rdfs:label "Shoot 'em up"^^xsd:string ;
+    vg:hasDeveloper vgr:Arcade ;
+    vg:hasGenre vgr:Atari,
+        vgr:Inc ;
+    vg:hasTitle "Shoot 'em up"^^xsd:string .
+
+vgr:Sony_Computer_Entertainment a vg:Developer,
+        vg:Publisher ;
+    rdfs:label "Sony Computer Entertainment"^^xsd:string .
+
+vgr:Square a vg:Developer,
+        vg:Genre ;
+    rdfs:label "Square"^^xsd:string .
+
+vgr:Taito a vg:Developer ;
+    rdfs:label "Taito"^^xsd:string .
+
+vgr:Turnbased_strategy a vg:Game,
+        vg:Genre ;
+    rdfs:label "Turn-based strategy"^^xsd:string ;
+    vg:hasDeveloper vgr:PC ;
+    vg:hasGenre vgr:MicroProse ;
+    vg:hasTitle "Turn-based strategy"^^xsd:string .
+
+vgr:Xbox_One a vg:Platform ;
+    rdfs:label "Xbox One"^^xsd:string .
+
+vgr:Atari_Inc a vg:Developer ;
+    rdfs:label "Atari, Inc."^^xsd:string .
+
+vgr:Konami a vg:Developer,
+        vg:Genre ;
+    rdfs:label "Konami"^^xsd:string .
+
+vgr:NintendoThe_Pokémon_Company a vg:Publisher ;
+    rdfs:label "Nintendo/The Pokémon Company"^^xsd:string .
+
+vgr:PS3 a vg:Platform ;
+    rdfs:label "PS3"^^xsd:string .
+
+vgr:PS4 a vg:Platform ;
+    rdfs:label "PS4"^^xsd:string .
+
+vgr:PlayStation a vg:Developer,
+        vg:Publisher ;
+    rdfs:label "PlayStation"^^xsd:string .
+
+vgr:Rockstar_Games a vg:Developer,
+        vg:Publisher ;
+    rdfs:label "Rockstar Games"^^xsd:string .
+
+vgr:Super_NES a vg:Developer,
+        vg:Publisher ;
+    rdfs:label "Super NES"^^xsd:string .
+
+vgr:Activision a vg:Developer,
+        vg:Publisher ;
+    rdfs:label "Activision"^^xsd:string .
+
+vgr:Nintendo_Switch a vg:Platform ;
+    rdfs:label "Nintendo Switch"^^xsd:string .
+
+vgr:Roleplaying a vg:Game,
+        vg:Genre ;
+    rdfs:label "Role-playing"^^xsd:string ;
+    vg:hasDeveloper vgr:Apple_II ;
+    vg:hasGenre vgr:SirTech ;
+    vg:hasTitle "Role-playing"^^xsd:string .
+
+vgr:Capcom a vg:Developer,
+        vg:Genre,
+        vg:Publisher ;
+    rdfs:label "Capcom"^^xsd:string .
+
+vgr:Game_Freak a vg:Developer ;
+    rdfs:label "Game Freak"^^xsd:string .
+
+vgr:Wii a vg:Platform ;
+    rdfs:label "Wii"^^xsd:string .
+
+vgr:Xbox_360 a vg:Platform ;
+    rdfs:label "Xbox 360"^^xsd:string .
+
+vgr:Nintendo_EAD a vg:Developer,
+        vg:Genre ;
+    rdfs:label "Nintendo EAD"^^xsd:string .
+
+vgr:Electronic_Arts a vg:Developer,
+        vg:Publisher ;
+    rdfs:label "Electronic Arts"^^xsd:string .
+
+vgr:Arcade a vg:Developer,
+        vg:Platform,
+        vg:Publisher ;
+    rdfs:label "Arcade"^^xsd:string .
+
+vgr:Nintendo a vg:Developer,
+        vg:Publisher ;
+    rdfs:label "Nintendo"^^xsd:string .
+
+vg:Platform a owl:Class ;
+    rdfs:label "Platform" .
+
+vgr:PC a vg:Developer,
+        vg:Platform,
+        vg:Publisher ;
+    rdfs:label "PC"^^xsd:string .
+
+vg:Publisher a owl:Class ;
+    rdfs:label "Publisher" .
+
+vg:Genre a owl:Class ;
+    rdfs:label "Genre" .
+
+vg:Developer a owl:Class ;
+    rdfs:label "Developer" .
+
+vg:Game a owl:Class ;
+    rdfs:label "Game" .
+

@@ -1,0 +1,98 @@
+Puzzleplatform	ontology#hasTitle	Puzzle-platform
+Mario_Kart_Wii	ontology#salesMillions	37.38
+Beat_em_up	ontology#hasTitle	Beat 'em up
+Batman_Arkham_City	ontology#hasPlatform	Xbox_360
+Puzzle	ontology#hasGenre	Alexey_Pajitnov
+Baldurs_Gate_3	ontology#releaseYear	2023
+Angry_Birds	ontology#hasPublisher	MaemoiOS
+The_Secret_of_Monkey_Island	ontology#hasPublisher	PC
+Pokémon_RedBlueYellow	ontology#salesMillions	47.44
+Pokémon_SunMoonUltra_SunUltra_Moon	ontology#hasPublisher	NintendoThe_Pokémon_Company
+BioShock	ontology#releaseYear	2007
+Centipede	ontology#hasPublisher	Arcade
+Pokémon_DiamondPearlPlatinum	ontology#salesMillions	25.5
+Terraria	ontology#salesMillions	64.0
+Pokémon_SunMoonUltra_SunUltra_Moon	ontology#hasPlatform	Nintendo_3DS
+Tower_defense	ontology#hasGenre	PopCap_Games
+Daytona_USA	ontology#hasPublisher	Sega
+Call_of_Duty_Black_Ops_III	ontology#hasTitle	Call of Duty: Black Ops III
+Citybuilding	ontology#hasTitle	City-building
+Turnbased_strategy	ontology#hasDeveloper	PC
+Call_of_Duty_Modern_Warfare_3	ontology#hasPublisher	Activision
+Daytona_USA	ontology#hasGenre	Racing
+Centipede	ontology#releaseYear	1981
+The_Last_of_UsRemastered	ontology#hasTitle	The Last of Us/Remastered
+Pokémon_ScarletViolet	ontology#releaseYear	2022
+Borderlands_2	ontology#hasDeveloper	Gearbox_Software
+Battlefield_1942	ontology#releaseYear	2002
+Joust	ontology#hasPublisher	Arcade
+Wii_Sports_Resort	ontology#hasPublisher	Nintendo
+Final_Fight	ontology#hasTitle	Final Fight
+Battlefield_1942	ontology#hasDeveloper	Digital_Illusions_CE
+Assassins_Creed_IV_Black_Flag	ontology#hasPlatform	Xbox_One
+Company_of_Heroes	ontology#hasPlatform	PC
+Mario_Kart_Wii	ontology#hasPublisher	Nintendo
+Puzzleplatform	ontology#hasDeveloper	PCXbox_360
+Actionadventure	ontology#hasGenre	Nintendo_RD4
+Elite	ontology#hasPlatform	BBC_Micro
+Daytona_USA	ontology#hasDeveloper	Sega_AM2
+Super_Mario_Odyssey	ontology#hasDeveloper	Nintendo_EPD
+Pokémon_GoldSilverCrystal	ontology#hasDeveloper	Game_Freak
+Age_of_Empires_II	ontology#hasGenre	Realtime_strategy
+Puzzle	ontology#hasTitle	Puzzle
+Terraria	ontology#releaseYear	2011
+Another_World	ontology#releaseYear	1991
+Fighting	ontology#hasTitle	Fighting
+Advance_Wars	ontology#hasTitle	Advance Wars
+Wii_Sports_Resort	ontology#hasDeveloper	Nintendo_EAD
+Contra	ontology#hasTitle	Contra
+Digital_collectible_card	ontology#hasTitle	Digital collectible card
+New_Super_Mario_Bros	ontology#releaseYear	2006
+Dishonored_2	ontology#hasGenre	Stealth
+Grand_Theft_Auto_V	ontology#hasTitle	Grand Theft Auto V
+Call_of_Duty_Black_Ops	ontology#hasPublisher	Activision
+Contra	ontology#hasPublisher	Arcade
+Pong	ontology#hasTitle	Pong
+Final_Fight	ontology#hasPublisher	Arcade
+Space_Invaders	ontology#hasPublisher	Arcade
+Alien_Isolation	ontology#hasGenre	Survival_horror
+Angry_Birds	ontology#hasGenre	Puzzle
+Baldurs_Gate_3	ontology#hasPublisher	PC
+Dishonored_2	ontology#releaseYear	2016
+Beyond_Good__Evil	ontology#hasGenre	Actionadventure
+Daytona_USA	ontology#releaseYear	1994
+Mega_Man_2	ontology#hasGenre	Platform
+Rhythm	ontology#hasTitle	Rhythm
+Burnout_3_Takedown	ontology#hasPlatform	PS2
+Black_Myth_Wukong	ontology#hasPublisher	Game_Science
+Adventure	ontology#hasDeveloper	PDP10
+Super_Smash_Bros_Ultimate	ontology#releaseYear	2018
+Chrono_Trigger	ontology#hasGenre	Roleplaying
+Marvels_SpiderManRemastered	ontology#hasDeveloper	Insomniac_Games
+Pong	ontology#hasPublisher	Arcade
+Final_Fight	ontology#hasDeveloper	Capcom
+Asteroids	ontology#hasPublisher	Arcade
+The_Oregon_Trail	ontology#hasTitle	The Oregon Trail
+Asteroids	ontology#releaseYear	1979
+Alien_Isolation	ontology#hasPublisher	Sega
+MMORPG	ontology#hasTitle	MMORPG
+Pokémon_DiamondPearlPlatinum	ontology#hasPlatform	Nintendo_DS
+Batman_Arkham_City	ontology#hasGenre	Actionadventure
+Call_of_Duty_Black_Ops	ontology#releaseYear	2010
+Rhythm	ontology#hasPublisher	PlayStation
+Wii_Sports_Resort	ontology#releaseYear	2009
+Garrys_Mod	ontology#hasDeveloper	Facepunch_Studios
+Topdown_shooter	ontology#releaseYear	2084
+Duck_Hunt	ontology#hasDeveloper	Nintendo_RD1
+Elite	ontology#releaseYear	1984
+Space_Invaders	ontology#hasDeveloper	Taito
+Citybuilding	ontology#hasDeveloper	AmigaMac
+Pokémon_ScarletViolet	ontology#hasPlatform	Nintendo_Switch
+The_Oregon_Trail	ontology#hasDeveloper	Don_Rawitsch_Bill_Heinemann_and_Paul_Dillenberger
+Battlefield_1942	ontology#hasTitle	Battlefield 1942
+Grand_Theft_Auto_V	ontology#hasPublisher	Rockstar_Games
+Assassins_Creed_IV_Black_Flag	ontology#hasPlatform	PC
+Pokémon_SwordShield	ontology#hasDeveloper	Game_Freak
+Strategy	ontology#hasPublisher	PC
+Disco_Elysium	ontology#hasGenre	Roleplaying
+Realtime_strategy	ontology#hasTitle	Real-time strategy

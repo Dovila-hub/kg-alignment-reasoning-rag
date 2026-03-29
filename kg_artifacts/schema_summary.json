@@ -1,0 +1,28 @@
+{
+  "classes": [
+    "Game",
+    "Developer",
+    "Publisher",
+    "Platform",
+    "Genre"
+  ],
+  "properties": {
+    "hasTitle": "Game \u2192 string",
+    "releaseYear": "Game \u2192 year",
+    "salesMillions": "Game \u2192 float",
+    "hasDeveloper": "Game \u2192 Developer",
+    "hasPublisher": "Game \u2192 Publisher",
+    "hasPlatform": "Game \u2192 Platform",
+    "hasGenre": "Game \u2192 Genre"
+  },
+  "namespace": "http://videogame-kg.org/ontology#",
+  "resource_ns": "http://videogame-kg.org/resource/",
+  "total_triples": 1201,
+  "sample_queries": {
+    "1 - All games and their genres": 10,
+    "2 - Games by developer": 10,
+    "3 - Games released after 2015": 0,
+    "4 - Publishers with more than 2 games": 9,
+    "5 - Self-published games (dev = pub)": 5
+  }
+}

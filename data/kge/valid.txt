@@ -1,0 +1,97 @@
+Hogwarts_Legacy	ontology#hasDeveloper	Avalanche_Software
+Wii_FitPlus	ontology#hasTitle	Wii Fit/Plus
+Tetris	ontology#releaseYear	1988
+Platform	ontology#hasPublisher	Arcade
+Sports	ontology#hasGenre	Nintendo_RD3
+New_Super_Mario_Bros_Wii	ontology#salesMillions	30.32
+The_Last_of_UsRemastered	ontology#hasPlatform	PS3PS4
+Alien_Isolation	ontology#hasPlatform	PS3
+Dishonored_2	ontology#hasDeveloper	Arkane_Lyon
+Gauntlet	ontology#hasGenre	Hack_and_slash
+The_Secret_of_Monkey_Island	ontology#releaseYear	1990
+Alien_Isolation	ontology#hasPlatform	PS4
+Civilization_V	ontology#releaseYear	2010
+Artillery	ontology#hasGenre	Team17
+Stealth	ontology#hasGenre	Konami_Computer_Entertainment_Japan
+Civilization_V	ontology#hasTitle	Civilization V
+Pokémon_RedBlueYellow	ontology#hasTitle	Pokémon Red/Blue/Yellow
+The_Secret_of_Monkey_Island	ontology#hasGenre	Adventure
+Baldurs_Gate_3	ontology#hasTitle	Baldur's Gate 3
+Strategy	ontology#hasTitle	Strategy
+Burnout_3_Takedown	ontology#hasDeveloper	Criterion_Games
+Day_of_the_Tentacle	ontology#hasDeveloper	LucasArts
+Topdown_shooter	ontology#hasTitle	Top-down shooter
+Joust	ontology#hasTitle	Joust
+Call_of_Duty_Modern_Warfare	ontology#releaseYear	2019
+Stealth	ontology#hasTitle	Stealth
+Civilization_V	ontology#hasPlatform	PC
+Wii_Play	ontology#hasPlatform	Wii
+Garrys_Mod	ontology#hasTitle	Garry's Mod
+Super_Mario_Bros	ontology#releaseYear	1985
+Bloodborne	ontology#hasGenre	Action_roleplaying
+Life_simulation	ontology#hasPublisher	PC
+Age_of_Empires	ontology#hasTitle	Age of Empires
+Age_of_Empires	ontology#hasPublisher	Microsoft
+MMORPG	ontology#hasDeveloper	Electronic_Arts
+Grand_Theft_Auto_San_Andreas	ontology#releaseYear	2004
+Beat_em_up	ontology#hasPublisher	Arcade
+New_Super_Mario_Bros_Wii	ontology#hasDeveloper	Nintendo_EAD
+God_game	ontology#hasTitle	God game
+Kart_racing	ontology#hasGenre	Nintendo_EAD
+Day_of_the_Tentacle	ontology#hasPublisher	PC
+Topdown_shooter	ontology#hasDeveloper	Williams_Electronics
+Gauntlet	ontology#hasPublisher	Arcade
+Batman_Arkham_City	ontology#hasTitle	Batman: Arkham City
+Mario_Kart_Wii	ontology#hasPlatform	Wii
+Alone_in_the_Dark	ontology#hasPublisher	PC
+Contra	ontology#hasGenre	Run_and_gun
+Platform	ontology#hasGenre	Nintendo_RD1
+Contra	ontology#releaseYear	1987
+PUBG_Battlegrounds	ontology#salesMillions	75.0
+The_Last_of_UsRemastered	ontology#salesMillions	26.6
+Bloodborne	ontology#hasPublisher	Sony_Computer_Entertainment
+Arkanoid	ontology#hasGenre	Block_breaker
+Vehicle_simulation	ontology#hasDeveloper	Arcade
+Age_of_Empires_II	ontology#releaseYear	1999
+Mario_Kart_8Deluxe	ontology#salesMillions	79.05
+Mario_Kart_8Deluxe	ontology#hasPlatform	Wii_USwitch
+Firstperson_shooter	ontology#hasTitle	First-person shooter
+Chrono_Trigger	ontology#releaseYear	1995
+Red_Dead_Redemption2	ontology#hasPublisher	Rockstar_Games
+Chrono_Trigger	ontology#hasTitle	Chrono Trigger
+Human_Fall_Flat	ontology#hasTitle	Human: Fall Flat
+Elite	ontology#hasGenre	Space_flight_simulator
+Pokémon_SunMoonUltra_SunUltra_Moon	ontology#hasTitle	Pokémon Sun/Moon/Ultra Sun/Ultra Moon
+Assassins_Creed_IV_Black_Flag	ontology#releaseYear	2013
+Animal_Crossing_New_Horizons	ontology#hasDeveloper	Nintendo_EPD
+Terraria	ontology#hasPublisher	ReLogic505_Games
+MMORPG	ontology#hasGenre	Origin_Systems
+Baldurs_Gate	ontology#hasDeveloper	BioWare
+Black_Myth_Wukong	ontology#salesMillions	28.0
+Wii_FitPlus	ontology#hasPlatform	Wii
+Turnbased_strategy	ontology#hasGenre	MicroProse
+Animal_Crossing_New_Horizons	ontology#releaseYear	2020
+Alone_in_the_Dark	ontology#hasGenre	Survival_horror
+Disco_Elysium	ontology#hasTitle	Disco Elysium
+Business_simulation	ontology#hasGenre	Ozark_Softscape
+Combat	ontology#hasPublisher	Atari_2600
+Action	ontology#hasPublisher	Arcade
+Phasmophobia	ontology#hasDeveloper	Kinetic_Games
+Life_simulation	ontology#hasDeveloper	Electronic_Arts
+Dishonored_2	ontology#hasPlatform	PS4
+Super_Smash_Bros_Ultimate	ontology#hasDeveloper	Bandai_Namco_StudiosSora_Ltd
+Alien_Isolation	ontology#hasPlatform	Xbox_360
+Super_Smash_Bros_Ultimate	ontology#hasTitle	Super Smash Bros. Ultimate
+Civilization_II	ontology#releaseYear	1996
+Advance_Wars	ontology#hasDeveloper	Intelligent_Systems
+Daytona_USA	ontology#hasPlatform	Arcade
+Baldurs_Gate_II_Shadows_of_Amn	ontology#hasPublisher	Black_Isle_StudiosInterplay_Entertainment
+Pokémon_RedBlueYellow	ontology#hasPublisher	Nintendo
+Maze	ontology#hasGenre	Namco
+Pokémon_GoldSilverCrystal	ontology#hasPublisher	Nintendo
+Arkanoid	ontology#releaseYear	1986
+Pokémon_SunMoonUltra_SunUltra_Moon	ontology#hasDeveloper	Game_Freak
+Marvels_SpiderManRemastered	ontology#hasTitle	Marvel's Spider-Man/Remastered
+Grand_Theft_Auto_V	ontology#hasDeveloper	Rockstar_North
+God_game	ontology#hasGenre	Bullfrog_Productions
+The_Legend_of_Zelda_Breath_of_the_Wild	ontology#hasDeveloper	Nintendo_EPD

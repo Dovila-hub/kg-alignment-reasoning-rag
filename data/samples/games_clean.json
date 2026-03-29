@@ -1,0 +1,1302 @@
+[
+  {
+    "title": "Tetris",
+    "platforms": "Multi-platform",
+    "developer": "Various",
+    "publisher": "Various",
+    "genre": "",
+    "year": "1988",
+    "sales_millions": "520",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "Grand Theft Auto V",
+    "platforms": "Multi-platform",
+    "developer": "Rockstar North",
+    "publisher": "Rockstar Games",
+    "genre": "",
+    "year": "2013",
+    "sales_millions": "225",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "Wii Sports",
+    "platforms": "Wii",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "genre": "",
+    "year": "2006",
+    "sales_millions": "82.9",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "Red Dead Redemption 2",
+    "platforms": "Multi-platform",
+    "developer": "Rockstar Games",
+    "publisher": "Rockstar Games",
+    "genre": "",
+    "year": "2018",
+    "sales_millions": "82",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "Mario Kart 8/Deluxe",
+    "platforms": "Wii U/Switch",
+    "developer": "Nintendo EAD/Nintendo EPD(Deluxe)",
+    "publisher": "Nintendo",
+    "genre": "",
+    "year": "2014",
+    "sales_millions": "79.05",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "PUBG: Battlegrounds",
+    "platforms": "Multi-platform",
+    "developer": "PUBG Studios",
+    "publisher": "Krafton",
+    "genre": "",
+    "year": "2017",
+    "sales_millions": "75",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "Terraria",
+    "platforms": "Multi-platform",
+    "developer": "Re-Logic",
+    "publisher": "Re-Logic/505 Games",
+    "genre": "",
+    "year": "2011",
+    "sales_millions": "64",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "The Witcher 3: Wild Hunt",
+    "platforms": "Multi-platform",
+    "developer": "CD Projekt Red",
+    "publisher": "CD Projekt",
+    "genre": "",
+    "year": "2015",
+    "sales_millions": "60",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "Super Mario Bros.",
+    "platforms": "Multi-platform",
+    "developer": "Nintendo R&D4",
+    "publisher": "Nintendo",
+    "genre": "",
+    "year": "1985",
+    "sales_millions": "58",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "Human: Fall Flat",
+    "platforms": "Multi-platform",
+    "developer": "No Brakes Games",
+    "publisher": "Curve Digital",
+    "genre": "",
+    "year": "2016",
+    "sales_millions": "55",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "Overwatch",
+    "platforms": "Multi-platform",
+    "developer": "Blizzard Entertainment",
+    "publisher": "Blizzard Entertainment",
+    "genre": "",
+    "year": "2016",
+    "sales_millions": "50",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "Animal Crossing: New Horizons",
+    "platforms": "Nintendo Switch",
+    "developer": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "genre": "",
+    "year": "2020",
+    "sales_millions": "49.32",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "Pokémon Red/Blue/Yellow",
+    "platforms": "Multi-platform",
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "genre": "",
+    "year": "1996",
+    "sales_millions": "47.44",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "Wii Fit/Plus",
+    "platforms": "Wii",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "genre": "",
+    "year": "2007",
+    "sales_millions": "43.8",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "Call of Duty: Black Ops III",
+    "platforms": "Multi-platform",
+    "developer": "Treyarch",
+    "publisher": "Activision",
+    "genre": "",
+    "year": "2015",
+    "sales_millions": "43",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "Call of Duty: Modern Warfare",
+    "platforms": "Multi-platform",
+    "developer": "Infinity Ward",
+    "publisher": "Activision",
+    "genre": "",
+    "year": "2019",
+    "sales_millions": "41",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "Hogwarts Legacy",
+    "platforms": "Multi-platform",
+    "developer": "Avalanche Software",
+    "publisher": "Warner Bros. Games",
+    "genre": "",
+    "year": "2023",
+    "sales_millions": "40",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "Super Smash Bros. Ultimate",
+    "platforms": "Nintendo Switch",
+    "developer": "Bandai Namco Studios/Sora Ltd.",
+    "publisher": "Nintendo",
+    "genre": "",
+    "year": "2018",
+    "sales_millions": "37.44",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "Mario Kart Wii",
+    "platforms": "Wii",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "genre": "",
+    "year": "2008",
+    "sales_millions": "37.38",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "platforms": "Multi-platform",
+    "developer": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "genre": "",
+    "year": "2017",
+    "sales_millions": "35.34",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "Cyberpunk 2077",
+    "platforms": "Multi-platform",
+    "developer": "CD Projekt Red",
+    "publisher": "CD Projekt",
+    "genre": "",
+    "year": "2020",
+    "sales_millions": "35",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "Wii Sports Resort",
+    "platforms": "Wii",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "genre": "",
+    "year": "2009",
+    "sales_millions": "33.14",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "New Super Mario Bros.",
+    "platforms": "Nintendo DS",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "genre": "",
+    "year": "2006",
+    "sales_millions": "30.8",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "New Super Mario Bros. Wii",
+    "platforms": "Wii",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "genre": "",
+    "year": "2009",
+    "sales_millions": "30.32",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "Super Mario Odyssey",
+    "platforms": "Nintendo Switch",
+    "developer": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "genre": "",
+    "year": "2017",
+    "sales_millions": "30.27",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "Pokémon Gold/Silver/Crystal",
+    "platforms": "Game Boy Color",
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "genre": "",
+    "year": "1999",
+    "sales_millions": "30.12",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "Elden Ring",
+    "platforms": "Multi-platform",
+    "developer": "FromSoftware",
+    "publisher": "Bandai Namco",
+    "genre": "",
+    "year": "2022",
+    "sales_millions": "30",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "Monster Hunter: World",
+    "platforms": "Multi-platform",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "",
+    "year": "2018",
+    "sales_millions": "29.1",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "Duck Hunt",
+    "platforms": "Famicom / NES",
+    "developer": "Nintendo R&D1",
+    "publisher": "Nintendo",
+    "genre": "",
+    "year": "1984",
+    "sales_millions": "28.3",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "Pokémon Scarlet/Violet",
+    "platforms": "Nintendo Switch",
+    "developer": "Game Freak",
+    "publisher": "Nintendo/The Pokémon Company",
+    "genre": "",
+    "year": "2022",
+    "sales_millions": "28.08",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "Wii Play",
+    "platforms": "Wii",
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "genre": "",
+    "year": "2006",
+    "sales_millions": "28.02",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "Black Myth: Wukong",
+    "platforms": "Multi-platform",
+    "developer": "Game Science",
+    "publisher": "Game Science",
+    "genre": "",
+    "year": "2024",
+    "sales_millions": "28",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "Grand Theft Auto: San Andreas",
+    "platforms": "Multi-platform",
+    "developer": "Rockstar North",
+    "publisher": "Rockstar Games",
+    "genre": "",
+    "year": "2004",
+    "sales_millions": "27.5",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "Pokémon Sword/Shield",
+    "platforms": "Nintendo Switch",
+    "developer": "Game Freak",
+    "publisher": "Nintendo/The Pokémon Company",
+    "genre": "",
+    "year": "2019",
+    "sales_millions": "27.08",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "It Takes Two",
+    "platforms": "Multi-platform",
+    "developer": "Hazelight Studios",
+    "publisher": "Electronic Arts",
+    "genre": "",
+    "year": "2021",
+    "sales_millions": "27",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "The Last of Us/Remastered",
+    "platforms": "PS3/PS4",
+    "developer": "Naughty Dog",
+    "publisher": "Sony Computer Entertainment",
+    "genre": "",
+    "year": "2013",
+    "sales_millions": "26.6",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "Call of Duty: Modern Warfare 3",
+    "platforms": "Multi-platform",
+    "developer": "Infinity Ward/Sledgehammer",
+    "publisher": "Activision",
+    "genre": "",
+    "year": "2011",
+    "sales_millions": "26.5",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "Call of Duty: Black Ops",
+    "platforms": "Multi-platform",
+    "developer": "Treyarch",
+    "publisher": "Activision",
+    "genre": "",
+    "year": "2010",
+    "sales_millions": "26.2",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "Marvel's Spider-Man/Remastered",
+    "platforms": "Multi-Platform",
+    "developer": "Insomniac Games",
+    "publisher": "Sony Interactive Entertainment",
+    "genre": "",
+    "year": "2018",
+    "sales_millions": "26.1",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "Pokémon Sun/Moon/Ultra Sun/Ultra Moon",
+    "platforms": "Nintendo 3DS",
+    "developer": "Game Freak",
+    "publisher": "Nintendo/The Pokémon Company",
+    "genre": "",
+    "year": "2016",
+    "sales_millions": "25.59",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "Garry's Mod",
+    "platforms": "PC",
+    "developer": "Facepunch Studios",
+    "publisher": "Valve",
+    "genre": "",
+    "year": "2006",
+    "sales_millions": "25.56",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "Pokémon Diamond/Pearl/Platinum",
+    "platforms": "Nintendo DS",
+    "developer": "Game Freak",
+    "publisher": "Nintendo/The Pokémon Company",
+    "genre": "",
+    "year": "2006",
+    "sales_millions": "25.5",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "Phasmophobia",
+    "platforms": "Multi-platform",
+    "developer": "Kinetic Games",
+    "publisher": "Kinetic Games",
+    "genre": "",
+    "year": "2024",
+    "sales_millions": "25",
+    "source": "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  },
+  {
+    "title": "The Oregon Trail",
+    "platforms": "HP 2100",
+    "developer": "Don Rawitsch, Bill Heinemann, and Paul Dillenberger",
+    "publisher": "MECC",
+    "genre": "Strategy",
+    "year": "1971",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Pong",
+    "platforms": "",
+    "developer": "Atari, Inc.",
+    "publisher": "Arcade",
+    "genre": "Sports",
+    "year": "1972",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Combat",
+    "platforms": "",
+    "developer": "Atari, Inc.",
+    "publisher": "Atari 2600",
+    "genre": "Top-down shooter",
+    "year": "1977",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Adventure",
+    "platforms": "",
+    "developer": "PDP-10",
+    "publisher": "",
+    "genre": "Infocom",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Space Invaders",
+    "platforms": "",
+    "developer": "Taito",
+    "publisher": "Arcade",
+    "genre": "Shoot 'em up",
+    "year": "1978",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Asteroids",
+    "platforms": "",
+    "developer": "Atari, Inc.",
+    "publisher": "Arcade",
+    "genre": "Shoot 'em up",
+    "year": "1979",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Vehicle simulation",
+    "platforms": "",
+    "developer": "Arcade",
+    "publisher": "",
+    "genre": "Atari, Inc.",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Shoot 'em up",
+    "platforms": "",
+    "developer": "Arcade",
+    "publisher": "",
+    "genre": "Atari, Inc.",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Maze",
+    "platforms": "",
+    "developer": "Arcade",
+    "publisher": "",
+    "genre": "Namco",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Centipede",
+    "platforms": "",
+    "developer": "Atari, Inc.",
+    "publisher": "Arcade",
+    "genre": "Shoot 'em up",
+    "year": "1981",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Platform",
+    "platforms": "",
+    "developer": "Nintendo",
+    "publisher": "Arcade",
+    "genre": "Nintendo R&D1",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Action",
+    "platforms": "",
+    "developer": "Konami,Sega",
+    "publisher": "Arcade",
+    "genre": "Konami",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Role-playing",
+    "platforms": "",
+    "developer": "Apple II",
+    "publisher": "",
+    "genre": "Sir-Tech",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Joust",
+    "platforms": "",
+    "developer": "Williams Electronics",
+    "publisher": "Arcade",
+    "genre": "Action",
+    "year": "1982",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Top-down shooter",
+    "platforms": "",
+    "developer": "Williams Electronics",
+    "publisher": "Arcade",
+    "genre": "Vid Kidz",
+    "year": "2084",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Archon: The Light and the Dark",
+    "platforms": "Atari 8-bit",
+    "developer": "Free Fall Associates",
+    "publisher": "Electronic Arts",
+    "genre": "Strategy",
+    "year": "1983",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Business simulation",
+    "platforms": "",
+    "developer": "Electronic Arts",
+    "publisher": "Atari 8-bit,Commodore 64",
+    "genre": "Ozark Softscape",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Rail shooter",
+    "platforms": "",
+    "developer": "Arcade",
+    "publisher": "",
+    "genre": "Atari, Inc.",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Elite",
+    "platforms": "BBC Micro",
+    "developer": "David BrabenandIan Bell",
+    "publisher": "Acornsoft",
+    "genre": "Space flight simulator",
+    "year": "1984",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Gauntlet",
+    "platforms": "",
+    "developer": "Atari Games",
+    "publisher": "Arcade",
+    "genre": "Hack and slash",
+    "year": "1985",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Puzzle",
+    "platforms": "",
+    "developer": "Elorg",
+    "publisher": "Electronika 60",
+    "genre": "Alexey Pajitnov",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Arkanoid",
+    "platforms": "",
+    "developer": "Taito",
+    "publisher": "Arcade",
+    "genre": "Block breaker",
+    "year": "1986",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Action-adventure",
+    "platforms": "",
+    "developer": "Nintendo",
+    "publisher": "NES",
+    "genre": "Nintendo R&D4",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Racing",
+    "platforms": "",
+    "developer": "Arcade",
+    "publisher": "",
+    "genre": "Sega",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Contra",
+    "platforms": "",
+    "developer": "Konami",
+    "publisher": "Arcade",
+    "genre": "Run and gun",
+    "year": "1987",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Beat 'em up",
+    "platforms": "",
+    "developer": "Taito",
+    "publisher": "Arcade",
+    "genre": "Technōs Japan",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Sports",
+    "platforms": "",
+    "developer": "Nintendo",
+    "publisher": "NES",
+    "genre": "Nintendo R&D3",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Mega Man 2",
+    "platforms": "",
+    "developer": "Capcom",
+    "publisher": "NES",
+    "genre": "Platform",
+    "year": "1988",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Final Fight",
+    "platforms": "",
+    "developer": "Capcom",
+    "publisher": "Arcade",
+    "genre": "Beat 'em up",
+    "year": "1989",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "God game",
+    "platforms": "",
+    "developer": "Electronic Arts",
+    "publisher": "Amiga",
+    "genre": "Bullfrog Productions",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "City-building",
+    "platforms": "",
+    "developer": "Amiga,Mac",
+    "publisher": "",
+    "genre": "Maxis",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "The Secret of Monkey Island",
+    "platforms": "",
+    "developer": "Lucasfilm Games",
+    "publisher": "PC",
+    "genre": "Adventure",
+    "year": "1990",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Space flight simulator",
+    "platforms": "",
+    "developer": "PC",
+    "publisher": "",
+    "genre": "Origin Systems",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Another World",
+    "platforms": "",
+    "developer": "Delphine Software",
+    "publisher": "Amiga,Atari ST",
+    "genre": "Platform",
+    "year": "1991",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Turn-based strategy",
+    "platforms": "",
+    "developer": "PC",
+    "publisher": "",
+    "genre": "MicroProse",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Fighting",
+    "platforms": "",
+    "developer": "Arcade",
+    "publisher": "",
+    "genre": "Capcom",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Alone in the Dark",
+    "platforms": "",
+    "developer": "Infogrames",
+    "publisher": "PC",
+    "genre": "Survival horror",
+    "year": "1992",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Run and gun",
+    "platforms": "",
+    "developer": "Super NES",
+    "publisher": "",
+    "genre": "Konami",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Real-time strategy",
+    "platforms": "",
+    "developer": "Virgin Games",
+    "publisher": "PC",
+    "genre": "Westwood Studios",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Kart racing",
+    "platforms": "",
+    "developer": "Nintendo",
+    "publisher": "Super NES",
+    "genre": "Nintendo EAD",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "First-person shooter",
+    "platforms": "",
+    "developer": "Apogee Software",
+    "publisher": "PC",
+    "genre": "id Software",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Day of the Tentacle",
+    "platforms": "",
+    "developer": "LucasArts",
+    "publisher": "PC",
+    "genre": "Adventure",
+    "year": "1993",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Action role-playing",
+    "platforms": "",
+    "developer": "Super NES",
+    "publisher": "",
+    "genre": "Square",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Real-time tactics",
+    "platforms": "",
+    "developer": "Electronic Arts",
+    "publisher": "Amiga,PC",
+    "genre": "Bullfrog Productions",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Daytona USA",
+    "platforms": "Arcade",
+    "developer": "Sega AM2",
+    "publisher": "Sega",
+    "genre": "Racing",
+    "year": "1994",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Chrono Trigger",
+    "platforms": "",
+    "developer": "Square",
+    "publisher": "Super NES",
+    "genre": "Role-playing",
+    "year": "1995",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Artillery",
+    "platforms": "",
+    "developer": "Ocean Software",
+    "publisher": "Amiga",
+    "genre": "Team17",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Civilization II",
+    "platforms": "",
+    "developer": "MicroProse",
+    "publisher": "PC",
+    "genre": "Turn-based strategy",
+    "year": "1996",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Rhythm",
+    "platforms": "",
+    "developer": "Sony Computer Entertainment",
+    "publisher": "PlayStation",
+    "genre": "NanaOn-Sha",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Survival horror",
+    "platforms": "",
+    "developer": "PlayStation",
+    "publisher": "",
+    "genre": "Capcom",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Age of Empires",
+    "platforms": "PC",
+    "developer": "Ensemble Studios",
+    "publisher": "Microsoft",
+    "genre": "Real-time strategy",
+    "year": "1997",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Tactical role-playing",
+    "platforms": "",
+    "developer": "PlayStation",
+    "publisher": "",
+    "genre": "Square",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "MMORPG",
+    "platforms": "",
+    "developer": "Electronic Arts",
+    "publisher": "PC,Linux",
+    "genre": "Origin Systems",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Baldur's Gate",
+    "platforms": "PC",
+    "developer": "BioWare",
+    "publisher": "Black Isle Studios,Interplay Entertainment",
+    "genre": "Role-playing",
+    "year": "1998",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Stealth",
+    "platforms": "",
+    "developer": "Konami",
+    "publisher": "PlayStation",
+    "genre": "Konami Computer Entertainment Japan",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Age of Empires II",
+    "platforms": "PC",
+    "developer": "Ensemble Studios",
+    "publisher": "Microsoft",
+    "genre": "Real-time strategy",
+    "year": "1999",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Baldur's Gate II: Shadows of Amn",
+    "platforms": "PC",
+    "developer": "BioWare",
+    "publisher": "Black Isle Studios,Interplay Entertainment",
+    "genre": "Role-playing",
+    "year": "2000",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Life simulation",
+    "platforms": "",
+    "developer": "Electronic Arts",
+    "publisher": "PC",
+    "genre": "Maxis",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Advance Wars",
+    "platforms": "Game Boy Advance",
+    "developer": "Intelligent Systems",
+    "publisher": "Nintendo",
+    "genre": "Turn-based strategy",
+    "year": "2001",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Third-person shooter",
+    "platforms": "",
+    "developer": "Gathering of Developers",
+    "publisher": "PC",
+    "genre": "Remedy Entertainment",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Battlefield 1942",
+    "platforms": "PC",
+    "developer": "Digital Illusions CE",
+    "publisher": "Electronic Arts",
+    "genre": "First-person shooter",
+    "year": "2002",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Beyond Good & Evil",
+    "platforms": "PS2",
+    "developer": "Ubisoft Pictures,Ubisoft Milan",
+    "publisher": "Ubisoft",
+    "genre": "Action-adventure",
+    "year": "2003",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Burnout 3: Takedown",
+    "platforms": "PS2,Xbox",
+    "developer": "Criterion Games",
+    "publisher": "Electronic Arts",
+    "genre": "Racing",
+    "year": "2004",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Strategy",
+    "platforms": "",
+    "developer": "Activision",
+    "publisher": "PC",
+    "genre": "Creative Assembly",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Battlefield 2",
+    "platforms": "PC",
+    "developer": "Digital Illusions CE",
+    "publisher": "Electronic Arts",
+    "genre": "First-person shooter",
+    "year": "2005",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Company of Heroes",
+    "platforms": "PC",
+    "developer": "Relic Entertainment",
+    "publisher": "THQ",
+    "genre": "Real-time strategy",
+    "year": "2006",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "BioShock",
+    "platforms": "PC,Xbox 360",
+    "developer": "2K Boston,2K Australia",
+    "publisher": "2K Games",
+    "genre": "First-person shooter",
+    "year": "2007",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Puzzle-platform",
+    "platforms": "",
+    "developer": "PC,Xbox 360",
+    "publisher": "",
+    "genre": "Valve Corporation",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Braid",
+    "platforms": "Xbox 360",
+    "developer": "Number None",
+    "publisher": "Microsoft Game Studios",
+    "genre": "Puzzle-platform",
+    "year": "2008",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Angry Birds",
+    "platforms": "",
+    "developer": "Rovio Entertainment",
+    "publisher": "Maemo,iOS",
+    "genre": "Puzzle",
+    "year": "2009",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "MOBA",
+    "platforms": "",
+    "developer": "PC",
+    "publisher": "",
+    "genre": "Riot Games",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Tower defense",
+    "platforms": "",
+    "developer": "PC,Mac",
+    "publisher": "",
+    "genre": "PopCap Games",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Civilization V",
+    "platforms": "PC",
+    "developer": "Firaxis Games",
+    "publisher": "2K Games",
+    "genre": "Turn-based strategy",
+    "year": "2010",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Batman: Arkham City",
+    "platforms": "PS3,Xbox 360",
+    "developer": "Rocksteady Studios",
+    "publisher": "Warner Bros.",
+    "genre": "Action-adventure",
+    "year": "2011",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Sandbox",
+    "platforms": "",
+    "developer": "PC,Mac,Linux",
+    "publisher": "",
+    "genre": "Mojang Studios",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Borderlands 2",
+    "platforms": "PC,PS3,Xbox 360",
+    "developer": "Gearbox Software",
+    "publisher": "2K Games",
+    "genre": "Action role-playing",
+    "year": "2012",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Assassin's Creed IV: Black Flag",
+    "platforms": "PC,PS3,PS4,Wii U,Xbox 360,Xbox One",
+    "developer": "Ubisoft Montreal",
+    "publisher": "Ubisoft",
+    "genre": "Action-adventure",
+    "year": "2013",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Alien: Isolation",
+    "platforms": "PC,PS3,PS4,Xbox 360,Xbox One",
+    "developer": "Creative Assembly",
+    "publisher": "Sega",
+    "genre": "Survival horror",
+    "year": "2014",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Digital collectible card",
+    "platforms": "",
+    "developer": "PC,Mac",
+    "publisher": "",
+    "genre": "Blizzard Entertainment",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Bloodborne",
+    "platforms": "PS4",
+    "developer": "FromSoftware",
+    "publisher": "Sony Computer Entertainment",
+    "genre": "Action role-playing",
+    "year": "2015",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Dishonored 2",
+    "platforms": "PC,PS4,Xbox One",
+    "developer": "Arkane Lyon",
+    "publisher": "Bethesda Softworks",
+    "genre": "Stealth",
+    "year": "2016",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Farm life simulation",
+    "platforms": "",
+    "developer": "Chucklefish",
+    "publisher": "PC",
+    "genre": "ConcernedApe",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Fortnite",
+    "platforms": "",
+    "developer": "Epic Games",
+    "publisher": "PC,Mac,PS4,Xbox One",
+    "genre": "Third-person shooter",
+    "year": "2017",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Celeste",
+    "platforms": "",
+    "developer": "Maddy Makes Games",
+    "publisher": "Linux,Mac,Nintendo Switch,PC,PS4",
+    "genre": "Platform",
+    "year": "2018",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Disco Elysium",
+    "platforms": "",
+    "developer": "ZA/UM",
+    "publisher": "PC",
+    "genre": "Role-playing",
+    "year": "2019",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Roguelike",
+    "platforms": "",
+    "developer": "PC,Mac,Nintendo Switch",
+    "publisher": "",
+    "genre": "Supergiant Games",
+    "year": "",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  },
+  {
+    "title": "Baldur's Gate 3",
+    "platforms": "",
+    "developer": "Larian Studios",
+    "publisher": "PC",
+    "genre": "Role-playing",
+    "year": "2023",
+    "sales_millions": "",
+    "source": "https://en.wikipedia.org/wiki/List_of_video_games_listed_among_the_best"
+  }
+]

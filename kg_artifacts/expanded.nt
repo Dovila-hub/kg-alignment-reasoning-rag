@@ -1,0 +1,1201 @@
+<http://videogame-kg.org/resource/Puzzle> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Alexey_Pajitnov> .
+<http://videogame-kg.org/resource/Battlefield_2> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Electronic_Arts> .
+<http://videogame-kg.org/resource/Pokémon_RedBlueYellow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Nintendo_DS> <http://www.w3.org/2000/01/rdf-schema#label> "Nintendo DS"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Burnout_3_Takedown> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Criterion_Games> .
+<http://videogame-kg.org/resource/Realtime_tactics> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/AmigaPC> .
+<http://videogame-kg.org/resource/Alien_Isolation> <http://videogame-kg.org/ontology#releaseYear> "2014"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Puzzleplatform> <http://www.w3.org/2000/01/rdf-schema#label> "Puzzle-platform"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Overwatch> <http://videogame-kg.org/ontology#salesMillions> "50.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/Apple_II> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Roleplaying> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Realtime_strategy> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Virgin_Games> .
+<http://videogame-kg.org/resource/Curve_Digital> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Valve> <http://www.w3.org/2000/01/rdf-schema#label> "Valve"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Angry_Birds> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Contra> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Run_and_gun> .
+<http://videogame-kg.org/resource/Puzzle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Black_Isle_StudiosInterplay_Entertainment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Action> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Konami> .
+<http://videogame-kg.org/resource/Garrys_Mod> <http://videogame-kg.org/ontology#hasTitle> "Garry's Mod"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Infinity_Ward> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Fighting> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Arcade> .
+<http://videogame-kg.org/resource/Realtime_strategy> <http://www.w3.org/2000/01/rdf-schema#label> "Real-time strategy"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/ontology#Publisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://videogame-kg.org/resource/PS3> <http://www.w3.org/2000/01/rdf-schema#label> "PS3"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Combat> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Atari_Inc> .
+<http://videogame-kg.org/resource/Mario_Kart_Wii> <http://videogame-kg.org/ontology#salesMillions> "37.38"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/MOBA> <http://videogame-kg.org/ontology#hasTitle> "MOBA"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Free_Fall_Associates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Garrys_Mod> <http://videogame-kg.org/ontology#releaseYear> "2006"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Racing> <http://www.w3.org/2000/01/rdf-schema#label> "Racing"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Alien_Isolation> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/PS3> .
+<http://videogame-kg.org/resource/Duck_Hunt> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Nintendo> .
+<http://videogame-kg.org/resource/Company_of_Heroes> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Relic_Entertainment> .
+<http://videogame-kg.org/resource/Sports> <http://videogame-kg.org/ontology#hasTitle> "Sports"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/It_Takes_Two> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Electronic_Arts> .
+<http://videogame-kg.org/resource/Phasmophobia> <http://videogame-kg.org/ontology#salesMillions> "25.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/Puzzle> <http://www.w3.org/2000/01/rdf-schema#label> "Puzzle"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Electronic_Arts> <http://www.w3.org/2000/01/rdf-schema#label> "Electronic Arts"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Larian_Studios> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Adventure> <http://www.w3.org/2000/01/rdf-schema#label> "Adventure"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Assassins_Creed_IV_Black_Flag> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/PS4> .
+<http://videogame-kg.org/resource/Wii_FitPlus> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Nintendo_EAD> .
+<http://videogame-kg.org/resource/Elorg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Baldurs_Gate_II_Shadows_of_Amn> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/PC> .
+<http://videogame-kg.org/resource/Microsoft> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/ontology#hasDeveloper> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://videogame-kg.org/resource/Terraria> <http://videogame-kg.org/ontology#salesMillions> "64.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/ontology#hasTitle> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Super_Mario_Bros> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Pokémon_ScarletViolet> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/Nintendo_Switch> .
+<http://videogame-kg.org/resource/Pokémon_ScarletViolet> <http://videogame-kg.org/ontology#releaseYear> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Elden_Ring> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Arkanoid> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Block_breaker> .
+<http://videogame-kg.org/resource/Battlefield_2> <http://videogame-kg.org/ontology#releaseYear> "2005"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/PUBG_Battlegrounds> <http://videogame-kg.org/ontology#salesMillions> "75.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/Asteroids> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Arcade> .
+<http://videogame-kg.org/resource/Battlefield_1942> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Electronic_Arts> .
+<http://videogame-kg.org/resource/Strategy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Rockstar_Games> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/The_Last_of_UsRemastered> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/PS3PS4> .
+<http://videogame-kg.org/resource/Civilization_II> <http://videogame-kg.org/ontology#releaseYear> "1996"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Space_flight_simulator> <http://www.w3.org/2000/01/rdf-schema#label> "Space flight simulator"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Game_Science> <http://www.w3.org/2000/01/rdf-schema#label> "Game Science"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Joust> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Action> .
+<http://videogame-kg.org/resource/Duck_Hunt> <http://videogame-kg.org/ontology#releaseYear> "1984"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Actionadventure> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Strategy> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/PC> .
+<http://videogame-kg.org/resource/Game_Boy_Advance> <http://www.w3.org/2000/01/rdf-schema#label> "Game Boy Advance"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Naughty_Dog> <http://www.w3.org/2000/01/rdf-schema#label> "Naughty Dog"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Realtime_tactics> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Bullfrog_Productions> .
+<http://videogame-kg.org/resource/Celeste> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Maddy_Makes_Games> .
+<http://videogame-kg.org/resource/Day_of_the_Tentacle> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/LucasArts> .
+<http://videogame-kg.org/resource/Joust> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Business_simulation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Intelligent_Systems> <http://www.w3.org/2000/01/rdf-schema#label> "Intelligent Systems"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Realtime_tactics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/It_Takes_Two> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/New_Super_Mario_Bros_Wii> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Nintendo_EAD> .
+<http://videogame-kg.org/resource/Cyberpunk_2077> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Combat> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Atari_2600> .
+<http://videogame-kg.org/resource/Inc> <http://www.w3.org/2000/01/rdf-schema#label> "Inc."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Dishonored_2> <http://videogame-kg.org/ontology#hasTitle> "Dishonored 2"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Dishonored_2> <http://videogame-kg.org/ontology#releaseYear> "2016"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Overwatch> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Blizzard_Entertainment> .
+<http://videogame-kg.org/resource/Braid> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/Xbox_360> .
+<http://videogame-kg.org/resource/Baldurs_Gate> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/BioWare> .
+<http://videogame-kg.org/resource/Wii_Sports_Resort> <http://videogame-kg.org/ontology#releaseYear> "2009"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Action> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Arcade> .
+<http://videogame-kg.org/resource/Civilization_V> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Firaxis_Games> .
+<http://videogame-kg.org/resource/Stealth> <http://www.w3.org/2000/01/rdf-schema#label> "Stealth"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Tower_defense> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/PopCap_Games> .
+<http://videogame-kg.org/resource/Wii_USwitch> <http://www.w3.org/2000/01/rdf-schema#label> "Wii U/Switch"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Xbox_One> <http://www.w3.org/2000/01/rdf-schema#label> "Xbox One"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Shoot_em_up> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Inc> .
+<http://videogame-kg.org/resource/Racing> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Arcade> .
+<http://videogame-kg.org/resource/ReLogic> <http://www.w3.org/2000/01/rdf-schema#label> "Re-Logic"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Black_Myth_Wukong> <http://videogame-kg.org/ontology#salesMillions> "28.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/Call_of_Duty_Black_Ops> <http://videogame-kg.org/ontology#hasTitle> "Call of Duty: Black Ops"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Kart_racing> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Nintendo> .
+<http://videogame-kg.org/resource/Baldurs_Gate_II_Shadows_of_Amn> <http://videogame-kg.org/ontology#releaseYear> "2000"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Baldurs_Gate_3> <http://videogame-kg.org/ontology#releaseYear> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Call_of_Duty_Black_Ops> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Blizzard_Entertainment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Age_of_Empires> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Realtime_strategy> .
+<http://videogame-kg.org/resource/PCMac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Kinetic_Games> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Mega_Man_2> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/NES> .
+<http://videogame-kg.org/resource/Wii_Play> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Nintendo> .
+<http://videogame-kg.org/resource/Celeste> <http://videogame-kg.org/ontology#releaseYear> "2018"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/ontology#Genre> <http://www.w3.org/2000/01/rdf-schema#label> "Genre" .
+<http://videogame-kg.org/resource/Insomniac_Games> <http://www.w3.org/2000/01/rdf-schema#label> "Insomniac Games"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Assassins_Creed_IV_Black_Flag> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/Xbox_One> .
+<http://videogame-kg.org/resource/Business_simulation> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Electronic_Arts> .
+<http://videogame-kg.org/resource/Elorg> <http://www.w3.org/2000/01/rdf-schema#label> "Elorg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Mega_Man_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Sega_AM2> <http://www.w3.org/2000/01/rdf-schema#label> "Sega AM2"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Grand_Theft_Auto_San_Andreas> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Rockstar_North> .
+<http://videogame-kg.org/resource/MMORPG> <http://videogame-kg.org/ontology#hasTitle> "MMORPG"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/ontology#hasTitle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://videogame-kg.org/resource/Rockstar_North> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Beyond_Good__Evil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Disco_Elysium> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/PC> .
+<http://videogame-kg.org/resource/Age_of_Empires_II> <http://videogame-kg.org/ontology#hasTitle> "Age of Empires II"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Borderlands_2> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Gearbox_Software> .
+<http://videogame-kg.org/resource/Beat_em_up> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Technōs_Japan> .
+<http://videogame-kg.org/resource/Baldurs_Gate_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Nintendo_EAD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Grand_Theft_Auto_V> <http://videogame-kg.org/ontology#hasTitle> "Grand Theft Auto V"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Business_simulation> <http://videogame-kg.org/ontology#hasTitle> "Business simulation"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Braid> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Microsoft_Game_Studios> .
+<http://videogame-kg.org/resource/Space_Invaders> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Taito> .
+<http://videogame-kg.org/resource/Pokémon_GoldSilverCrystal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Batman_Arkham_City> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Actionadventure> .
+<http://videogame-kg.org/resource/The_Oregon_Trail> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/HP_2100> .
+<http://videogame-kg.org/resource/Facepunch_Studios> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Roguelike> <http://videogame-kg.org/ontology#hasTitle> "Roguelike"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Strategy> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Creative_Assembly> .
+<http://videogame-kg.org/resource/Contra> <http://videogame-kg.org/ontology#releaseYear> "1987"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Baldurs_Gate_3> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/PC> .
+<http://videogame-kg.org/resource/New_Super_Mario_Bros> <http://videogame-kg.org/ontology#hasTitle> "New Super Mario Bros."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/The_Oregon_Trail> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/New_Super_Mario_Bros_Wii> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Nintendo> .
+<http://videogame-kg.org/resource/Microsoft_Game_Studios> <http://www.w3.org/2000/01/rdf-schema#label> "Microsoft Game Studios"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Beat_em_up> <http://videogame-kg.org/ontology#hasTitle> "Beat 'em up"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Tetris> <http://videogame-kg.org/ontology#releaseYear> "1988"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Borderlands_2> <http://videogame-kg.org/ontology#releaseYear> "2012"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Survival_horror> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Capcom> .
+<http://videogame-kg.org/resource/Burnout_3_Takedown> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Electronic_Arts> .
+<http://videogame-kg.org/resource/Block_breaker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/PC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Survival_horror> <http://videogame-kg.org/ontology#hasTitle> "Survival horror"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/The_Last_of_UsRemastered> <http://videogame-kg.org/ontology#releaseYear> "2013"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/New_Super_Mario_Bros> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Sandbox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Pong> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Arcade> .
+<http://videogame-kg.org/resource/PCMacPS4Xbox_One> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Blizzard_Entertainment> <http://www.w3.org/2000/01/rdf-schema#label> "Blizzard Entertainment"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Digital_collectible_card> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Blizzard_Entertainment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/PlayStation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Baldurs_Gate_II_Shadows_of_Amn> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/BioWare> .
+<http://videogame-kg.org/resource/Delphine_Software> <http://www.w3.org/2000/01/rdf-schema#label> "Delphine Software"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Run_and_gun> <http://videogame-kg.org/ontology#hasTitle> "Run and gun"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Team17> <http://www.w3.org/2000/01/rdf-schema#label> "Team17"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Criterion_Games> <http://www.w3.org/2000/01/rdf-schema#label> "Criterion Games"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Wii_Sports> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Alien_Isolation> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Survival_horror> .
+<http://videogame-kg.org/resource/Human_Fall_Flat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Pokémon_SunMoonUltra_SunUltra_Moon> <http://videogame-kg.org/ontology#releaseYear> "2016"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Arkane_Lyon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Elden_Ring> <http://videogame-kg.org/ontology#salesMillions> "30.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/Remedy_Entertainment> <http://www.w3.org/2000/01/rdf-schema#label> "Remedy Entertainment"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Borderlands_2> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/PC> .
+<http://videogame-kg.org/resource/The_Oregon_Trail> <http://videogame-kg.org/ontology#hasTitle> "The Oregon Trail"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Infocom> <http://www.w3.org/2000/01/rdf-schema#label> "Infocom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/NintendoThe_Pokémon_Company> <http://www.w3.org/2000/01/rdf-schema#label> "Nintendo/The Pokémon Company"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Virgin_Games> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Call_of_Duty_Black_Ops_III> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Action> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Shoot_em_up> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Atari> .
+<http://videogame-kg.org/resource/Beyond_Good__Evil> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Actionadventure> .
+<http://videogame-kg.org/resource/The_Oregon_Trail> <http://videogame-kg.org/ontology#releaseYear> "1971"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/ontology#Platform> <http://www.w3.org/2000/01/rdf-schema#label> "Platform" .
+<http://videogame-kg.org/resource/God_game> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Amiga> .
+<http://videogame-kg.org/resource/Age_of_Empires> <http://videogame-kg.org/ontology#hasTitle> "Age of Empires"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Maze> <http://videogame-kg.org/ontology#hasTitle> "Maze"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Wii_Sports_Resort> <http://videogame-kg.org/ontology#salesMillions> "33.14"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/Technōs_Japan> <http://www.w3.org/2000/01/rdf-schema#label> "Technōs Japan"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/THQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Burnout_3_Takedown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Wii_Sports_Resort> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Nintendo_EAD> .
+<http://videogame-kg.org/resource/Pokémon_SunMoonUltra_SunUltra_Moon> <http://videogame-kg.org/ontology#salesMillions> "25.59"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/LinuxMacNintendo_SwitchPCPS4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Space_flight_simulator> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/PC> .
+<http://videogame-kg.org/resource/Puzzle> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Elorg> .
+<http://videogame-kg.org/resource/Hack_and_slash> <http://www.w3.org/2000/01/rdf-schema#label> "Hack and slash"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Baldurs_Gate> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Black_Isle_StudiosInterplay_Entertainment> .
+<http://videogame-kg.org/resource/Topdown_shooter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Monster_Hunter_World> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Wii_U> <http://www.w3.org/2000/01/rdf-schema#label> "Wii U"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Daytona_USA> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Sega_AM2> .
+<http://videogame-kg.org/resource/Stealth> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Konami_Computer_Entertainment_Japan> .
+<http://videogame-kg.org/resource/Roguelike> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/PCMacNintendo_Switch> .
+<http://videogame-kg.org/resource/Borderlands_2> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/PS3> .
+<http://videogame-kg.org/resource/Overwatch> <http://videogame-kg.org/ontology#hasTitle> "Overwatch"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Vehicle_simulation> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Atari> .
+<http://videogame-kg.org/resource/Call_of_Duty_Black_Ops> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Treyarch> .
+<http://videogame-kg.org/resource/The_Witcher_3_Wild_Hunt> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/CD_Projekt> .
+<http://videogame-kg.org/resource/Xbox_360> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Platform> .
+<http://videogame-kg.org/resource/Dishonored_2> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/PS4> .
+<http://videogame-kg.org/resource/Super_Mario_Odyssey> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Nintendo_EPD> .
+<http://videogame-kg.org/resource/Borderlands_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Dishonored_2> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/PC> .
+<http://videogame-kg.org/resource/Hogwarts_Legacy> <http://videogame-kg.org/ontology#salesMillions> "40.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/Super_Mario_Bros> <http://videogame-kg.org/ontology#salesMillions> "58.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/Rovio_Entertainment> <http://www.w3.org/2000/01/rdf-schema#label> "Rovio Entertainment"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Virgin_Games> <http://www.w3.org/2000/01/rdf-schema#label> "Virgin Games"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Apple_II> <http://www.w3.org/2000/01/rdf-schema#label> "Apple II"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/The_Oregon_Trail> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Don_Rawitsch_Bill_Heinemann_and_Paul_Dillenberger> .
+<http://videogame-kg.org/resource/Contra> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Konami> .
+<http://videogame-kg.org/resource/Atari_8bitCommodore_64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Animal_Crossing_New_Horizons> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Nintendo_EPD> .
+<http://videogame-kg.org/resource/Number_None> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/BioShock> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/2K_Games> .
+<http://videogame-kg.org/resource/Bloodborne> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Action_roleplaying> .
+<http://videogame-kg.org/resource/Actionadventure> <http://videogame-kg.org/ontology#hasTitle> "Action-adventure"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Super_NES> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/The_Witcher_3_Wild_Hunt> <http://videogame-kg.org/ontology#releaseYear> "2015"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/The_Oregon_Trail> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/MECC> .
+<http://videogame-kg.org/resource/Garrys_Mod> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Facepunch_Studios> .
+<http://videogame-kg.org/resource/Call_of_Duty_Modern_Warfare> <http://videogame-kg.org/ontology#salesMillions> "41.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/Alien_Isolation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Wii_Sports> <http://videogame-kg.org/ontology#salesMillions> "82.9"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/Insomniac_Games> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Space_flight_simulator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Another_World> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Atari_2600> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Angry_Birds> <http://videogame-kg.org/ontology#releaseYear> "2009"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Curve_Digital> <http://www.w3.org/2000/01/rdf-schema#label> "Curve Digital"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Bloodborne> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/FromSoftware> .
+<http://videogame-kg.org/resource/PS2> <http://www.w3.org/2000/01/rdf-schema#label> "PS2"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Life_simulation> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Maxis> .
+<http://videogame-kg.org/resource/Final_Fight> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Beat_em_up> .
+<http://videogame-kg.org/resource/Racing> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Sega> .
+<http://videogame-kg.org/resource/Apogee_Software> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Beat_em_up> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Taito> .
+<http://videogame-kg.org/resource/PUBG_Battlegrounds> <http://videogame-kg.org/ontology#hasTitle> "PUBG: Battlegrounds"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Pokémon_SunMoonUltra_SunUltra_Moon> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/NintendoThe_Pokémon_Company> .
+<http://videogame-kg.org/resource/NanaOnSha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/AmigaPC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Pokémon_SunMoonUltra_SunUltra_Moon> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Game_Freak> .
+<http://videogame-kg.org/resource/Adventure> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Bandai_Namco_StudiosSora_Ltd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Call_of_Duty_Black_Ops_III> <http://videogame-kg.org/ontology#releaseYear> "2015"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Gathering_of_Developers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/LucasArts> <http://www.w3.org/2000/01/rdf-schema#label> "LucasArts"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Turnbased_strategy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Baldurs_Gate_3> <http://videogame-kg.org/ontology#hasTitle> "Baldur's Gate 3"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Maxis> <http://www.w3.org/2000/01/rdf-schema#label> "Maxis"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/CD_Projekt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Pokémon_RedBlueYellow> <http://videogame-kg.org/ontology#salesMillions> "47.44"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/Civilization_V> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Electronika_60> <http://www.w3.org/2000/01/rdf-schema#label> "Electronika 60"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Joust> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Williams_Electronics> .
+<http://videogame-kg.org/resource/Game_Boy_Color> <http://www.w3.org/2000/01/rdf-schema#label> "Game Boy Color"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Duck_Hunt> <http://videogame-kg.org/ontology#salesMillions> "28.3"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/The_Last_of_UsRemastered> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Sony_Computer_Entertainment> .
+<http://videogame-kg.org/resource/Braid> <http://videogame-kg.org/ontology#releaseYear> "2008"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Pokémon_GoldSilverCrystal> <http://videogame-kg.org/ontology#salesMillions> "30.12"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/ontology#Developer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://videogame-kg.org/resource/Baldurs_Gate_II_Shadows_of_Amn> <http://videogame-kg.org/ontology#hasTitle> "Baldur's Gate II: Shadows of Amn"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Batman_Arkham_City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Thirdperson_shooter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Burnout_3_Takedown> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Racing> .
+<http://videogame-kg.org/resource/HP_2100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Platform> .
+<http://videogame-kg.org/resource/Firstperson_shooter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Day_of_the_Tentacle> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Adventure> .
+<http://videogame-kg.org/resource/Valve_Corporation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Kinetic_Games> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Super_Smash_Bros_Ultimate> <http://videogame-kg.org/ontology#hasTitle> "Super Smash Bros. Ultimate"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Mojang_Studios> <http://www.w3.org/2000/01/rdf-schema#label> "Mojang Studios"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Atari_Inc> <http://www.w3.org/2000/01/rdf-schema#label> "Atari, Inc."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Sony_Computer_Entertainment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Strategy> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Activision> .
+<http://videogame-kg.org/ontology#hasGenre> <http://www.w3.org/2000/01/rdf-schema#range> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Batman_Arkham_City> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/PS3> .
+<http://videogame-kg.org/resource/Celeste> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/LinuxMacNintendo_SwitchPCPS4> .
+<http://videogame-kg.org/resource/Dishonored_2> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/Xbox_One> .
+<http://videogame-kg.org/resource/Combat> <http://videogame-kg.org/ontology#releaseYear> "1977"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Chrono_Trigger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/No_Brakes_Games> <http://www.w3.org/2000/01/rdf-schema#label> "No Brakes Games"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Life_simulation> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Electronic_Arts> .
+<http://videogame-kg.org/resource/Rail_shooter> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Atari> .
+<http://videogame-kg.org/resource/Terraria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/MECC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Pokémon_GoldSilverCrystal> <http://videogame-kg.org/ontology#hasTitle> "Pokémon Gold/Silver/Crystal"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/SirTech> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Archon_The_Light_and_the_Dark> <http://videogame-kg.org/ontology#releaseYear> "1983"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Combat> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Topdown_shooter> .
+<http://videogame-kg.org/resource/Actionadventure> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/NES> .
+<http://videogame-kg.org/resource/Civilization_II> <http://videogame-kg.org/ontology#hasTitle> "Civilization II"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/BBC_Micro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Platform> .
+<http://videogame-kg.org/resource/Duck_Hunt> <http://videogame-kg.org/ontology#hasTitle> "Duck Hunt"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/2K_Games> <http://www.w3.org/2000/01/rdf-schema#label> "2K Games"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Hazelight_Studios> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/PS3PS4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Platform> .
+<http://videogame-kg.org/resource/Advance_Wars> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Creative_Assembly> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/PUBG_Battlegrounds> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Krafton> .
+<http://videogame-kg.org/resource/Shoot_em_up> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Arcade> .
+<http://videogame-kg.org/resource/Realtime_tactics> <http://videogame-kg.org/ontology#hasTitle> "Real-time tactics"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Chrono_Trigger> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Square> .
+<http://videogame-kg.org/resource/Beat_em_up> <http://www.w3.org/2000/01/rdf-schema#label> "Beat 'em up"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Ubisoft> <http://www.w3.org/2000/01/rdf-schema#label> "Ubisoft"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Human_Fall_Flat> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/No_Brakes_Games> .
+<http://videogame-kg.org/resource/Garrys_Mod> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Valve> .
+<http://videogame-kg.org/resource/Angry_Birds> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Rovio_Entertainment> .
+<http://videogame-kg.org/resource/Animal_Crossing_New_Horizons> <http://videogame-kg.org/ontology#salesMillions> "49.32"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/Baldurs_Gate> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Roleplaying> .
+<http://videogame-kg.org/resource/Digital_collectible_card> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/PCMac> .
+<http://videogame-kg.org/resource/Overwatch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/CD_Projekt_Red> <http://www.w3.org/2000/01/rdf-schema#label> "CD Projekt Red"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Archon_The_Light_and_the_Dark> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Electronic_Arts> .
+<http://videogame-kg.org/resource/Ubisoft_PicturesUbisoft_Milan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Atari_8bit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Platform> .
+<http://videogame-kg.org/resource/Assassins_Creed_IV_Black_Flag> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Actionadventure> .
+<http://videogame-kg.org/resource/Space_flight_simulator> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Origin_Systems> .
+<http://videogame-kg.org/resource/Konami> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Vid_Kidz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Digital_collectible_card> <http://videogame-kg.org/ontology#hasTitle> "Digital collectible card"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Fortnite> <http://videogame-kg.org/ontology#hasTitle> "Fortnite"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Borderlands_2> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/Xbox_360> .
+<http://videogame-kg.org/resource/Ozark_Softscape> <http://www.w3.org/2000/01/rdf-schema#label> "Ozark Softscape"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Strategy> <http://videogame-kg.org/ontology#hasTitle> "Strategy"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Game_Freak> <http://www.w3.org/2000/01/rdf-schema#label> "Game Freak"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Advance_Wars> <http://videogame-kg.org/ontology#hasTitle> "Advance Wars"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/PCXbox_360> <http://www.w3.org/2000/01/rdf-schema#label> "PC,Xbox 360"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Digital_collectible_card> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Blizzard_Entertainment> .
+<http://videogame-kg.org/resource/Cyberpunk_2077> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/CD_Projekt_Red> .
+<http://videogame-kg.org/resource/Nintendo_RD4> <http://www.w3.org/2000/01/rdf-schema#label> "Nintendo R&D4"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Game_Science> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Call_of_Duty_Black_Ops_III> <http://videogame-kg.org/ontology#hasTitle> "Call of Duty: Black Ops III"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Super_Smash_Bros_Ultimate> <http://videogame-kg.org/ontology#salesMillions> "37.44"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/ontology#hasDeveloper> <http://www.w3.org/2000/01/rdf-schema#domain> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/PS3PS4> <http://www.w3.org/2000/01/rdf-schema#label> "PS3/PS4"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Alone_in_the_Dark> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Infogrames> .
+<http://videogame-kg.org/resource/Run_and_gun> <http://www.w3.org/2000/01/rdf-schema#label> "Run and gun"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Dishonored_2> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Arkane_Lyon> .
+<http://videogame-kg.org/resource/Beyond_Good__Evil> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Ubisoft_PicturesUbisoft_Milan> .
+<http://videogame-kg.org/resource/Sports> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Nintendo_RD3> .
+<http://videogame-kg.org/resource/Sega_AM2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Thirdperson_shooter> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Remedy_Entertainment> .
+<http://videogame-kg.org/resource/Activision> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Electronic_Arts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Krafton> <http://www.w3.org/2000/01/rdf-schema#label> "Krafton"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Remedy_Entertainment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Stealth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Elite> <http://videogame-kg.org/ontology#hasTitle> "Elite"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Bullfrog_Productions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Capcom> <http://www.w3.org/2000/01/rdf-schema#label> "Capcom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Pokémon_DiamondPearlPlatinum> <http://videogame-kg.org/ontology#hasTitle> "Pokémon Diamond/Pearl/Platinum"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Alexey_Pajitnov> <http://www.w3.org/2000/01/rdf-schema#label> "Alexey Pajitnov"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Avalanche_Software> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Wii_Sports> <http://videogame-kg.org/ontology#hasTitle> "Wii Sports"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Sony_Computer_Entertainment> <http://www.w3.org/2000/01/rdf-schema#label> "Sony Computer Entertainment"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Nintendo_EPD> <http://www.w3.org/2000/01/rdf-schema#label> "Nintendo EPD"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Nintendo_DS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Platform> .
+<http://videogame-kg.org/resource/Turnbased_strategy> <http://videogame-kg.org/ontology#hasTitle> "Turn-based strategy"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Elden_Ring> <http://videogame-kg.org/ontology#releaseYear> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Human_Fall_Flat> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Curve_Digital> .
+<http://videogame-kg.org/resource/Xbox> <http://www.w3.org/2000/01/rdf-schema#label> "Xbox"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Creative_Assembly> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Baldurs_Gate_II_Shadows_of_Amn> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Roleplaying> .
+<http://videogame-kg.org/resource/Centipede> <http://videogame-kg.org/ontology#releaseYear> "1981"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Tactical_roleplaying> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Square> .
+<http://videogame-kg.org/resource/ZAUM> <http://www.w3.org/2000/01/rdf-schema#label> "ZA/UM"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Warner_Bros> <http://www.w3.org/2000/01/rdf-schema#label> "Warner Bros."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Vehicle_simulation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Pokémon_SwordShield> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Alexey_Pajitnov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Age_of_Empires_II> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/PC> .
+<http://videogame-kg.org/resource/Arkanoid> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Arcade> .
+<http://videogame-kg.org/resource/Kinetic_Games> <http://www.w3.org/2000/01/rdf-schema#label> "Kinetic Games"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Pokémon_DiamondPearlPlatinum> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/NintendoThe_Pokémon_Company> .
+<http://videogame-kg.org/resource/Pokémon_DiamondPearlPlatinum> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Game_Freak> .
+<http://videogame-kg.org/resource/Day_of_the_Tentacle> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/PC> .
+<http://videogame-kg.org/resource/Bethesda_Softworks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Pokémon_ScarletViolet> <http://videogame-kg.org/ontology#salesMillions> "28.08"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/Garrys_Mod> <http://videogame-kg.org/ontology#salesMillions> "25.56"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/KonamiSega> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/BioShock> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/PC> .
+<http://videogame-kg.org/resource/Puzzle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Konami> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Thirdperson_shooter> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Gathering_of_Developers> .
+<http://videogame-kg.org/resource/Business_simulation> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Ozark_Softscape> .
+<http://videogame-kg.org/resource/Super_Mario_Odyssey> <http://videogame-kg.org/ontology#releaseYear> "2017"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Age_of_Empires> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Ensemble_Studios> .
+<http://videogame-kg.org/resource/SirTech> <http://www.w3.org/2000/01/rdf-schema#label> "Sir-Tech"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Grand_Theft_Auto_V> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Joust> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Arcade> .
+<http://videogame-kg.org/ontology#publishedBy> <http://www.w3.org/2002/07/owl#inverseOf> <http://videogame-kg.org/ontology#hasPublisher> .
+<http://videogame-kg.org/resource/Bloodborne> <http://videogame-kg.org/ontology#hasTitle> "Bloodborne"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Action> <http://www.w3.org/2000/01/rdf-schema#label> "Action"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Topdown_shooter> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Williams_Electronics> .
+<http://videogame-kg.org/resource/Celeste> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Platform> .
+<http://videogame-kg.org/resource/Braid> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Number_None> .
+<http://videogame-kg.org/resource/BioShock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Hogwarts_Legacy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Call_of_Duty_Modern_Warfare_3> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Infinity_WardSledgehammer> .
+<http://videogame-kg.org/resource/Sandbox> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/PCMacLinux> .
+<http://videogame-kg.org/resource/Pong> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Sports> .
+<http://videogame-kg.org/resource/Centipede> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Atari_Inc> .
+<http://videogame-kg.org/resource/Capcom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Realtime_strategy> <http://videogame-kg.org/ontology#hasTitle> "Real-time strategy"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Black_Isle_StudiosInterplay_Entertainment> <http://www.w3.org/2000/01/rdf-schema#label> "Black Isle Studios,Interplay Entertainment"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/ontology#hasPlatform> <http://www.w3.org/2000/01/rdf-schema#range> <http://videogame-kg.org/ontology#Platform> .
+<http://videogame-kg.org/resource/Fortnite> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Thirdperson_shooter> .
+<http://videogame-kg.org/resource/Konami> <http://www.w3.org/2000/01/rdf-schema#label> "Konami"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Mario_Kart_Wii> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Nintendo_EAD> .
+<http://videogame-kg.org/resource/Atari_Games> <http://www.w3.org/2000/01/rdf-schema#label> "Atari Games"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Survival_horror> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Daytona_USA> <http://videogame-kg.org/ontology#releaseYear> "1994"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Age_of_Empires_II> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/New_Super_Mario_Bros_Wii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Maddy_Makes_Games> <http://www.w3.org/2000/01/rdf-schema#label> "Maddy Makes Games"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Grand_Theft_Auto_V> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Rockstar_Games> .
+<http://videogame-kg.org/resource/David_BrabenandIan_Bell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Baldurs_Gate> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/PC> .
+<http://videogame-kg.org/resource/BBC_Micro> <http://www.w3.org/2000/01/rdf-schema#label> "BBC Micro"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Batman_Arkham_City> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/Xbox_360> .
+<http://videogame-kg.org/resource/Elden_Ring> <http://videogame-kg.org/ontology#hasTitle> "Elden Ring"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Strategy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Call_of_Duty_Modern_Warfare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Bullfrog_Productions> <http://www.w3.org/2000/01/rdf-schema#label> "Bullfrog Productions"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/The_Secret_of_Monkey_Island> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Topdown_shooter> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Vid_Kidz> .
+<http://videogame-kg.org/resource/Riot_Games> <http://www.w3.org/2000/01/rdf-schema#label> "Riot Games"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Company_of_Heroes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/ontology#hasTitle> <http://www.w3.org/2000/01/rdf-schema#domain> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Assassins_Creed_IV_Black_Flag> <http://videogame-kg.org/ontology#releaseYear> "2013"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Pokémon_SwordShield> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/Nintendo_Switch> .
+<http://videogame-kg.org/resource/CD_Projekt> <http://www.w3.org/2000/01/rdf-schema#label> "CD Projekt"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Action_roleplaying> <http://www.w3.org/2000/01/rdf-schema#label> "Action role-playing"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Namco> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Alien_Isolation> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Sega> .
+<http://videogame-kg.org/resource/The_Secret_of_Monkey_Island> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/PC> .
+<http://videogame-kg.org/resource/Pokémon_ScarletViolet> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/NintendoThe_Pokémon_Company> .
+<http://videogame-kg.org/resource/Turnbased_strategy> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/MicroProse> .
+<http://videogame-kg.org/resource/Pokémon_ScarletViolet> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Game_Freak> .
+<http://videogame-kg.org/resource/The_Legend_of_Zelda_Breath_of_the_Wild> <http://videogame-kg.org/ontology#hasTitle> "The Legend of Zelda: Breath of the Wild"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Ubisoft_PicturesUbisoft_Milan> <http://www.w3.org/2000/01/rdf-schema#label> "Ubisoft Pictures,Ubisoft Milan"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Tetris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Activision> <http://www.w3.org/2000/01/rdf-schema#label> "Activision"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Digital_Illusions_CE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Artillery> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Ocean_Software> .
+<http://videogame-kg.org/resource/Realtime_strategy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Number_None> <http://www.w3.org/2000/01/rdf-schema#label> "Number None"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Nintendo_EAD> <http://www.w3.org/2000/01/rdf-schema#label> "Nintendo EAD"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Marvels_SpiderManRemastered> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/PDP10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/ConcernedApe> <http://www.w3.org/2000/01/rdf-schema#label> "ConcernedApe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Asteroids> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Atari_Inc> .
+<http://videogame-kg.org/resource/id_Software> <http://www.w3.org/2000/01/rdf-schema#label> "id Software"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Civilization_II> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/MicroProse> .
+<http://videogame-kg.org/resource/PUBG_Battlegrounds> <http://videogame-kg.org/ontology#releaseYear> "2017"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Age_of_Empires_II> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Realtime_strategy> .
+<http://videogame-kg.org/resource/Assassins_Creed_IV_Black_Flag> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/PC> .
+<http://videogame-kg.org/resource/The_Legend_of_Zelda_Breath_of_the_Wild> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Nintendo_EPD> .
+<http://videogame-kg.org/resource/Business_simulation> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Atari_8bitCommodore_64> .
+<http://videogame-kg.org/resource/Free_Fall_Associates> <http://www.w3.org/2000/01/rdf-schema#label> "Free Fall Associates"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Acornsoft> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Arcade> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Wii_Play> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Nintendo_EAD> .
+<http://videogame-kg.org/resource/New_Super_Mario_Bros> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Nintendo_EAD> .
+<http://videogame-kg.org/resource/Electronika_60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Atari_Inc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Phasmophobia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Rockstar_North> <http://www.w3.org/2000/01/rdf-schema#label> "Rockstar North"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Topdown_shooter> <http://videogame-kg.org/ontology#releaseYear> "2084"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/PCLinux> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Wii_Sports_Resort> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/Wii> .
+<http://videogame-kg.org/resource/Advance_Wars> <http://videogame-kg.org/ontology#releaseYear> "2001"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Atari_8bit> <http://www.w3.org/2000/01/rdf-schema#label> "Atari 8-bit"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Phasmophobia> <http://videogame-kg.org/ontology#releaseYear> "2024"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Assassins_Creed_IV_Black_Flag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/God_game> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Bullfrog_Productions> .
+<http://videogame-kg.org/resource/Black_Myth_Wukong> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Game_Science> .
+<http://videogame-kg.org/resource/It_Takes_Two> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Hazelight_Studios> .
+<http://videogame-kg.org/resource/Beyond_Good__Evil> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Ubisoft> .
+<http://videogame-kg.org/resource/Williams_Electronics> <http://www.w3.org/2000/01/rdf-schema#label> "Williams Electronics"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Stealth> <http://videogame-kg.org/ontology#hasTitle> "Stealth"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/ontology#hasPublisher> <http://www.w3.org/2000/01/rdf-schema#domain> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/BioShock> <http://videogame-kg.org/ontology#hasTitle> "BioShock"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Rail_shooter> <http://videogame-kg.org/ontology#hasTitle> "Rail shooter"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Wii_Sports> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Nintendo_EAD> .
+<http://videogame-kg.org/resource/Civilization_V> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Turnbased_strategy> .
+<http://videogame-kg.org/resource/Age_of_Empires> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Action_roleplaying> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Phasmophobia> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Kinetic_Games> .
+<http://videogame-kg.org/resource/God_game> <http://videogame-kg.org/ontology#hasTitle> "God game"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Animal_Crossing_New_Horizons> <http://videogame-kg.org/ontology#releaseYear> "2020"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Another_World> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Delphine_Software> .
+<http://videogame-kg.org/ontology#Game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://videogame-kg.org/resource/Ubisoft_Montreal> <http://www.w3.org/2000/01/rdf-schema#label> "Ubisoft Montreal"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Assassins_Creed_IV_Black_Flag> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/PS3> .
+<http://videogame-kg.org/resource/Realtime_strategy> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/PC> .
+<http://videogame-kg.org/resource/Inc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/2K_Boston2K_Australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Puzzleplatform> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/PCXbox_360> .
+<http://videogame-kg.org/resource/Batman_Arkham_City> <http://videogame-kg.org/ontology#hasTitle> "Batman: Arkham City"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/MicroProse> <http://www.w3.org/2000/01/rdf-schema#label> "MicroProse"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Nintendo_EAD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/NES> <http://www.w3.org/2000/01/rdf-schema#label> "NES"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Battlefield_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Call_of_Duty_Modern_Warfare_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/id_Software> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Company_of_Heroes> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Realtime_strategy> .
+<http://videogame-kg.org/resource/Pokémon_DiamondPearlPlatinum> <http://videogame-kg.org/ontology#salesMillions> "25.5"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/Firstperson_shooter> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/id_Software> .
+<http://videogame-kg.org/resource/BioWare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Celeste> <http://videogame-kg.org/ontology#hasTitle> "Celeste"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Strategy> <http://www.w3.org/2000/01/rdf-schema#label> "Strategy"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Team17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Chrono_Trigger> <http://videogame-kg.org/ontology#releaseYear> "1995"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Mario_Kart_8Deluxe> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Nintendo_EADNintendo_EPDDeluxe> .
+<http://videogame-kg.org/resource/Super_Smash_Bros_Ultimate> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Nintendo> .
+<http://videogame-kg.org/resource/Topdown_shooter> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Arcade> .
+<http://videogame-kg.org/resource/Sports> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Nintendo> .
+<http://videogame-kg.org/resource/Phasmophobia> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Kinetic_Games> .
+<http://videogame-kg.org/resource/Pokémon_SunMoonUltra_SunUltra_Moon> <http://videogame-kg.org/ontology#hasTitle> "Pokémon Sun/Moon/Ultra Sun/Ultra Moon"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/MMORPG> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Electronic_Arts> .
+<http://videogame-kg.org/resource/Combat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Wii> <http://www.w3.org/2000/01/rdf-schema#label> "Wii"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Thirdperson_shooter> <http://videogame-kg.org/ontology#hasTitle> "Third-person shooter"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Advance_Wars> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Turnbased_strategy> .
+<http://videogame-kg.org/resource/Battlefield_2> <http://videogame-kg.org/ontology#hasTitle> "Battlefield 2"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Wii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Platform> .
+<http://videogame-kg.org/resource/The_Legend_of_Zelda_Breath_of_the_Wild> <http://videogame-kg.org/ontology#salesMillions> "35.34"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/Centipede> <http://videogame-kg.org/ontology#hasTitle> "Centipede"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Racing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Final_Fight> <http://videogame-kg.org/ontology#releaseYear> "1989"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Daytona_USA> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Racing> .
+<http://videogame-kg.org/resource/Wii_Sports_Resort> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Turnbased_strategy> <http://www.w3.org/2000/01/rdf-schema#label> "Turn-based strategy"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Disco_Elysium> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Roleplaying> .
+<http://videogame-kg.org/resource/Advance_Wars> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Intelligent_Systems> .
+<http://videogame-kg.org/resource/LinuxMacNintendo_SwitchPCPS4> <http://www.w3.org/2000/01/rdf-schema#label> "Linux,Mac,Nintendo Switch,PC,PS4"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Fighting> <http://videogame-kg.org/ontology#hasTitle> "Fighting"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/BioShock> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/Xbox_360> .
+<http://videogame-kg.org/resource/Rockstar_Games> <http://www.w3.org/2000/01/rdf-schema#label> "Rockstar Games"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Artillery> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Team17> .
+<http://videogame-kg.org/resource/Braid> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Puzzleplatform> .
+<http://videogame-kg.org/resource/The_Secret_of_Monkey_Island> <http://videogame-kg.org/ontology#hasTitle> "The Secret of Monkey Island"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Nintendo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/BioShock> <http://videogame-kg.org/ontology#releaseYear> "2007"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/The_Oregon_Trail> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Strategy> .
+<http://videogame-kg.org/resource/Sega> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Grand_Theft_Auto_San_Andreas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Battlefield_1942> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Baldurs_Gate_3> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Roleplaying> .
+<http://videogame-kg.org/resource/Civilization_V> <http://videogame-kg.org/ontology#hasTitle> "Civilization V"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/The_Legend_of_Zelda_Breath_of_the_Wild> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Nintendo> .
+<http://videogame-kg.org/resource/Grand_Theft_Auto_San_Andreas> <http://videogame-kg.org/ontology#releaseYear> "2004"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Nintendo_RD1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Super_Mario_Odyssey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Arcade> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Platform> .
+<http://videogame-kg.org/resource/PCMacPS4Xbox_One> <http://www.w3.org/2000/01/rdf-schema#label> "PC,Mac,PS4,Xbox One"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/MMORPG> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/PCLinux> .
+<http://videogame-kg.org/resource/Monster_Hunter_World> <http://videogame-kg.org/ontology#hasTitle> "Monster Hunter: World"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Day_of_the_Tentacle> <http://videogame-kg.org/ontology#hasTitle> "Day of the Tentacle"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Archon_The_Light_and_the_Dark> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/Atari_8bit> .
+<http://videogame-kg.org/resource/Atari_Games> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Terraria> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/ReLogic> .
+<http://videogame-kg.org/resource/Overwatch> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Blizzard_Entertainment> .
+<http://videogame-kg.org/resource/Call_of_Duty_Modern_Warfare_3> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Activision> .
+<http://videogame-kg.org/resource/Assassins_Creed_IV_Black_Flag> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Ubisoft_Montreal> .
+<http://videogame-kg.org/resource/Sandbox> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Mojang_Studios> .
+<http://videogame-kg.org/resource/Pokémon_SwordShield> <http://videogame-kg.org/ontology#releaseYear> "2019"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/ReLogic505_Games> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Tower_defense> <http://videogame-kg.org/ontology#hasTitle> "Tower defense"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Topdown_shooter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Terraria> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/ReLogic505_Games> .
+<http://videogame-kg.org/resource/Alone_in_the_Dark> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/PC> .
+<http://videogame-kg.org/resource/NintendoThe_Pokémon_Company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Bloodborne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Grand_Theft_Auto_San_Andreas> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Rockstar_Games> .
+<http://videogame-kg.org/resource/Rhythm> <http://videogame-kg.org/ontology#hasTitle> "Rhythm"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Bandai_Namco_StudiosSora_Ltd> <http://www.w3.org/2000/01/rdf-schema#label> "Bandai Namco Studios/Sora Ltd."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Garrys_Mod> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Pong> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Atari_Inc> .
+<http://videogame-kg.org/resource/Nintendo_Switch> <http://www.w3.org/2000/01/rdf-schema#label> "Nintendo Switch"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Batman_Arkham_City> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Warner_Bros> .
+<http://videogame-kg.org/resource/Apogee_Software> <http://www.w3.org/2000/01/rdf-schema#label> "Apogee Software"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Taito> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/NanaOnSha> <http://www.w3.org/2000/01/rdf-schema#label> "NanaOn-Sha"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Pokémon_SwordShield> <http://videogame-kg.org/ontology#hasTitle> "Pokémon Sword/Shield"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Pokémon_DiamondPearlPlatinum> <http://videogame-kg.org/ontology#releaseYear> "2006"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Alone_in_the_Dark> <http://videogame-kg.org/ontology#releaseYear> "1992"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Call_of_Duty_Black_Ops> <http://videogame-kg.org/ontology#salesMillions> "26.2"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/Hogwarts_Legacy> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Warner_Bros_Games> .
+<http://videogame-kg.org/resource/Topdown_shooter> <http://videogame-kg.org/ontology#hasTitle> "Top-down shooter"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Game_Boy_Advance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Platform> .
+<http://videogame-kg.org/resource/Advance_Wars> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Nintendo> .
+<http://videogame-kg.org/resource/Nintendo_RD1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Animal_Crossing_New_Horizons> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/ontology#salesMillions> <http://www.w3.org/2000/01/rdf-schema#domain> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Red_Dead_Redemption2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/KonamiSega> <http://www.w3.org/2000/01/rdf-schema#label> "Konami,Sega"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Call_of_Duty_Modern_Warfare> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Infinity_Ward> .
+<http://videogame-kg.org/resource/The_Witcher_3_Wild_Hunt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Actionadventure> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Nintendo_RD4> .
+<http://videogame-kg.org/resource/Fortnite> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Epic_Games> .
+<http://videogame-kg.org/resource/Survival_horror> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/PlayStation> .
+<http://videogame-kg.org/resource/Atari> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Civilization_II> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Turnbased_strategy> .
+<http://videogame-kg.org/resource/Day_of_the_Tentacle> <http://videogame-kg.org/ontology#releaseYear> "1993"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Final_Fight> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Capcom> .
+<http://videogame-kg.org/resource/Roleplaying> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Apple_II> .
+<http://videogame-kg.org/resource/Xbox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Platform> .
+<http://videogame-kg.org/resource/Assassins_Creed_IV_Black_Flag> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/Xbox_360> .
+<http://videogame-kg.org/resource/Super_Smash_Bros_Ultimate> <http://videogame-kg.org/ontology#releaseYear> "2018"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Space_flight_simulator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/New_Super_Mario_Bros> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/Nintendo_DS> .
+<http://videogame-kg.org/resource/Nintendo> <http://www.w3.org/2000/01/rdf-schema#label> "Nintendo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Sandbox> <http://videogame-kg.org/ontology#hasTitle> "Sandbox"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Citybuilding> <http://videogame-kg.org/ontology#hasTitle> "City-building"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/ontology#Platform> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://videogame-kg.org/resource/Battlefield_1942> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Digital_Illusions_CE> .
+<http://videogame-kg.org/resource/Call_of_Duty_Modern_Warfare> <http://videogame-kg.org/ontology#releaseYear> "2019"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Elite> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Age_of_Empires> <http://videogame-kg.org/ontology#releaseYear> "1997"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Platform> <http://videogame-kg.org/ontology#hasTitle> "Platform"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Roguelike> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Supergiant_Games> .
+<http://videogame-kg.org/ontology> <http://www.w3.org/2000/01/rdf-schema#label> "Video Game Knowledge Graph Ontology" .
+<http://videogame-kg.org/resource/Nintendo_3DS> <http://www.w3.org/2000/01/rdf-schema#label> "Nintendo 3DS"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Bloodborne> <http://videogame-kg.org/ontology#releaseYear> "2015"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Rocksteady_Studios> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/THQ> <http://www.w3.org/2000/01/rdf-schema#label> "THQ"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Puzzleplatform> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Valve_Corporation> .
+<http://videogame-kg.org/resource/Advance_Wars> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/Game_Boy_Advance> .
+<http://videogame-kg.org/resource/Red_Dead_Redemption2> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Rockstar_Games> .
+<http://videogame-kg.org/resource/MicroProse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Battlefield_2> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Firstperson_shooter> .
+<http://videogame-kg.org/resource/Elite> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Space_flight_simulator> .
+<http://videogame-kg.org/resource/Run_and_gun> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Super_NES> .
+<http://videogame-kg.org/resource/God_game> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Electronic_Arts> .
+<http://videogame-kg.org/resource/Elite> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/David_BrabenandIan_Bell> .
+<http://videogame-kg.org/resource/Daytona_USA> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Sega> .
+<http://videogame-kg.org/resource/Puzzle> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Electronika_60> .
+<http://videogame-kg.org/resource/Warner_Bros_Games> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/PS4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Platform> .
+<http://videogame-kg.org/resource/Rockstar_Games> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Battlefield_1942> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/PC> .
+<http://videogame-kg.org/resource/Pong> <http://videogame-kg.org/ontology#hasTitle> "Pong"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Action> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/KonamiSega> .
+<http://videogame-kg.org/resource/PCMacNintendo_Switch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Puzzle> <http://videogame-kg.org/ontology#hasTitle> "Puzzle"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Treyarch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Firaxis_Games> <http://www.w3.org/2000/01/rdf-schema#label> "Firaxis Games"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Fortnite> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Platform> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Citybuilding> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/AmigaMac> .
+<http://videogame-kg.org/resource/Company_of_Heroes> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/THQ> .
+<http://videogame-kg.org/resource/Adventure> <http://videogame-kg.org/ontology#hasTitle> "Adventure"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Farm_life_simulation> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/ConcernedApe> .
+<http://videogame-kg.org/resource/The_Legend_of_Zelda_Breath_of_the_Wild> <http://videogame-kg.org/ontology#releaseYear> "2017"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Puzzleplatform> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Sports> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/NES> .
+<http://videogame-kg.org/resource/Celeste> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Farm_life_simulation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Pokémon_RedBlueYellow> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Game_Freak> .
+<http://videogame-kg.org/resource/FromSoftware> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Famicom__NES> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Platform> .
+<http://videogame-kg.org/resource/Rail_shooter> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Arcade> .
+<http://videogame-kg.org/resource/Company_of_Heroes> <http://videogame-kg.org/ontology#releaseYear> "2006"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Gauntlet> <http://videogame-kg.org/ontology#hasTitle> "Gauntlet"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Bloodborne> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/PS4> .
+<http://videogame-kg.org/resource/Artillery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/PCMac> <http://www.w3.org/2000/01/rdf-schema#label> "PC,Mac"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/MicroProse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Rovio_Entertainment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Ozark_Softscape> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Dishonored_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Duck_Hunt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Cyberpunk_2077> <http://videogame-kg.org/ontology#hasTitle> "Cyberpunk 2077"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Battlefield_1942> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Firstperson_shooter> .
+<http://videogame-kg.org/resource/Alone_in_the_Dark> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Survival_horror> .
+<http://videogame-kg.org/resource/Monster_Hunter_World> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Capcom> .
+<http://videogame-kg.org/resource/Westwood_Studios> <http://www.w3.org/2000/01/rdf-schema#label> "Westwood Studios"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/PUBG_Studios> <http://www.w3.org/2000/01/rdf-schema#label> "PUBG Studios"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Space_Invaders> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Roleplaying> <http://www.w3.org/2000/01/rdf-schema#label> "Role-playing"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Wii_FitPlus> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Nintendo> .
+<http://videogame-kg.org/resource/PCLinux> <http://www.w3.org/2000/01/rdf-schema#label> "PC,Linux"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Grand_Theft_Auto_V> <http://videogame-kg.org/ontology#salesMillions> "225.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/Warner_Bros> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Pokémon_GoldSilverCrystal> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/Game_Boy_Color> .
+<http://videogame-kg.org/resource/Daytona_USA> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/Arcade> .
+<http://videogame-kg.org/ontology#hasDeveloper> <http://www.w3.org/2000/01/rdf-schema#range> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Super_NES> <http://www.w3.org/2000/01/rdf-schema#label> "Super NES"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Digital_Illusions_CE> <http://www.w3.org/2000/01/rdf-schema#label> "Digital Illusions CE"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Sports> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Infogrames> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Valve_Corporation> <http://www.w3.org/2000/01/rdf-schema#label> "Valve Corporation"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Famicom__NES> <http://www.w3.org/2000/01/rdf-schema#label> "Famicom / NES"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/ReLogic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Wii_Play> <http://videogame-kg.org/ontology#hasTitle> "Wii Play"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Grand_Theft_Auto_San_Andreas> <http://videogame-kg.org/ontology#salesMillions> "27.5"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/Duck_Hunt> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Nintendo_RD1> .
+<http://videogame-kg.org/resource/Nintendo_Switch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Platform> .
+<http://videogame-kg.org/resource/Farm_life_simulation> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/PC> .
+<http://videogame-kg.org/resource/Atari> <http://www.w3.org/2000/01/rdf-schema#label> "Atari"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/PS2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Platform> .
+<http://videogame-kg.org/resource/Fighting> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Capcom> .
+<http://videogame-kg.org/resource/MOBA> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Riot_Games> .
+<http://videogame-kg.org/resource/Space_Invaders> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Shoot_em_up> .
+<http://videogame-kg.org/resource/Chrono_Trigger> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Roleplaying> .
+<http://videogame-kg.org/resource/Black_Myth_Wukong> <http://videogame-kg.org/ontology#hasTitle> "Black Myth: Wukong"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Shoot_em_up> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Contra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Monster_Hunter_World> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Capcom> .
+<http://videogame-kg.org/resource/Relic_Entertainment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Call_of_Duty_Modern_Warfare_3> <http://videogame-kg.org/ontology#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Archon_The_Light_and_the_Dark> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Free_Fall_Associates> .
+<http://videogame-kg.org/resource/PCXbox_360> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Terraria> <http://videogame-kg.org/ontology#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Borderlands_2> <http://videogame-kg.org/ontology#hasTitle> "Borderlands 2"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Taito> <http://www.w3.org/2000/01/rdf-schema#label> "Taito"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Fortnite> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/PCMacPS4Xbox_One> .
+<http://videogame-kg.org/resource/Adventure> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/PDP10> .
+<http://videogame-kg.org/resource/PopCap_Games> <http://www.w3.org/2000/01/rdf-schema#label> "PopCap Games"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Marvels_SpiderManRemastered> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Insomniac_Games> .
+<http://videogame-kg.org/resource/Bandai_Namco> <http://www.w3.org/2000/01/rdf-schema#label> "Bandai Namco"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/The_Witcher_3_Wild_Hunt> <http://videogame-kg.org/ontology#hasTitle> "The Witcher 3: Wild Hunt"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Stealth> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Konami> .
+<http://videogame-kg.org/resource/Batman_Arkham_City> <http://videogame-kg.org/ontology#releaseYear> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Facepunch_Studios> <http://www.w3.org/2000/01/rdf-schema#label> "Facepunch Studios"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Larian_Studios> <http://www.w3.org/2000/01/rdf-schema#label> "Larian Studios"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Arkanoid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Survival_horror> <http://www.w3.org/2000/01/rdf-schema#label> "Survival horror"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/PC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Lucasfilm_Games> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Ensemble_Studios> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Wii_Play> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/Wii> .
+<http://videogame-kg.org/resource/Another_World> <http://videogame-kg.org/ontology#releaseYear> "1991"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Hack_and_slash> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Chucklefish> <http://www.w3.org/2000/01/rdf-schema#label> "Chucklefish"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Shoot_em_up> <http://videogame-kg.org/ontology#hasTitle> "Shoot 'em up"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Nintendo_EPD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Nintendo_3DS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Platform> .
+<http://videogame-kg.org/resource/Mario_Kart_Wii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Archon_The_Light_and_the_Dark> <http://videogame-kg.org/ontology#hasTitle> "Archon: The Light and the Dark"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Human_Fall_Flat> <http://videogame-kg.org/ontology#releaseYear> "2016"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Disco_Elysium> <http://videogame-kg.org/ontology#hasTitle> "Disco Elysium"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Blizzard_Entertainment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Actionadventure> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Nintendo> .
+<http://videogame-kg.org/resource/Kart_racing> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Super_NES> .
+<http://videogame-kg.org/resource/Chrono_Trigger> <http://videogame-kg.org/ontology#hasTitle> "Chrono Trigger"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Red_Dead_Redemption2> <http://videogame-kg.org/ontology#salesMillions> "82.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/Chrono_Trigger> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Super_NES> .
+<http://videogame-kg.org/resource/Pokémon_RedBlueYellow> <http://videogame-kg.org/ontology#releaseYear> "1996"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Ocean_Software> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Gearbox_Software> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Warner_Bros_Games> <http://www.w3.org/2000/01/rdf-schema#label> "Warner Bros. Games"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Wii_FitPlus> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/Wii> .
+<http://videogame-kg.org/resource/Joust> <http://videogame-kg.org/ontology#releaseYear> "1982"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Realtime_tactics> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Electronic_Arts> .
+<http://videogame-kg.org/resource/Angry_Birds> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Puzzle> .
+<http://videogame-kg.org/resource/Alone_in_the_Dark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Age_of_Empires_II> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Ensemble_Studios> .
+<http://videogame-kg.org/resource/Assassins_Creed_IV_Black_Flag> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/Wii_U> .
+<http://videogame-kg.org/resource/Capcom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Avalanche_Software> <http://www.w3.org/2000/01/rdf-schema#label> "Avalanche Software"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Call_of_Duty_Black_Ops> <http://videogame-kg.org/ontology#releaseYear> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Run_and_gun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/New_Super_Mario_Bros_Wii> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/Wii> .
+<http://videogame-kg.org/resource/ConcernedApe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/New_Super_Mario_Bros> <http://videogame-kg.org/ontology#releaseYear> "2006"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Topdown_shooter> <http://www.w3.org/2000/01/rdf-schema#label> "Top-down shooter"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Arkane_Lyon> <http://www.w3.org/2000/01/rdf-schema#label> "Arkane Lyon"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/AmigaMac> <http://www.w3.org/2000/01/rdf-schema#label> "Amiga,Mac"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Sony_Interactive_Entertainment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Valve> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Civilization_V> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/PC> .
+<http://videogame-kg.org/resource/Adventure> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Infocom> .
+<http://videogame-kg.org/resource/Archon_The_Light_and_the_Dark> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Strategy> .
+<http://videogame-kg.org/resource/Assassins_Creed_IV_Black_Flag> <http://videogame-kg.org/ontology#hasTitle> "Assassin's Creed IV: Black Flag"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Marvels_SpiderManRemastered> <http://videogame-kg.org/ontology#salesMillions> "26.1"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/It_Takes_Two> <http://videogame-kg.org/ontology#salesMillions> "27.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/Alien_Isolation> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/PS4> .
+<http://videogame-kg.org/resource/Hogwarts_Legacy> <http://videogame-kg.org/ontology#releaseYear> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Super_Smash_Bros_Ultimate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Bandai_Namco> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Monster_Hunter_World> <http://videogame-kg.org/ontology#salesMillions> "29.1"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/ontology#releaseYear> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://videogame-kg.org/ontology#Genre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://videogame-kg.org/resource/Alien_Isolation> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/PC> .
+<http://videogame-kg.org/resource/Mega_Man_2> <http://videogame-kg.org/ontology#releaseYear> "1988"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Call_of_Duty_Modern_Warfare> <http://videogame-kg.org/ontology#hasTitle> "Call of Duty: Modern Warfare"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Archon_The_Light_and_the_Dark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Konami_Computer_Entertainment_Japan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Gauntlet> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Hack_and_slash> .
+<http://videogame-kg.org/resource/Origin_Systems> <http://www.w3.org/2000/01/rdf-schema#label> "Origin Systems"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Hazelight_Studios> <http://www.w3.org/2000/01/rdf-schema#label> "Hazelight Studios"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/ontology#hasPublisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://videogame-kg.org/ontology#salesMillions> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/Stealth> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/PlayStation> .
+<http://videogame-kg.org/resource/Pokémon_GoldSilverCrystal> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Game_Freak> .
+<http://videogame-kg.org/resource/Wii_Play> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Pokémon_SunMoonUltra_SunUltra_Moon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Arkanoid> <http://videogame-kg.org/ontology#hasTitle> "Arkanoid"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Infinity_WardSledgehammer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Gauntlet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Wii_Sports_Resort> <http://videogame-kg.org/ontology#hasTitle> "Wii Sports Resort"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Disco_Elysium> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/ZAUM> .
+<http://videogame-kg.org/ontology#Publisher> <http://www.w3.org/2000/01/rdf-schema#label> "Publisher" .
+<http://videogame-kg.org/resource/Xbox_One> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Platform> .
+<http://videogame-kg.org/resource/Beat_em_up> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Realtime_strategy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Acornsoft> <http://www.w3.org/2000/01/rdf-schema#label> "Acornsoft"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/AmigaPC> <http://www.w3.org/2000/01/rdf-schema#label> "Amiga,PC"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Alone_in_the_Dark> <http://videogame-kg.org/ontology#hasTitle> "Alone in the Dark"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Life_simulation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Super_Mario_Odyssey> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/Nintendo_Switch> .
+<http://videogame-kg.org/resource/PUBG_Battlegrounds> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Borderlands_2> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/2K_Games> .
+<http://videogame-kg.org/resource/The_Legend_of_Zelda_Breath_of_the_Wild> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Artillery> <http://videogame-kg.org/ontology#hasTitle> "Artillery"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Ubisoft_Montreal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/It_Takes_Two> <http://videogame-kg.org/ontology#hasTitle> "It Takes Two"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/PC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Platform> .
+<http://videogame-kg.org/resource/Contra> <http://videogame-kg.org/ontology#hasTitle> "Contra"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Infinity_WardSledgehammer> <http://www.w3.org/2000/01/rdf-schema#label> "Infinity Ward/Sledgehammer"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Xbox_360> <http://www.w3.org/2000/01/rdf-schema#label> "Xbox 360"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Vehicle_simulation> <http://videogame-kg.org/ontology#hasTitle> "Vehicle simulation"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Don_Rawitsch_Bill_Heinemann_and_Paul_Dillenberger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Wii_FitPlus> <http://videogame-kg.org/ontology#salesMillions> "43.8"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/Super_NES> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Life_simulation> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/PC> .
+<http://videogame-kg.org/resource/The_Last_of_UsRemastered> <http://videogame-kg.org/ontology#salesMillions> "26.6"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/Platform> <http://www.w3.org/2000/01/rdf-schema#label> "Platform"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/ontology#hasPublisher> <http://www.w3.org/2000/01/rdf-schema#range> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Hogwarts_Legacy> <http://videogame-kg.org/ontology#hasTitle> "Hogwarts Legacy"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Mario_Kart_Wii> <http://videogame-kg.org/ontology#releaseYear> "2008"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Red_Dead_Redemption2> <http://videogame-kg.org/ontology#hasTitle> "Red Dead Redemption 2"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Mario_Kart_8Deluxe> <http://videogame-kg.org/ontology#releaseYear> "2014"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Mario_Kart_8Deluxe> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Nintendo> .
+<http://videogame-kg.org/resource/Another_World> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/AmigaAtari_ST> .
+<http://videogame-kg.org/resource/Asteroids> <http://videogame-kg.org/ontology#releaseYear> "1979"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Call_of_Duty_Black_Ops_III> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Treyarch> .
+<http://videogame-kg.org/resource/Maze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Roleplaying> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/The_Last_of_UsRemastered> <http://videogame-kg.org/ontology#hasTitle> "The Last of Us/Remastered"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/PopCap_Games> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Combat> <http://videogame-kg.org/ontology#hasTitle> "Combat"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/ontology#Game> <http://www.w3.org/2000/01/rdf-schema#label> "Game" .
+<http://videogame-kg.org/resource/Farm_life_simulation> <http://videogame-kg.org/ontology#hasTitle> "Farm life simulation"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Action_roleplaying> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Call_of_Duty_Black_Ops> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Activision> .
+<http://videogame-kg.org/resource/Elite> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/BBC_Micro> .
+<http://videogame-kg.org/resource/Kart_racing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Epic_Games> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Sports> <http://www.w3.org/2000/01/rdf-schema#label> "Sports"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Pokémon_DiamondPearlPlatinum> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/Nintendo_DS> .
+<http://videogame-kg.org/resource/Assassins_Creed_IV_Black_Flag> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Ubisoft> .
+<http://videogame-kg.org/resource/Tactical_roleplaying> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Monster_Hunter_World> <http://videogame-kg.org/ontology#releaseYear> "2018"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Daytona_USA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Super_Smash_Bros_Ultimate> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Bandai_Namco_StudiosSora_Ltd> .
+<http://videogame-kg.org/resource/Alien_Isolation> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/Xbox_One> .
+<http://videogame-kg.org/resource/Williams_Electronics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Bloodborne> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Sony_Computer_Entertainment> .
+<http://videogame-kg.org/resource/Nintendo_RD3> <http://www.w3.org/2000/01/rdf-schema#label> "Nintendo R&D3"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Rail_shooter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Block_breaker> <http://www.w3.org/2000/01/rdf-schema#label> "Block breaker"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Animal_Crossing_New_Horizons> <http://videogame-kg.org/ontology#hasTitle> "Animal Crossing: New Horizons"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Civilization_V> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/2K_Games> .
+<http://videogame-kg.org/resource/AmigaAtari_ST> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Wii_Play> <http://videogame-kg.org/ontology#salesMillions> "28.02"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/Animal_Crossing_New_Horizons> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/Nintendo_Switch> .
+<http://videogame-kg.org/resource/Konami_Computer_Entertainment_Japan> <http://www.w3.org/2000/01/rdf-schema#label> "Konami Computer Entertainment Japan"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Disco_Elysium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Terraria> <http://videogame-kg.org/ontology#hasTitle> "Terraria"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Gearbox_Software> <http://www.w3.org/2000/01/rdf-schema#label> "Gearbox Software"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Alien_Isolation> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Creative_Assembly> .
+<http://videogame-kg.org/resource/Baldurs_Gate_II_Shadows_of_Amn> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Black_Isle_StudiosInterplay_Entertainment> .
+<http://videogame-kg.org/resource/Square> <http://www.w3.org/2000/01/rdf-schema#label> "Square"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Supergiant_Games> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Centipede> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Shoot_em_up> .
+<http://videogame-kg.org/resource/Intelligent_Systems> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Nintendo_EADNintendo_EPDDeluxe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Firstperson_shooter> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Apogee_Software> .
+<http://videogame-kg.org/resource/PCMacNintendo_Switch> <http://www.w3.org/2000/01/rdf-schema#label> "PC,Mac,Nintendo Switch"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/The_Witcher_3_Wild_Hunt> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/CD_Projekt_Red> .
+<http://videogame-kg.org/ontology#hasGenre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://videogame-kg.org/resource/Pokémon_GoldSilverCrystal> <http://videogame-kg.org/ontology#releaseYear> "1999"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Mario_Kart_8Deluxe> <http://videogame-kg.org/ontology#hasTitle> "Mario Kart 8/Deluxe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Racing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Centipede> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Cyberpunk_2077> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/CD_Projekt> .
+<http://videogame-kg.org/resource/Mario_Kart_Wii> <http://videogame-kg.org/ontology#hasTitle> "Mario Kart Wii"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Infocom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/The_Secret_of_Monkey_Island> <http://videogame-kg.org/ontology#releaseYear> "1990"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Beyond_Good__Evil> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/PS2> .
+<http://videogame-kg.org/resource/Actionadventure> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/MOBA> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/PC> .
+<http://videogame-kg.org/resource/The_Secret_of_Monkey_Island> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Adventure> .
+<http://videogame-kg.org/ontology#salesMillions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://videogame-kg.org/resource/Sony_Computer_Entertainment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/New_Super_Mario_Bros_Wii> <http://videogame-kg.org/ontology#hasTitle> "New Super Mario Bros. Wii"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Action_roleplaying> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Super_NES> .
+<http://videogame-kg.org/resource/Game_Freak> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Baldurs_Gate> <http://videogame-kg.org/ontology#hasTitle> "Baldur's Gate"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Super_Mario_Bros> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Nintendo_RD4> .
+<http://videogame-kg.org/resource/Infinity_Ward> <http://www.w3.org/2000/01/rdf-schema#label> "Infinity Ward"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Pokémon_DiamondPearlPlatinum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Shoot_em_up> <http://www.w3.org/2000/01/rdf-schema#label> "Shoot 'em up"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Asteroids> <http://videogame-kg.org/ontology#hasTitle> "Asteroids"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Final_Fight> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Pokémon_SunMoonUltra_SunUltra_Moon> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/Nintendo_3DS> .
+<http://videogame-kg.org/resource/Vehicle_simulation> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Inc> .
+<http://videogame-kg.org/resource/Origin_Systems> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Pong> <http://videogame-kg.org/ontology#releaseYear> "1972"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Hogwarts_Legacy> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Avalanche_Software> .
+<http://videogame-kg.org/resource/Roguelike> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/MOBA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Call_of_Duty_Black_Ops_III> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Activision> .
+<http://videogame-kg.org/resource/Call_of_Duty_Black_Ops_III> <http://videogame-kg.org/ontology#salesMillions> "43.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/Age_of_Empires_II> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Microsoft> .
+<http://videogame-kg.org/resource/Platform> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Arcade> .
+<http://videogame-kg.org/resource/Batman_Arkham_City> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Rocksteady_Studios> .
+<http://videogame-kg.org/resource/BioShock> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/2K_Boston2K_Australia> .
+<http://videogame-kg.org/resource/Wii_FitPlus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Elden_Ring> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/FromSoftware> .
+<http://videogame-kg.org/resource/Supergiant_Games> <http://www.w3.org/2000/01/rdf-schema#label> "Supergiant Games"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Activision> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Krafton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Pokémon_RedBlueYellow> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Nintendo> .
+<http://videogame-kg.org/resource/Electronic_Arts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Citybuilding> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Maxis> .
+<http://videogame-kg.org/resource/Overwatch> <http://videogame-kg.org/ontology#releaseYear> "2016"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Super_Mario_Bros> <http://videogame-kg.org/ontology#releaseYear> "1985"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Maxis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Ocean_Software> <http://www.w3.org/2000/01/rdf-schema#label> "Ocean Software"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Rocksteady_Studios> <http://www.w3.org/2000/01/rdf-schema#label> "Rocksteady Studios"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Artillery> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Amiga> .
+<http://videogame-kg.org/resource/Alien_Isolation> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/Xbox_360> .
+<http://videogame-kg.org/resource/Black_Myth_Wukong> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Game_Science> .
+<http://videogame-kg.org/resource/Asteroids> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/The_Last_of_UsRemastered> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Naughty_Dog> .
+<http://videogame-kg.org/resource/Game_Boy_Color> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Platform> .
+<http://videogame-kg.org/resource/Super_Mario_Odyssey> <http://videogame-kg.org/ontology#salesMillions> "30.27"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/Nintendo_RD3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Game_Science> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Wii_FitPlus> <http://videogame-kg.org/ontology#hasTitle> "Wii Fit/Plus"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Pokémon_ScarletViolet> <http://videogame-kg.org/ontology#hasTitle> "Pokémon Scarlet/Violet"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Tetris> <http://videogame-kg.org/ontology#hasTitle> "Tetris"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Tactical_roleplaying> <http://videogame-kg.org/ontology#hasTitle> "Tactical role-playing"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Grand_Theft_Auto_V> <http://videogame-kg.org/ontology#releaseYear> "2013"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Don_Rawitsch_Bill_Heinemann_and_Paul_Dillenberger> <http://www.w3.org/2000/01/rdf-schema#label> "Don Rawitsch, Bill Heinemann, and Paul Dillenberger"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Space_Invaders> <http://videogame-kg.org/ontology#releaseYear> "1978"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Westwood_Studios> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Firaxis_Games> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Chucklefish> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Asteroids> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Shoot_em_up> .
+<http://videogame-kg.org/resource/Creative_Assembly> <http://www.w3.org/2000/01/rdf-schema#label> "Creative Assembly"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Company_of_Heroes> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/PC> .
+<http://videogame-kg.org/resource/Ensemble_Studios> <http://www.w3.org/2000/01/rdf-schema#label> "Ensemble Studios"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Action> <http://videogame-kg.org/ontology#hasTitle> "Action"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/MECC> <http://www.w3.org/2000/01/rdf-schema#label> "MECC"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/BioShock> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Firstperson_shooter> .
+<http://videogame-kg.org/resource/Fighting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Day_of_the_Tentacle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Pokémon_ScarletViolet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Final_Fight> <http://videogame-kg.org/ontology#hasTitle> "Final Fight"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Battlefield_1942> <http://videogame-kg.org/ontology#releaseYear> "2002"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/2K_Boston2K_Australia> <http://www.w3.org/2000/01/rdf-schema#label> "2K Boston,2K Australia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Gauntlet> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Atari_Games> .
+<http://videogame-kg.org/resource/Age_of_Empires> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Microsoft> .
+<http://videogame-kg.org/resource/Capcom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Red_Dead_Redemption2> <http://videogame-kg.org/ontology#releaseYear> "2018"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Age_of_Empires> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/PC> .
+<http://videogame-kg.org/resource/Contra> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Arcade> .
+<http://videogame-kg.org/resource/Beyond_Good__Evil> <http://videogame-kg.org/ontology#hasTitle> "Beyond Good & Evil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Wii_USwitch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Platform> .
+<http://videogame-kg.org/resource/Delphine_Software> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/PCMacLinux> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Phasmophobia> <http://videogame-kg.org/ontology#hasTitle> "Phasmophobia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Run_and_gun> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Konami> .
+<http://videogame-kg.org/resource/Kart_racing> <http://videogame-kg.org/ontology#hasTitle> "Kart racing"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Space_Invaders> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Arcade> .
+<http://videogame-kg.org/resource/Puzzleplatform> <http://videogame-kg.org/ontology#hasTitle> "Puzzle-platform"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Infogrames> <http://www.w3.org/2000/01/rdf-schema#label> "Infogrames"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Braid> <http://videogame-kg.org/ontology#hasTitle> "Braid"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Wii_Play> <http://videogame-kg.org/ontology#releaseYear> "2006"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Firstperson_shooter> <http://videogame-kg.org/ontology#hasTitle> "First-person shooter"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Rail_shooter> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Inc> .
+<http://videogame-kg.org/resource/Battlefield_2> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/PC> .
+<http://videogame-kg.org/resource/Burnout_3_Takedown> <http://videogame-kg.org/ontology#hasTitle> "Burnout 3: Takedown"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Cyberpunk_2077> <http://videogame-kg.org/ontology#salesMillions> "35.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/Angry_Birds> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/MaemoiOS> .
+<http://videogame-kg.org/resource/Super_Mario_Bros> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Nintendo> .
+<http://videogame-kg.org/ontology#releaseYear> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Arkanoid> <http://videogame-kg.org/ontology#releaseYear> "1986"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Tower_defense> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Nintendo_RD4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Company_of_Heroes> <http://videogame-kg.org/ontology#hasTitle> "Company of Heroes"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Action> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Platform> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Pokémon_SwordShield> <http://videogame-kg.org/ontology#salesMillions> "27.08"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/Amiga> <http://www.w3.org/2000/01/rdf-schema#label> "Amiga"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Action_roleplaying> <http://videogame-kg.org/ontology#hasTitle> "Action role-playing"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Super_Mario_Bros> <http://videogame-kg.org/ontology#hasTitle> "Super Mario Bros."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Puzzleplatform> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Pokémon_SwordShield> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Game_Freak> .
+<http://videogame-kg.org/resource/Marvels_SpiderManRemastered> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Sony_Interactive_Entertainment> .
+<http://videogame-kg.org/resource/Rhythm> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Sony_Computer_Entertainment> .
+<http://videogame-kg.org/resource/No_Brakes_Games> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Rhythm> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/PlayStation> .
+<http://videogame-kg.org/resource/Rhythm> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/NanaOnSha> .
+<http://videogame-kg.org/resource/CD_Projekt_Red> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/It_Takes_Two> <http://videogame-kg.org/ontology#releaseYear> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/MMORPG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Mario_Kart_8Deluxe> <http://videogame-kg.org/ontology#salesMillions> "79.05"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/LucasArts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Civilization_V> <http://videogame-kg.org/ontology#releaseYear> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Fortnite> <http://videogame-kg.org/ontology#releaseYear> "2017"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Gauntlet> <http://videogame-kg.org/ontology#releaseYear> "1985"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Nintendo_EADNintendo_EPDDeluxe> <http://www.w3.org/2000/01/rdf-schema#label> "Nintendo EAD/Nintendo EPD(Deluxe)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Wii_Sports_Resort> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Nintendo> .
+<http://videogame-kg.org/resource/Pokémon_RedBlueYellow> <http://videogame-kg.org/ontology#hasTitle> "Pokémon Red/Blue/Yellow"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Microsoft> <http://www.w3.org/2000/01/rdf-schema#label> "Microsoft"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/New_Super_Mario_Bros_Wii> <http://videogame-kg.org/ontology#salesMillions> "30.32"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/Space_Invaders> <http://videogame-kg.org/ontology#hasTitle> "Space Invaders"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/New_Super_Mario_Bros> <http://videogame-kg.org/ontology#salesMillions> "30.8"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/Black_Myth_Wukong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Wii_Sports> <http://videogame-kg.org/ontology#releaseYear> "2006"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Mega_Man_2> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Platform> .
+<http://videogame-kg.org/resource/Super_Smash_Bros_Ultimate> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/Nintendo_Switch> .
+<http://videogame-kg.org/resource/Sega> <http://www.w3.org/2000/01/rdf-schema#label> "Sega"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Racing> <http://videogame-kg.org/ontology#hasTitle> "Racing"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/AmigaMac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/David_BrabenandIan_Bell> <http://www.w3.org/2000/01/rdf-schema#label> "David BrabenandIan Bell"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Another_World> <http://videogame-kg.org/ontology#hasTitle> "Another World"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Pokémon_SwordShield> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/NintendoThe_Pokémon_Company> .
+<http://videogame-kg.org/resource/2K_Games> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Mario_Kart_Wii> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Nintendo> .
+<http://videogame-kg.org/resource/Nintendo_RD4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Sports> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/The_Secret_of_Monkey_Island> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Lucasfilm_Games> .
+<http://videogame-kg.org/resource/PlayStation> <http://www.w3.org/2000/01/rdf-schema#label> "PlayStation"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Criterion_Games> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Human_Fall_Flat> <http://videogame-kg.org/ontology#salesMillions> "55.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/Super_Mario_Odyssey> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Nintendo> .
+<http://videogame-kg.org/resource/Grand_Theft_Auto_San_Andreas> <http://videogame-kg.org/ontology#hasTitle> "Grand Theft Auto: San Andreas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/ontology#hasPlatform> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://videogame-kg.org/resource/Disco_Elysium> <http://videogame-kg.org/ontology#releaseYear> "2019"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Roleplaying> <http://videogame-kg.org/ontology#hasTitle> "Role-playing"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Sony_Interactive_Entertainment> <http://www.w3.org/2000/01/rdf-schema#label> "Sony Interactive Entertainment"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/PUBG_Battlegrounds> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/PUBG_Studios> .
+<http://videogame-kg.org/resource/Arcade> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/BioWare> <http://www.w3.org/2000/01/rdf-schema#label> "BioWare"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Maze> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Namco> .
+<http://videogame-kg.org/resource/Amiga> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Baldurs_Gate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Mario_Kart_8Deluxe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Wii_FitPlus> <http://videogame-kg.org/ontology#releaseYear> "2007"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Pong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Shoot_em_up> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Turnbased_strategy> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/PC> .
+<http://videogame-kg.org/resource/New_Super_Mario_Bros> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Nintendo> .
+<http://videogame-kg.org/resource/Borderlands_2> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Action_roleplaying> .
+<http://videogame-kg.org/resource/Elite> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Acornsoft> .
+<http://videogame-kg.org/resource/Citybuilding> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Black_Myth_Wukong> <http://videogame-kg.org/ontology#releaseYear> "2024"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Space_flight_simulator> <http://videogame-kg.org/ontology#hasTitle> "Space flight simulator"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Battlefield_1942> <http://videogame-kg.org/ontology#hasTitle> "Battlefield 1942"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Microsoft_Game_Studios> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Maze> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Arcade> .
+<http://videogame-kg.org/resource/Actionadventure> <http://www.w3.org/2000/01/rdf-schema#label> "Action-adventure"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/AmigaAtari_ST> <http://www.w3.org/2000/01/rdf-schema#label> "Amiga,Atari ST"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Adventure> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Platform> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Nintendo_RD1> .
+<http://videogame-kg.org/resource/MaemoiOS> <http://www.w3.org/2000/01/rdf-schema#label> "Maemo,iOS"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Wii_U> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Platform> .
+<http://videogame-kg.org/resource/Ubisoft> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Treyarch> <http://www.w3.org/2000/01/rdf-schema#label> "Treyarch"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Pokémon_GoldSilverCrystal> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Nintendo> .
+<http://videogame-kg.org/resource/Alien_Isolation> <http://videogame-kg.org/ontology#hasTitle> "Alien: Isolation"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Joust> <http://videogame-kg.org/ontology#hasTitle> "Joust"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Bethesda_Softworks> <http://www.w3.org/2000/01/rdf-schema#label> "Bethesda Softworks"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Duck_Hunt> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/Famicom__NES> .
+<http://videogame-kg.org/resource/Atari_8bitCommodore_64> <http://www.w3.org/2000/01/rdf-schema#label> "Atari 8-bit,Commodore 64"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Turnbased_strategy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Marvels_SpiderManRemastered> <http://videogame-kg.org/ontology#releaseYear> "2018"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Lucasfilm_Games> <http://www.w3.org/2000/01/rdf-schema#label> "Lucasfilm Games"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Epic_Games> <http://www.w3.org/2000/01/rdf-schema#label> "Epic Games"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/PS3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Platform> .
+<http://videogame-kg.org/resource/Tetris> <http://videogame-kg.org/ontology#salesMillions> "520.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/Naughty_Dog> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Burnout_3_Takedown> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/Xbox> .
+<http://videogame-kg.org/resource/Gauntlet> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Arcade> .
+<http://videogame-kg.org/resource/PS4> <http://www.w3.org/2000/01/rdf-schema#label> "PS4"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Thirdperson_shooter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/NES> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Animal_Crossing_New_Horizons> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Nintendo> .
+<http://videogame-kg.org/resource/Mario_Kart_8Deluxe> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/Wii_USwitch> .
+<http://videogame-kg.org/resource/Firstperson_shooter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Square> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Beat_em_up> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Arcade> .
+<http://videogame-kg.org/resource/Nintendo_RD1> <http://www.w3.org/2000/01/rdf-schema#label> "Nintendo R&D1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Namco> <http://www.w3.org/2000/01/rdf-schema#label> "Namco"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Thirdperson_shooter> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/PC> .
+<http://videogame-kg.org/resource/Garrys_Mod> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/PC> .
+<http://videogame-kg.org/resource/Dishonored_2> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Stealth> .
+<http://videogame-kg.org/ontology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
+<http://videogame-kg.org/resource/PDP10> <http://www.w3.org/2000/01/rdf-schema#label> "PDP-10"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Red_Dead_Redemption2> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Rockstar_Games> .
+<http://videogame-kg.org/ontology#releaseYear> <http://www.w3.org/2000/01/rdf-schema#domain> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Mario_Kart_Wii> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/Wii> .
+<http://videogame-kg.org/resource/Wii_Sports> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Nintendo> .
+<http://videogame-kg.org/resource/Nintendo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/ontology#hasPlatform> <http://www.w3.org/2000/01/rdf-schema#domain> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Run_and_gun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Call_of_Duty_Modern_Warfare_3> <http://videogame-kg.org/ontology#hasTitle> "Call of Duty: Modern Warfare 3"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Super_Mario_Odyssey> <http://videogame-kg.org/ontology#hasTitle> "Super Mario Odyssey"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/ZAUM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/FromSoftware> <http://www.w3.org/2000/01/rdf-schema#label> "FromSoftware"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Dishonored_2> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Bethesda_Softworks> .
+<http://videogame-kg.org/resource/Age_of_Empires_II> <http://videogame-kg.org/ontology#releaseYear> "1999"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Platform> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Nintendo> .
+<http://videogame-kg.org/resource/Thirdperson_shooter> <http://www.w3.org/2000/01/rdf-schema#label> "Third-person shooter"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/MaemoiOS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/Maddy_Makes_Games> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/The_Witcher_3_Wild_Hunt> <http://videogame-kg.org/ontology#salesMillions> "60.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/Baldurs_Gate_II_Shadows_of_Amn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/PUBG_Studios> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Arkanoid> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Taito> .
+<http://videogame-kg.org/resource/Tower_defense> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/PCMac> .
+<http://videogame-kg.org/resource/Another_World> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Platform> .
+<http://videogame-kg.org/resource/PCMacLinux> <http://www.w3.org/2000/01/rdf-schema#label> "PC,Mac,Linux"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/MMORPG> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Origin_Systems> .
+<http://videogame-kg.org/resource/Riot_Games> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Marvels_SpiderManRemastered> <http://videogame-kg.org/ontology#hasTitle> "Marvel's Spider-Man/Remastered"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Civilization_II> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/The_Last_of_UsRemastered> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Life_simulation> <http://videogame-kg.org/ontology#hasTitle> "Life simulation"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/God_game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Farm_life_simulation> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Chucklefish> .
+<http://videogame-kg.org/resource/Human_Fall_Flat> <http://videogame-kg.org/ontology#hasTitle> "Human: Fall Flat"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/ontology#Developer> <http://www.w3.org/2000/01/rdf-schema#label> "Developer" .
+<http://videogame-kg.org/resource/ReLogic505_Games> <http://www.w3.org/2000/01/rdf-schema#label> "Re-Logic/505 Games"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/PC> <http://www.w3.org/2000/01/rdf-schema#label> "PC"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Atari_2600> <http://www.w3.org/2000/01/rdf-schema#label> "Atari 2600"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/ontology#developedBy> <http://www.w3.org/2002/07/owl#inverseOf> <http://videogame-kg.org/ontology#hasDeveloper> .
+<http://videogame-kg.org/resource/Mega_Man_2> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Capcom> .
+<http://videogame-kg.org/resource/Grand_Theft_Auto_V> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Rockstar_North> .
+<http://videogame-kg.org/resource/Firstperson_shooter> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/PC> .
+<http://videogame-kg.org/resource/Roleplaying> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/SirTech> .
+<http://videogame-kg.org/resource/Call_of_Duty_Modern_Warfare_3> <http://videogame-kg.org/ontology#salesMillions> "26.5"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://videogame-kg.org/resource/Call_of_Duty_Modern_Warfare> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Activision> .
+<http://videogame-kg.org/resource/Realtime_strategy> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Westwood_Studios> .
+<http://videogame-kg.org/resource/Angry_Birds> <http://videogame-kg.org/ontology#hasTitle> "Angry Birds"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Square> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Kart_racing> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Nintendo_EAD> .
+<http://videogame-kg.org/resource/Daytona_USA> <http://videogame-kg.org/ontology#hasTitle> "Daytona USA"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Cyberpunk_2077> <http://videogame-kg.org/ontology#releaseYear> "2020"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Elden_Ring> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Bandai_Namco> .
+<http://videogame-kg.org/resource/Vehicle_simulation> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Arcade> .
+<http://videogame-kg.org/resource/Centipede> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Arcade> .
+<http://videogame-kg.org/resource/Technōs_Japan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Elite> <http://videogame-kg.org/ontology#releaseYear> "1984"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Arcade> <http://www.w3.org/2000/01/rdf-schema#label> "Arcade"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Beat_em_up> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Braid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/New_Super_Mario_Bros_Wii> <http://videogame-kg.org/ontology#releaseYear> "2009"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Firstperson_shooter> <http://www.w3.org/2000/01/rdf-schema#label> "First-person shooter"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Relic_Entertainment> <http://www.w3.org/2000/01/rdf-schema#label> "Relic Entertainment"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Sega> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Publisher> .
+<http://videogame-kg.org/resource/PlayStation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Developer> .
+<http://videogame-kg.org/resource/Battlefield_2> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Digital_Illusions_CE> .
+<http://videogame-kg.org/resource/Vid_Kidz> <http://www.w3.org/2000/01/rdf-schema#label> "Vid Kidz"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/HP_2100> <http://www.w3.org/2000/01/rdf-schema#label> "HP 2100"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Stealth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/ontology#hasGenre> <http://www.w3.org/2000/01/rdf-schema#domain> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Beyond_Good__Evil> <http://videogame-kg.org/ontology#releaseYear> "2003"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Burnout_3_Takedown> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/PS2> .
+<http://videogame-kg.org/resource/Mojang_Studios> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Mega_Man_2> <http://videogame-kg.org/ontology#hasTitle> "Mega Man 2"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Rhythm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Game> .
+<http://videogame-kg.org/resource/Survival_horror> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://videogame-kg.org/ontology#Genre> .
+<http://videogame-kg.org/resource/Gathering_of_Developers> <http://www.w3.org/2000/01/rdf-schema#label> "Gathering of Developers"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://videogame-kg.org/resource/Action_roleplaying> <http://videogame-kg.org/ontology#hasGenre> <http://videogame-kg.org/resource/Square> .
+<http://videogame-kg.org/resource/Final_Fight> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/Arcade> .
+<http://videogame-kg.org/resource/Baldurs_Gate_3> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/Larian_Studios> .
+<http://videogame-kg.org/resource/Tactical_roleplaying> <http://videogame-kg.org/ontology#hasDeveloper> <http://videogame-kg.org/resource/PlayStation> .
+<http://videogame-kg.org/resource/Wii_Sports> <http://videogame-kg.org/ontology#hasPlatform> <http://videogame-kg.org/resource/Wii> .
+<http://videogame-kg.org/resource/Civilization_II> <http://videogame-kg.org/ontology#hasPublisher> <http://videogame-kg.org/resource/PC> .
+<http://videogame-kg.org/resource/Baldurs_Gate> <http://videogame-kg.org/ontology#releaseYear> "1998"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://videogame-kg.org/resource/Burnout_3_Takedown> <http://videogame-kg.org/ontology#releaseYear> "2004"^^<http://www.w3.org/2001/XMLSchema#gYear> .

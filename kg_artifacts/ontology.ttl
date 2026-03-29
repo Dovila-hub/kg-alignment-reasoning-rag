@@ -1,0 +1,55 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix vg: <http://videogame-kg.org/ontology#> .
+
+<http://videogame-kg.org/ontology> a owl:Ontology ;
+    rdfs:label "Video Game Knowledge Graph Ontology" .
+
+vg:Game a owl:Class ;
+    rdfs:label "Game" .
+
+vg:Developer a owl:Class ;
+    rdfs:label "Developer" .
+
+vg:Publisher a owl:Class ;
+    rdfs:label "Publisher" .
+
+vg:Platform a owl:Class ;
+    rdfs:label "Platform" .
+
+vg:Genre a owl:Class ;
+    rdfs:label "Genre" .
+
+vg:hasTitle a owl:DatatypeProperty ;
+    rdfs:domain vg:Game ;
+    rdfs:range xsd:string .
+
+vg:releaseYear a owl:DatatypeProperty ;
+    rdfs:domain vg:Game ;
+    rdfs:range xsd:gYear .
+
+vg:salesMillions a owl:DatatypeProperty ;
+    rdfs:domain vg:Game ;
+    rdfs:range xsd:float .
+
+vg:hasDeveloper a owl:ObjectProperty ;
+    rdfs:domain vg:Game ;
+    rdfs:range vg:Developer .
+
+vg:hasPublisher a owl:ObjectProperty ;
+    rdfs:domain vg:Game ;
+    rdfs:range vg:Publisher .
+
+vg:hasPlatform a owl:ObjectProperty ;
+    rdfs:domain vg:Game ;
+    rdfs:range vg:Platform .
+
+vg:hasGenre a owl:ObjectProperty ;
+    rdfs:domain vg:Game ;
+    rdfs:range vg:Genre .
+
+vg:developedBy owl:inverseOf vg:hasDeveloper .
+
+vg:publishedBy owl:inverseOf vg:hasPublisher .

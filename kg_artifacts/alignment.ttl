@@ -1,0 +1,48 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix vgr: <http://videogame-kg.org/resource/> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+vgr:50 rdfs:label "50"^^xsd:string ;
+    owl:sameAs wd:Q122826338 .
+
+vgr:Animal_Crossing_New_Horizons rdfs:label "Animal Crossing: New Horizons"^^xsd:string ;
+    owl:sameAs wd:Q64566657 .
+
+vgr:Apogee_Software rdfs:label "Apogee Software"^^xsd:string ;
+    owl:sameAs wd:Q2858431 .
+
+vgr:Avalanche_Software rdfs:label "Avalanche Software"^^xsd:string ;
+    owl:sameAs wd:Q660990 .
+
+vgr:Ensemble_Studios rdfs:label "Ensemble Studios"^^xsd:string ;
+    owl:sameAs wd:Q308913 .
+
+vgr:Hazelight_Studios rdfs:label "Hazelight Studios"^^xsd:string ;
+    owl:sameAs wd:Q60354586 .
+
+vgr:Human_Fall_Flat rdfs:label "Human: Fall Flat"^^xsd:string ;
+    owl:sameAs wd:Q43541160 .
+
+vgr:Overwatch rdfs:label "Overwatch"^^xsd:string ;
+    owl:sameAs wd:Q18515944 .
+
+vgr:Super_Mario_Bros rdfs:label "Super Mario Bros."^^xsd:string ;
+    owl:sameAs wd:Q11168 .
+
+vgr:Terraria rdfs:label "Terraria"^^xsd:string ;
+    owl:sameAs wd:Q332697 .
+
+vgr:Tetris rdfs:label "Tetris"^^xsd:string ;
+    owl:sameAs wd:Q71910 .
+
+vgr:The_Witcher_3_Wild_Hunt rdfs:label "The Witcher 3: Wild Hunt"^^xsd:string ;
+    owl:sameAs wd:Q4267401 .
+
+vgr:Treyarch rdfs:label "Treyarch"^^xsd:string ;
+    owl:sameAs wd:Q382543 .
+
+vgr:Wii_Sports rdfs:label "Wii Sports"^^xsd:string ;
+    owl:sameAs wd:Q71936 .
+
