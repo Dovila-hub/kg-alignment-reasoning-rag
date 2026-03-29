@@ -1,4 +1,4 @@
-cat > README.md << 'README'
+
 # Knowledge Graph Construction · Alignment · Reasoning & KGE · RAG
 
 **Project done by Alida Dovila Zogo Kanda Longmis — Master 1, Web Data Mining and Semantics**
