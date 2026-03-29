@@ -22,7 +22,7 @@ def run(model_name, train_tf, valid_tf, test_tf, epochs=100):
         random_seed=42,
     )
 
-    # Navigate the correct nested structure: both → realistic → metric
+    # Navigate the correct nested structure:
     both_realistic = result.metric_results.to_dict()["both"]["realistic"]
 
     mrr = both_realistic.get("inverse_harmonic_mean_rank", 0.0)
@@ -68,7 +68,7 @@ def main():
     print(f"   Test  triples: {test_tf.num_triples}")
 
     all_results = []
-    for model in ["TransE", "DistMult"]:
+    for model in ["TransE", "DistMult","RotatE","ComplEx"]:
         r = run(model, train_tf, valid_tf, test_tf, epochs=100)
         all_results.append(r)
 
