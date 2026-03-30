@@ -131,4 +131,3 @@ kg-alignment-reasoning-rag/
 ├── requirements.txt
 └── README.md
 ```
-README
